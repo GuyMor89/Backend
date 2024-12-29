@@ -2708,3 +2708,28 @@
 29.12.2024, 3:32:24 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":null,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735430406/kyfpreupalklpn72zzz3.png"} 
 29.12.2024, 3:39:32 - INFO - server.js loaded... 
 29.12.2024, 3:39:32 - INFO - Server is running on port: 3030 
+29.12.2024, 3:43:23 - INFO - server.js loaded... 
+29.12.2024, 3:43:23 - INFO - Server is running on port: 3030 
+29.12.2024, 4:01:50 - DEBUG - auth.service - signup with username: testing, fullname: Testing 
+29.12.2024, 4:01:50 - DEBUG - auth.route - new account created: {"username":"testing","password":"$2b$10$yuYN.R0Rq5eaGec66PCt7Ox9iRzXUSyRncGXEtdvY0IMBeD5wgMVa","fullname":"Testing","score":0,"_id":"67709f7e1be20dfa69aaf6a5"} 
+29.12.2024, 4:01:50 - DEBUG - auth.service - login with username: testing 
+29.12.2024, 4:02:48 - INFO - server.js loaded... 
+29.12.2024, 4:02:48 - INFO - Server is running on port: 3030 
+29.12.2024, 4:02:55 - INFO - Req was made | / 
+29.12.2024, 4:03:24 - INFO - Req was made | / 
+29.12.2024, 4:03:44 - INFO - Req was made | / 
+29.12.2024, 4:03:53 - DEBUG - auth.service - signup with username: testing, fullname: Testing 
+29.12.2024, 4:03:53 - DEBUG - auth.route - new account created: {"username":"testing","password":"$2b$10$z2IeaIG2h9hjIodMxN0Zhu.P6S6WGkZnnhpw86Ujb.yRM88SmvK4O","fullname":"Testing","score":0,"_id":"67709ff91357c54c9b86e3ad"} 
+29.12.2024, 4:03:53 - DEBUG - auth.service - login with username: testing 
+29.12.2024, 4:04:05 - INFO - Req was made | / 
+29.12.2024, 4:04:14 - INFO - Req was made | / 
+29.12.2024, 4:04:14 - INFO - Req was made | / 
+29.12.2024, 4:04:17 - INFO - Req was made | / 
+29.12.2024, 4:04:56 - DEBUG - auth.service - signup with username: testing2, fullname: Testing2 
+29.12.2024, 4:04:56 - DEBUG - auth.route - new account created: {"username":"testing2","password":"$2b$10$ubl9C5d7Fe0Muy3ix8C8oOzU8irR3w6Obr.wGulU3oVwyyqKGS0v2","fullname":"Testing2","score":0,"_id":"6770a0381357c54c9b86e3ae"} 
+29.12.2024, 4:04:56 - DEBUG - auth.service - login with username: testing2 
+29.12.2024, 4:06:44 - DEBUG - auth.service - signup with username: testing3, fullname: Testing3 
+29.12.2024, 4:06:44 - DEBUG - auth.route - new account created: {"username":"testing3","password":"$2b$10$ucR0IYyzzbp1gpTANApFnuMKgmVOJIPINmcCX0qyvQQxtnMh4oDWC","fullname":"Testing3","score":0,"_id":"6770a0a41357c54c9b86e3af"} 
+29.12.2024, 4:06:44 - DEBUG - auth.service - login with username: testing3 
+29.12.2024, 4:13:37 - INFO - server.js loaded... 
+29.12.2024, 4:13:37 - INFO - Server is running on port: 3030 
