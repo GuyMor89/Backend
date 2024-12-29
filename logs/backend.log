@@ -1,0 +1,2708 @@
+13.12.2024, 2:00:41 - INFO - server.js loaded... 
+13.12.2024, 2:00:41 - INFO - Server is running on port: 3030 
+13.12.2024, 2:00:47 - INFO - server.js loaded... 
+13.12.2024, 2:00:47 - INFO - Server is running on port: 3030 
+13.12.2024, 2:01:08 - INFO - server.js loaded... 
+13.12.2024, 2:01:08 - INFO - Server is running on port: 3030 
+13.12.2024, 2:01:14 - INFO - server.js loaded... 
+13.12.2024, 2:01:14 - INFO - Server is running on port: 3030 
+13.12.2024, 2:02:45 - INFO - Req was made | / 
+13.12.2024, 2:02:47 - INFO - Req was made | / 
+13.12.2024, 2:03:06 - INFO - Req was made | / 
+13.12.2024, 2:03:53 - INFO - Req was made | / 
+13.12.2024, 2:03:57 - DEBUG - auth.service - login with username: admin 
+13.12.2024, 2:03:57 - ERROR - Failed to Login Error: Invalid username or password 
+13.12.2024, 2:05:43 - INFO - Req was made | / 
+13.12.2024, 2:05:45 - DEBUG - auth.service - login with username: admin 
+13.12.2024, 2:05:45 - ERROR - Failed to Login Error: Invalid username or password 
+13.12.2024, 2:05:48 - DEBUG - auth.service - login with username: admin 
+13.12.2024, 2:05:48 - ERROR - Failed to Login Error: Invalid username or password 
+13.12.2024, 2:06:21 - INFO - server.js loaded... 
+13.12.2024, 2:06:21 - INFO - Server is running on port: 3030 
+13.12.2024, 2:06:24 - INFO - Req was made | / 
+13.12.2024, 2:07:15 - INFO - server.js loaded... 
+13.12.2024, 2:07:15 - INFO - Server is running on port: 3030 
+13.12.2024, 2:07:18 - DEBUG - auth.service - login with username: admin 
+13.12.2024, 2:07:18 - ERROR - Failed to Login Error: Invalid username or password 
+13.12.2024, 2:07:25 - INFO - server.js loaded... 
+13.12.2024, 2:07:26 - INFO - Server is running on port: 3030 
+13.12.2024, 2:07:27 - DEBUG - auth.service - login with username: admin 
+13.12.2024, 2:07:27 - ERROR - Failed to Login Error: Invalid username or password 
+13.12.2024, 2:08:09 - INFO - server.js loaded... 
+13.12.2024, 2:08:09 - INFO - Server is running on port: 3030 
+13.12.2024, 2:08:10 - INFO - Req was made | / 
+13.12.2024, 2:08:13 - DEBUG - auth.service - login with username: admin 
+13.12.2024, 2:08:13 - ERROR - Failed to Login Error: Invalid username or password 
+13.12.2024, 2:08:19 - INFO - server.js loaded... 
+13.12.2024, 2:08:19 - INFO - Server is running on port: 3030 
+13.12.2024, 2:08:20 - DEBUG - auth.service - login with username: admin 
+13.12.2024, 2:08:20 - ERROR - Failed to Login Error: Invalid username or password 
+13.12.2024, 2:10:10 - INFO - server.js loaded... 
+13.12.2024, 2:10:10 - INFO - Server is running on port: 3030 
+13.12.2024, 2:10:11 - DEBUG - auth.service - login with username: admin 
+13.12.2024, 2:10:11 - ERROR - Failed to Login Error: Invalid username or password 
+13.12.2024, 2:10:20 - INFO - server.js loaded... 
+13.12.2024, 2:10:20 - INFO - Server is running on port: 3030 
+13.12.2024, 2:10:21 - DEBUG - auth.service - login with username: admin 
+13.12.2024, 2:10:21 - ERROR - Failed to Login Error: Invalid username or password 
+13.12.2024, 2:10:29 - INFO - server.js loaded... 
+13.12.2024, 2:10:29 - INFO - Server is running on port: 3030 
+13.12.2024, 2:10:57 - DEBUG - auth.service - signup with username: admin2, fullname: Admin 
+13.12.2024, 2:10:58 - DEBUG - auth.route - new account created: {"username":"admin2","password":"$2b$10$kcqmIR9Ad8/bq7ZMgxqcx.DhjwwsO2hl/TSvEMuVID2APK2mfhhFy","fullname":"Admin","score":0,"_id":"675b6d8264266bfb23b2a981"} 
+13.12.2024, 2:10:58 - DEBUG - auth.service - login with username: undefined 
+13.12.2024, 2:10:58 - ERROR - Failed to signup Error: Invalid username or password 
+13.12.2024, 2:12:50 - DEBUG - auth.service - login with username: admin2 
+13.12.2024, 2:12:50 - INFO - User login:  | {"_id":"675b6d8264266bfb23b2a981","username":"admin2","fullname":"Admin","score":0} 
+13.12.2024, 2:13:07 - INFO - Req was made | / 
+13.12.2024, 2:13:25 - INFO - Req was made | / 
+13.12.2024, 2:13:36 - DEBUG - auth.service - login with username: admin 
+13.12.2024, 2:13:36 - ERROR - Failed to Login Error: Invalid username or password 
+13.12.2024, 2:13:41 - DEBUG - auth.service - login with username: admin2 
+13.12.2024, 2:13:41 - INFO - User login:  | {"_id":"675b6d8264266bfb23b2a981","username":"admin2","fullname":"Admin","score":0} 
+13.12.2024, 2:14:58 - DEBUG - auth.service - login with username: admin 
+13.12.2024, 2:14:58 - ERROR - Failed to Login Error: Invalid username or password 
+13.12.2024, 2:15:55 - DEBUG - auth.service - signup with username: admin, fullname: Admin 
+13.12.2024, 2:15:55 - DEBUG - auth.service - login with username: undefined 
+13.12.2024, 2:15:55 - DEBUG - auth.route - new account created: {"username":"admin","password":"$2b$10$RgA0N1ixDpST0qDGVn3Yk.oL0KUDhh9RS2CNGGEmabt0q7pLDjNDS","fullname":"Admin","score":0,"_id":"675b6eab64266bfb23b2a982"} 
+13.12.2024, 2:15:55 - ERROR - Failed to signup Error: Invalid username or password 
+13.12.2024, 2:16:34 - DEBUG - auth.service - signup with username: admin, fullname: Admin 
+13.12.2024, 2:16:34 - ERROR - cannot insert user | Error: Username taken 
+13.12.2024, 2:16:34 - ERROR - Failed to signup Error: Username taken 
+13.12.2024, 2:16:40 - DEBUG - auth.service - login with username: admin 
+13.12.2024, 2:16:40 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0} 
+13.12.2024, 2:19:04 - INFO - server.js loaded... 
+13.12.2024, 2:19:04 - INFO - Server is running on port: 3030 
+13.12.2024, 2:19:17 - DEBUG - auth.service - signup with username: boobi, fullname: Boobi 
+13.12.2024, 2:19:17 - DEBUG - auth.route - new account created: {"username":"boobi","password":"$2b$10$nkXJ2Ii5iRfnayomf2sWzeiBLXp27KI/LIr2BrbGTA37pc9h3HoKO","fullname":"Boobi","score":0,"_id":"675b6f752a01b8b138afc30c"} 
+13.12.2024, 2:19:17 - DEBUG - auth.service - login with username: undefined 
+13.12.2024, 2:19:17 - ERROR - Failed to signup Error: Invalid username or password 
+13.12.2024, 2:19:49 - INFO - server.js loaded... 
+13.12.2024, 2:19:49 - INFO - Server is running on port: 3030 
+13.12.2024, 2:19:58 - DEBUG - auth.service - signup with username: boobi, fullname: Boobi 
+13.12.2024, 2:19:58 - DEBUG - auth.route - new account created: {"username":"boobi","password":"$2b$10$KSKouyL6jzxlSQNPomBYbOnrlJYaiof5d9Yd/JYM2Mcs3P.6uof.W","fullname":"Boobi","score":0,"_id":"675b6f9ee283a0234f84d6df"} 
+13.12.2024, 2:19:58 - DEBUG - auth.service - login with username: boobi 
+13.12.2024, 2:20:06 - INFO - Req was made | / 
+13.12.2024, 2:20:14 - INFO - Req was made | / 
+13.12.2024, 2:20:18 - INFO - Req was made | / 
+13.12.2024, 2:20:41 - DEBUG - auth.service - login with username: admin 
+13.12.2024, 2:20:41 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0} 
+13.12.2024, 2:24:34 - INFO - server.js loaded... 
+13.12.2024, 2:24:34 - INFO - Server is running on port: 3030 
+13.12.2024, 2:25:01 - INFO - server.js loaded... 
+13.12.2024, 2:25:01 - INFO - Server is running on port: 3030 
+13.12.2024, 2:25:23 - INFO - server.js loaded... 
+13.12.2024, 2:25:23 - INFO - Server is running on port: 3030 
+13.12.2024, 2:25:43 - INFO - server.js loaded... 
+13.12.2024, 2:25:43 - INFO - Server is running on port: 3030 
+13.12.2024, 2:25:46 - INFO - server.js loaded... 
+13.12.2024, 2:25:46 - INFO - Server is running on port: 3030 
+13.12.2024, 2:25:47 - INFO - server.js loaded... 
+13.12.2024, 2:25:47 - INFO - Server is running on port: 3030 
+13.12.2024, 2:25:50 - INFO - server.js loaded... 
+13.12.2024, 2:25:50 - INFO - Server is running on port: 3030 
+13.12.2024, 2:25:54 - INFO - server.js loaded... 
+13.12.2024, 2:25:54 - INFO - Server is running on port: 3030 
+13.12.2024, 2:26:00 - INFO - server.js loaded... 
+13.12.2024, 2:26:00 - INFO - Server is running on port: 3030 
+13.12.2024, 2:26:07 - INFO - server.js loaded... 
+13.12.2024, 2:26:07 - INFO - Server is running on port: 3030 
+13.12.2024, 2:26:14 - INFO - server.js loaded... 
+13.12.2024, 2:26:14 - INFO - Server is running on port: 3030 
+13.12.2024, 2:26:19 - INFO - server.js loaded... 
+13.12.2024, 2:26:19 - INFO - Server is running on port: 3030 
+13.12.2024, 2:26:58 - INFO - server.js loaded... 
+13.12.2024, 2:26:58 - INFO - Server is running on port: 3030 
+13.12.2024, 2:40:03 - INFO - Req was made | / 
+13.12.2024, 2:44:52 - ERROR - while finding toy WdVQc | TypeError: toy._id.getTimestamp is not a function 
+13.12.2024, 2:44:52 - ERROR - Failed to get toy | TypeError: toy._id.getTimestamp is not a function 
+13.12.2024, 2:45:01 - INFO - Req was made | / 
+13.12.2024, 2:45:09 - INFO - Req was made | / 
+13.12.2024, 3:43:22 - INFO - server.js loaded... 
+13.12.2024, 3:43:22 - INFO - Server is running on port: 3030 
+13.12.2024, 3:43:40 - INFO - server.js loaded... 
+13.12.2024, 3:43:40 - INFO - Server is running on port: 3030 
+13.12.2024, 3:44:27 - INFO - server.js loaded... 
+13.12.2024, 3:44:27 - INFO - Server is running on port: 3030 
+13.12.2024, 3:44:48 - INFO - Server is running on port: 3030 
+13.12.2024, 3:44:48 - INFO - server.js loaded... 
+13.12.2024, 3:44:54 - DEBUG - auth.service - login with username: admin 
+13.12.2024, 3:44:54 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0} 
+13.12.2024, 3:45:00 - INFO - Req was made | / 
+13.12.2024, 3:46:13 - INFO - Req was made | / 
+13.12.2024, 3:48:17 - INFO - Req was made | / 
+13.12.2024, 3:48:52 - INFO - server.js loaded... 
+13.12.2024, 3:48:52 - INFO - Server is running on port: 3030 
+13.12.2024, 3:48:53 - INFO - Req was made | / 
+13.12.2024, 3:49:17 - INFO - server.js loaded... 
+13.12.2024, 3:49:17 - INFO - Server is running on port: 3030 
+13.12.2024, 3:49:39 - INFO - server.js loaded... 
+13.12.2024, 3:49:39 - INFO - Server is running on port: 3030 
+13.12.2024, 3:50:11 - INFO - server.js loaded... 
+13.12.2024, 3:50:11 - INFO - Server is running on port: 3030 
+13.12.2024, 3:50:12 - INFO - Req was made | / 
+13.12.2024, 3:50:39 - INFO - server.js loaded... 
+13.12.2024, 3:50:39 - INFO - Server is running on port: 3030 
+13.12.2024, 3:50:42 - INFO - Req was made | / 
+13.12.2024, 3:50:51 - INFO - server.js loaded... 
+13.12.2024, 3:50:51 - INFO - Server is running on port: 3030 
+13.12.2024, 3:52:19 - INFO - server.js loaded... 
+13.12.2024, 3:52:19 - INFO - Server is running on port: 3030 
+13.12.2024, 3:52:20 - INFO - Req was made | / 
+13.12.2024, 3:52:42 - ERROR - while finding toy WdVQc | TypeError: toy._id.getTimestamp is not a function 
+13.12.2024, 3:52:42 - ERROR - Failed to get toy | TypeError: toy._id.getTimestamp is not a function 
+13.12.2024, 3:53:32 - INFO - server.js loaded... 
+13.12.2024, 3:53:32 - INFO - Server is running on port: 3030 
+13.12.2024, 3:53:39 - ERROR - while finding toy WdVQc | TypeError: toy._id.getTimestamp is not a function 
+13.12.2024, 3:53:39 - ERROR - Failed to get toy | TypeError: toy._id.getTimestamp is not a function 
+13.12.2024, 4:00:17 - INFO - server.js loaded... 
+13.12.2024, 4:00:17 - INFO - Server is running on port: 3030 
+13.12.2024, 4:00:20 - INFO - Req was made | / 
+13.12.2024, 4:00:21 - ERROR - Failed to get toys | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+13.12.2024, 4:02:02 - INFO - server.js loaded... 
+13.12.2024, 4:02:02 - INFO - Server is running on port: 3030 
+13.12.2024, 4:02:04 - INFO - Req was made | / 
+13.12.2024, 4:02:04 - ERROR - Failed to get toys | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+13.12.2024, 4:02:12 - INFO - server.js loaded... 
+13.12.2024, 4:02:12 - INFO - Server is running on port: 3030 
+13.12.2024, 4:02:13 - INFO - Req was made | / 
+13.12.2024, 4:02:19 - INFO - server.js loaded... 
+13.12.2024, 4:02:19 - INFO - Server is running on port: 3030 
+13.12.2024, 4:02:20 - INFO - Req was made | / 
+13.12.2024, 4:02:20 - ERROR - Failed to get toys | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+13.12.2024, 4:02:32 - INFO - server.js loaded... 
+13.12.2024, 4:02:32 - INFO - Server is running on port: 3030 
+13.12.2024, 4:02:33 - INFO - Req was made | / 
+13.12.2024, 4:02:33 - ERROR - Failed to get toys | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+13.12.2024, 4:03:24 - INFO - server.js loaded... 
+13.12.2024, 4:03:24 - INFO - Server is running on port: 3030 
+13.12.2024, 4:03:28 - INFO - Req was made | / 
+13.12.2024, 4:03:28 - ERROR - Failed to get toys | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+13.12.2024, 4:06:42 - INFO - server.js loaded... 
+13.12.2024, 4:06:42 - INFO - Server is running on port: 3030 
+13.12.2024, 4:06:44 - INFO - Req was made | / 
+13.12.2024, 4:07:15 - INFO - server.js loaded... 
+13.12.2024, 4:07:15 - INFO - Server is running on port: 3030 
+13.12.2024, 4:07:16 - INFO - Req was made | / 
+13.12.2024, 4:07:31 - INFO - Req was made | / 
+13.12.2024, 4:07:46 - INFO - server.js loaded... 
+13.12.2024, 4:07:46 - INFO - Server is running on port: 3030 
+13.12.2024, 4:07:48 - INFO - Req was made | / 
+13.12.2024, 4:09:11 - INFO - Req was made | / 
+13.12.2024, 4:09:38 - INFO - server.js loaded... 
+13.12.2024, 4:09:38 - INFO - Server is running on port: 3030 
+13.12.2024, 4:09:40 - INFO - Req was made | / 
+13.12.2024, 4:09:46 - INFO - server.js loaded... 
+13.12.2024, 4:09:47 - INFO - Server is running on port: 3030 
+13.12.2024, 4:10:06 - INFO - server.js loaded... 
+13.12.2024, 4:10:06 - INFO - Server is running on port: 3030 
+13.12.2024, 4:10:07 - INFO - Req was made | / 
+13.12.2024, 4:10:12 - DEBUG - auth.service - login with username: admin 
+13.12.2024, 4:10:13 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0} 
+13.12.2024, 4:11:00 - INFO - server.js loaded... 
+13.12.2024, 4:11:00 - INFO - Server is running on port: 3030 
+13.12.2024, 4:11:04 - DEBUG - auth.service - login with username: admin 
+13.12.2024, 4:11:04 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+13.12.2024, 4:11:08 - INFO - server.js loaded... 
+13.12.2024, 4:11:08 - INFO - Server is running on port: 3030 
+13.12.2024, 4:11:12 - INFO - Req was made | / 
+13.12.2024, 4:11:13 - INFO - Req was made | / 
+13.12.2024, 4:11:14 - INFO - Req was made | / 
+13.12.2024, 4:11:15 - INFO - Req was made | / 
+13.12.2024, 4:11:17 - INFO - Req was made | / 
+13.12.2024, 4:11:17 - INFO - Req was made | / 
+13.12.2024, 4:11:45 - INFO - server.js loaded... 
+13.12.2024, 4:11:45 - INFO - Server is running on port: 3030 
+13.12.2024, 4:11:47 - INFO - Req was made | / 
+13.12.2024, 4:11:51 - INFO - server.js loaded... 
+13.12.2024, 4:11:51 - INFO - Server is running on port: 3030 
+13.12.2024, 4:11:51 - INFO - Req was made | / 
+13.12.2024, 4:11:53 - INFO - Req was made | / 
+13.12.2024, 4:11:56 - INFO - Req was made | / 
+13.12.2024, 4:11:57 - INFO - Req was made | / 
+13.12.2024, 4:11:58 - INFO - Req was made | / 
+13.12.2024, 4:12:30 - INFO - server.js loaded... 
+13.12.2024, 4:12:30 - INFO - Server is running on port: 3030 
+13.12.2024, 4:12:32 - INFO - Req was made | / 
+13.12.2024, 4:12:33 - INFO - Req was made | / 
+13.12.2024, 4:12:34 - INFO - Req was made | / 
+13.12.2024, 4:12:35 - INFO - Req was made | / 
+13.12.2024, 4:12:35 - INFO - Req was made | / 
+13.12.2024, 4:12:45 - INFO - Req was made | / 
+13.12.2024, 4:12:50 - INFO - Req was made | / 
+13.12.2024, 4:13:12 - INFO - server.js loaded... 
+13.12.2024, 4:13:12 - INFO - Server is running on port: 3030 
+13.12.2024, 4:13:14 - INFO - Req was made | / 
+13.12.2024, 4:13:16 - INFO - Req was made | / 
+13.12.2024, 4:13:46 - INFO - Req was made | / 
+13.12.2024, 4:13:59 - INFO - Req was made | / 
+13.12.2024, 4:14:05 - INFO - Server is running on port: 3030 
+13.12.2024, 4:14:05 - INFO - server.js loaded... 
+13.12.2024, 4:14:30 - INFO - server.js loaded... 
+13.12.2024, 4:14:30 - INFO - Server is running on port: 3030 
+13.12.2024, 4:14:31 - INFO - Req was made | / 
+13.12.2024, 4:14:32 - INFO - Req was made | / 
+13.12.2024, 4:14:34 - INFO - Req was made | / 
+13.12.2024, 4:14:36 - INFO - Req was made | / 
+13.12.2024, 4:14:37 - INFO - Req was made | / 
+13.12.2024, 4:14:53 - INFO - server.js loaded... 
+13.12.2024, 4:14:53 - INFO - Server is running on port: 3030 
+13.12.2024, 4:14:59 - INFO - Req was made | / 
+13.12.2024, 4:15:05 - ERROR - cannot find users | TypeError: user._id.getTimestamp is not a function 
+13.12.2024, 4:15:05 - ERROR - Failed to get users | TypeError: user._id.getTimestamp is not a function 
+13.12.2024, 4:15:40 - DEBUG - auth.service - signup with username: mattel, fullname: Mattel 
+13.12.2024, 4:15:40 - DEBUG - auth.service - login with username: mattel 
+13.12.2024, 4:15:40 - DEBUG - auth.route - new account created: {"username":"mattel","password":"$2b$10$kOwc7rUo6c76GnIGYOnpYeN61jWDUeuFEcLXDyXYJ0R//8m11MhVW","fullname":"Mattel","score":0,"_id":"675b8abc5ae5b385bcef5d40"} 
+13.12.2024, 4:15:43 - INFO - Req was made | / 
+13.12.2024, 4:15:44 - INFO - Req was made | / 
+13.12.2024, 4:16:24 - DEBUG - auth.service - login with username: admin 
+13.12.2024, 4:16:24 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+13.12.2024, 4:17:18 - INFO - Req was made | / 
+13.12.2024, 4:17:18 - INFO - Req was made | / 
+13.12.2024, 4:21:39 - INFO - Req was made | / 
+13.12.2024, 4:21:39 - INFO - Req was made | / 
+13.12.2024, 4:21:40 - INFO - Req was made | / 
+13.12.2024, 4:21:57 - INFO - Req was made | / 
+13.12.2024, 4:22:10 - ERROR - cannot insert toy | ReferenceError: utilHandler is not defined 
+13.12.2024, 4:22:10 - ERROR - Failed to add toy | ReferenceError: utilHandler is not defined 
+13.12.2024, 4:22:41 - INFO - server.js loaded... 
+13.12.2024, 4:22:41 - INFO - Server is running on port: 3030 
+13.12.2024, 4:22:46 - ERROR - cannot insert toy | ReferenceError: toyToSave is not defined 
+13.12.2024, 4:22:46 - ERROR - Failed to add toy | ReferenceError: toyToSave is not defined 
+13.12.2024, 4:23:05 - INFO - server.js loaded... 
+13.12.2024, 4:23:05 - INFO - Server is running on port: 3030 
+13.12.2024, 4:23:21 - INFO - Req was made | / 
+14.12.2024, 2:22:31 - INFO - server.js loaded... 
+14.12.2024, 2:22:31 - INFO - Server is running on port: 3030 
+14.12.2024, 2:22:33 - INFO - Req was made | / 
+14.12.2024, 2:24:27 - ERROR - while finding toy 675b6eab64266bfb23b2a982 | TypeError: Cannot read properties of null (reading '_id') 
+14.12.2024, 2:24:27 - ERROR - Failed to get toy | TypeError: Cannot read properties of null (reading '_id') 
+14.12.2024, 2:26:51 - INFO - Req was made | / 
+14.12.2024, 2:27:28 - INFO - Req was made | / 
+14.12.2024, 2:39:59 - INFO - server.js loaded... 
+14.12.2024, 2:39:59 - INFO - Server is running on port: 3030 
+14.12.2024, 2:43:13 - DEBUG - auth.service - login with username: admin 
+14.12.2024, 2:43:13 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+14.12.2024, 2:49:07 - INFO - Req was made | / 
+14.12.2024, 2:49:13 - DEBUG - auth.service - login with username: admin 
+14.12.2024, 2:49:13 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+14.12.2024, 2:49:23 - ERROR - cannot update toy 675b88a4196feb3bf4f56f54 | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+14.12.2024, 2:49:23 - ERROR - Failed to update toy | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+14.12.2024, 2:51:42 - INFO - Req was made | / 
+14.12.2024, 2:52:35 - INFO - server.js loaded... 
+14.12.2024, 2:52:35 - INFO - Server is running on port: 3030 
+14.12.2024, 2:53:00 - INFO - server.js loaded... 
+14.12.2024, 2:53:00 - INFO - Server is running on port: 3030 
+14.12.2024, 2:56:26 - INFO - Req was made | / 
+14.12.2024, 2:56:30 - INFO - Req was made | / 
+14.12.2024, 2:56:31 - INFO - Req was made | / 
+14.12.2024, 2:56:32 - INFO - Req was made | / 
+14.12.2024, 2:56:34 - INFO - Req was made | / 
+14.12.2024, 2:56:34 - INFO - Req was made | / 
+14.12.2024, 2:56:35 - INFO - Req was made | / 
+14.12.2024, 2:58:40 - DEBUG - auth.service - login with username: admin 
+14.12.2024, 2:58:41 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+14.12.2024, 2:59:59 - DEBUG - auth.service - signup with username: romeo, fullname: Romeo 
+14.12.2024, 2:59:59 - DEBUG - auth.route - new account created: {"username":"romeo","password":"$2b$10$oni0dYEqzzIbWOaGvVX7w.34i.4YXxVrMcH3njlOFBwbzqTy5AuWK","fullname":"Romeo","score":0,"_id":"675cca7f49a14fc2bb5d081c"} 
+14.12.2024, 2:59:59 - DEBUG - auth.service - login with username: romeo 
+14.12.2024, 3:09:14 - INFO - server.js loaded... 
+14.12.2024, 3:09:14 - INFO - Server is running on port: 3030 
+14.12.2024, 3:09:50 - DEBUG - auth.service - login with username: admin 
+14.12.2024, 3:09:50 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+14.12.2024, 3:09:56 - ERROR - cannot update toy 675b88a4196feb3bf4f56f54 | ReferenceError: user is not defined 
+14.12.2024, 3:09:56 - ERROR - Failed to update toy | ReferenceError: user is not defined 
+14.12.2024, 3:10:18 - DEBUG - auth.service - login with username: admin 
+14.12.2024, 3:10:18 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+14.12.2024, 3:10:35 - ERROR - cannot update toy 675b88a4196feb3bf4f56f54 | ReferenceError: user is not defined 
+14.12.2024, 3:10:35 - ERROR - Failed to update toy | ReferenceError: user is not defined 
+14.12.2024, 3:10:57 - INFO - server.js loaded... 
+14.12.2024, 3:10:57 - INFO - Server is running on port: 3030 
+14.12.2024, 3:16:02 - INFO - Req was made | / 
+14.12.2024, 3:16:02 - INFO - Req was made | / 
+14.12.2024, 3:16:04 - INFO - Req was made | / 
+14.12.2024, 3:16:09 - INFO - Req was made | / 
+14.12.2024, 3:16:12 - INFO - Req was made | / 
+14.12.2024, 3:17:24 - INFO - server.js loaded... 
+14.12.2024, 3:17:25 - INFO - Server is running on port: 3030 
+14.12.2024, 3:17:31 - INFO - Req was made | / 
+14.12.2024, 17:30:21 - ERROR - cannot add toy msg :toyID | BSONError: hex string must be 24 characters 
+14.12.2024, 17:30:21 - ERROR - Failed to remove toy msg | BSONError: hex string must be 24 characters 
+14.12.2024, 17:32:10 - INFO - Req was made | / 
+14.12.2024, 17:33:38 - INFO - Req was made | / 
+14.12.2024, 17:33:42 - INFO - Req was made | / 
+14.12.2024, 17:39:43 - INFO - Req was made | / 
+14.12.2024, 17:41:31 - INFO - Req was made | / 
+14.12.2024, 17:54:03 - INFO - Req was made | / 
+14.12.2024, 17:54:30 - INFO - Req was made | / 
+14.12.2024, 17:55:15 - INFO - Req was made | / 
+14.12.2024, 17:55:37 - INFO - Req was made | / 
+14.12.2024, 17:58:01 - INFO - Req was made | / 
+14.12.2024, 17:58:30 - INFO - Req was made | / 
+14.12.2024, 18:00:04 - INFO - Req was made | / 
+14.12.2024, 18:01:11 - INFO - server.js loaded... 
+14.12.2024, 18:01:11 - INFO - Server is running on port: 3030 
+14.12.2024, 18:01:51 - INFO - server.js loaded... 
+14.12.2024, 18:01:51 - INFO - Server is running on port: 3030 
+14.12.2024, 18:02:31 - INFO - server.js loaded... 
+14.12.2024, 18:02:31 - INFO - Server is running on port: 3030 
+14.12.2024, 18:03:19 - INFO - Req was made | / 
+14.12.2024, 18:03:22 - INFO - Req was made | / 
+14.12.2024, 18:03:37 - INFO - Req was made | / 
+14.12.2024, 18:04:29 - INFO - Req was made | / 
+14.12.2024, 18:06:39 - ERROR - while finding toy 675b6eab64266bfb23b2a982 | TypeError: Cannot read properties of null (reading '_id') 
+14.12.2024, 18:06:39 - ERROR - Failed to get toy | TypeError: Cannot read properties of null (reading '_id') 
+14.12.2024, 18:09:44 - INFO - server.js loaded... 
+14.12.2024, 18:09:44 - INFO - Server is running on port: 3030 
+14.12.2024, 18:10:06 - INFO - server.js loaded... 
+14.12.2024, 18:10:06 - INFO - Server is running on port: 3030 
+14.12.2024, 18:11:48 - INFO - Req was made | / 
+14.12.2024, 18:12:13 - INFO - server.js loaded... 
+14.12.2024, 18:12:13 - INFO - Server is running on port: 3030 
+14.12.2024, 18:14:05 - INFO - server.js loaded... 
+14.12.2024, 18:14:05 - INFO - Server is running on port: 3030 
+14.12.2024, 18:14:12 - INFO - server.js loaded... 
+14.12.2024, 18:14:12 - INFO - Server is running on port: 3030 
+14.12.2024, 18:14:19 - INFO - server.js loaded... 
+14.12.2024, 18:14:19 - INFO - Server is running on port: 3030 
+14.12.2024, 18:14:30 - INFO - server.js loaded... 
+14.12.2024, 18:14:30 - INFO - Server is running on port: 3030 
+14.12.2024, 18:25:02 - INFO - Req was made | / 
+14.12.2024, 18:25:13 - INFO - Req was made | / 
+14.12.2024, 18:27:28 - INFO - Req was made | / 
+14.12.2024, 18:27:30 - INFO - Req was made | / 
+14.12.2024, 18:29:00 - INFO - server.js loaded... 
+14.12.2024, 18:29:00 - INFO - Server is running on port: 3030 
+14.12.2024, 18:29:24 - INFO - Req was made | / 
+14.12.2024, 18:30:43 - INFO - Req was made | / 
+14.12.2024, 18:30:56 - INFO - Req was made | / 
+14.12.2024, 18:30:59 - INFO - Req was made | / 
+14.12.2024, 18:31:22 - INFO - Req was made | / 
+14.12.2024, 18:31:24 - INFO - Req was made | / 
+14.12.2024, 18:32:04 - INFO - Req was made | / 
+14.12.2024, 18:32:06 - INFO - Req was made | / 
+14.12.2024, 18:53:46 - INFO - Req was made | / 
+14.12.2024, 18:57:44 - INFO - Req was made | / 
+14.12.2024, 18:59:19 - INFO - Req was made | / 
+14.12.2024, 18:59:26 - INFO - Req was made | / 
+14.12.2024, 19:00:25 - INFO - Req was made | / 
+14.12.2024, 19:03:27 - INFO - Req was made | / 
+14.12.2024, 19:03:51 - INFO - Req was made | / 
+14.12.2024, 19:03:55 - INFO - Req was made | / 
+14.12.2024, 19:03:57 - INFO - Req was made | / 
+14.12.2024, 19:05:20 - INFO - Req was made | / 
+14.12.2024, 19:05:26 - INFO - Req was made | / 
+14.12.2024, 19:05:29 - INFO - Req was made | / 
+14.12.2024, 19:05:31 - INFO - Req was made | / 
+14.12.2024, 19:05:46 - INFO - Req was made | / 
+14.12.2024, 19:05:49 - INFO - Req was made | / 
+14.12.2024, 19:05:50 - INFO - Req was made | / 
+14.12.2024, 19:06:00 - INFO - Req was made | / 
+14.12.2024, 19:06:01 - INFO - Req was made | / 
+15.12.2024, 18:47:52 - INFO - Req was made | / 
+17.12.2024, 1:15:42 - INFO - Req was made | / 
+17.12.2024, 1:15:51 - INFO - Req was made | / 
+17.12.2024, 1:15:55 - INFO - Req was made | / 
+17.12.2024, 1:15:55 - INFO - Req was made | / 
+17.12.2024, 1:15:59 - INFO - Req was made | / 
+17.12.2024, 1:24:13 - INFO - Req was made | / 
+17.12.2024, 2:21:38 - INFO - Req was made | / 
+17.12.2024, 2:21:38 - INFO - Req was made | / 
+17.12.2024, 2:21:44 - INFO - Req was made | / 
+17.12.2024, 17:40:24 - INFO - Req was made | / 
+17.12.2024, 22:42:47 - INFO - Req was made | / 
+17.12.2024, 23:05:16 - INFO - Req was made | / 
+17.12.2024, 23:11:10 - INFO - Req was made | / 
+17.12.2024, 23:45:01 - INFO - Req was made | / 
+17.12.2024, 23:46:45 - INFO - Req was made | / 
+17.12.2024, 23:46:50 - INFO - Req was made | / 
+17.12.2024, 23:46:57 - INFO - Req was made | / 
+18.12.2024, 2:52:15 - INFO - Req was made | / 
+18.12.2024, 2:53:17 - INFO - Req was made | / 
+18.12.2024, 2:56:53 - INFO - Req was made | / 
+18.12.2024, 3:05:39 - INFO - Req was made | / 
+18.12.2024, 3:07:10 - INFO - Req was made | / 
+18.12.2024, 3:09:54 - INFO - Req was made | / 
+18.12.2024, 3:10:09 - INFO - Req was made | / 
+18.12.2024, 3:10:40 - INFO - Req was made | / 
+18.12.2024, 3:19:29 - INFO - Req was made | / 
+18.12.2024, 3:54:53 - INFO - Req was made | / 
+18.12.2024, 4:03:17 - INFO - Req was made | / 
+18.12.2024, 4:10:07 - INFO - Req was made | / 
+18.12.2024, 4:10:24 - INFO - Req was made | / 
+18.12.2024, 4:17:04 - INFO - Req was made | / 
+18.12.2024, 4:35:00 - INFO - Req was made | / 
+18.12.2024, 4:36:20 - INFO - Req was made | / 
+18.12.2024, 4:36:38 - INFO - Req was made | / 
+18.12.2024, 4:36:40 - INFO - Req was made | / 
+18.12.2024, 4:41:13 - INFO - Req was made | / 
+18.12.2024, 4:47:32 - INFO - Req was made | / 
+18.12.2024, 4:47:33 - INFO - Req was made | / 
+18.12.2024, 4:49:32 - INFO - Req was made | / 
+18.12.2024, 4:49:32 - INFO - Req was made | / 
+18.12.2024, 4:59:41 - INFO - Req was made | / 
+18.12.2024, 17:13:18 - INFO - Req was made | / 
+18.12.2024, 17:13:32 - INFO - Req was made | / 
+18.12.2024, 17:13:34 - INFO - Req was made | / 
+18.12.2024, 17:13:47 - INFO - Req was made | / 
+18.12.2024, 17:14:21 - INFO - Req was made | / 
+18.12.2024, 17:41:05 - INFO - Req was made | / 
+18.12.2024, 17:41:06 - INFO - Req was made | / 
+18.12.2024, 17:41:12 - INFO - Req was made | / 
+18.12.2024, 17:41:13 - INFO - Req was made | / 
+18.12.2024, 17:41:46 - INFO - Req was made | / 
+18.12.2024, 17:42:21 - INFO - Req was made | / 
+18.12.2024, 17:42:21 - INFO - Req was made | / 
+18.12.2024, 17:42:24 - INFO - Req was made | / 
+18.12.2024, 17:42:27 - INFO - Req was made | / 
+18.12.2024, 17:42:28 - INFO - Req was made | / 
+18.12.2024, 17:42:28 - INFO - Req was made | / 
+18.12.2024, 17:42:29 - INFO - Req was made | / 
+18.12.2024, 17:42:30 - INFO - Req was made | / 
+18.12.2024, 17:42:31 - INFO - Req was made | / 
+18.12.2024, 17:42:32 - INFO - Req was made | / 
+18.12.2024, 17:42:33 - INFO - Req was made | / 
+18.12.2024, 17:42:33 - INFO - Req was made | / 
+18.12.2024, 17:42:33 - INFO - Req was made | / 
+18.12.2024, 17:42:33 - INFO - Req was made | / 
+18.12.2024, 17:42:33 - INFO - Req was made | / 
+18.12.2024, 17:42:35 - INFO - Req was made | / 
+18.12.2024, 17:42:36 - INFO - Req was made | / 
+18.12.2024, 17:42:37 - INFO - Req was made | / 
+18.12.2024, 17:42:37 - INFO - Req was made | / 
+18.12.2024, 17:42:39 - INFO - Req was made | / 
+18.12.2024, 17:42:39 - INFO - Req was made | / 
+18.12.2024, 17:42:39 - INFO - Req was made | / 
+18.12.2024, 17:42:40 - INFO - Req was made | / 
+18.12.2024, 17:42:41 - INFO - Req was made | / 
+18.12.2024, 17:42:42 - INFO - Req was made | / 
+18.12.2024, 17:42:42 - INFO - Req was made | / 
+18.12.2024, 17:42:44 - INFO - Req was made | / 
+18.12.2024, 17:42:44 - INFO - Req was made | / 
+18.12.2024, 17:42:44 - INFO - Req was made | / 
+18.12.2024, 17:42:57 - INFO - Req was made | / 
+18.12.2024, 17:42:57 - INFO - Req was made | / 
+18.12.2024, 17:42:57 - INFO - Req was made | / 
+18.12.2024, 17:42:59 - INFO - Req was made | / 
+18.12.2024, 17:42:59 - INFO - Req was made | / 
+18.12.2024, 17:42:59 - INFO - Req was made | / 
+18.12.2024, 17:43:04 - INFO - Req was made | / 
+18.12.2024, 17:47:04 - INFO - Req was made | / 
+18.12.2024, 17:47:17 - INFO - Req was made | / 
+18.12.2024, 17:47:58 - INFO - Req was made | / 
+18.12.2024, 17:56:49 - INFO - Req was made | / 
+18.12.2024, 17:59:02 - INFO - Req was made | / 
+18.12.2024, 18:04:05 - DEBUG - auth.service - login with username: admin 
+18.12.2024, 18:04:05 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+18.12.2024, 18:11:51 - INFO - Req was made | / 
+18.12.2024, 18:15:15 - INFO - Req was made | / 
+18.12.2024, 18:16:35 - INFO - Req was made | / 
+18.12.2024, 18:18:59 - INFO - Req was made | / 
+18.12.2024, 18:19:21 - INFO - Req was made | / 
+18.12.2024, 18:19:23 - INFO - Req was made | / 
+18.12.2024, 18:27:28 - INFO - Req was made | / 
+18.12.2024, 18:27:31 - INFO - Req was made | / 
+18.12.2024, 18:27:57 - INFO - Req was made | / 
+18.12.2024, 18:28:28 - INFO - Req was made | / 
+18.12.2024, 18:28:40 - INFO - Req was made | / 
+18.12.2024, 18:28:43 - INFO - Req was made | / 
+18.12.2024, 18:28:50 - INFO - Req was made | / 
+18.12.2024, 18:28:56 - INFO - Req was made | / 
+18.12.2024, 18:28:58 - INFO - Req was made | / 
+18.12.2024, 18:29:03 - INFO - Req was made | / 
+18.12.2024, 18:29:09 - INFO - Req was made | / 
+18.12.2024, 18:29:23 - INFO - Req was made | / 
+18.12.2024, 18:29:24 - INFO - Req was made | / 
+18.12.2024, 18:32:26 - INFO - Req was made | / 
+18.12.2024, 18:32:29 - INFO - Req was made | / 
+18.12.2024, 18:32:34 - INFO - Req was made | / 
+18.12.2024, 18:32:35 - INFO - Req was made | / 
+18.12.2024, 18:32:36 - INFO - Req was made | / 
+18.12.2024, 18:37:29 - INFO - Req was made | / 
+18.12.2024, 18:39:10 - INFO - Req was made | / 
+18.12.2024, 18:39:16 - INFO - Req was made | / 
+18.12.2024, 18:42:18 - INFO - Req was made | / 
+18.12.2024, 18:51:12 - INFO - Req was made | / 
+18.12.2024, 18:51:32 - INFO - Req was made | / 
+18.12.2024, 18:51:43 - INFO - Req was made | / 
+18.12.2024, 18:57:15 - INFO - Req was made | / 
+18.12.2024, 18:57:17 - INFO - Req was made | / 
+18.12.2024, 18:57:23 - INFO - Req was made | / 
+18.12.2024, 18:58:32 - INFO - Req was made | / 
+18.12.2024, 19:02:14 - INFO - Req was made | / 
+18.12.2024, 19:02:15 - INFO - Req was made | / 
+18.12.2024, 19:09:23 - INFO - server.js loaded... 
+18.12.2024, 19:09:23 - INFO - Server is running on port: 3030 
+18.12.2024, 19:11:05 - INFO - Req was made | / 
+18.12.2024, 19:11:05 - ERROR - Failed to get toys | TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle 
+18.12.2024, 19:11:33 - INFO - Req was made | / 
+18.12.2024, 19:11:33 - ERROR - Failed to get toys | TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle 
+18.12.2024, 19:12:10 - INFO - Req was made | / 
+18.12.2024, 19:12:10 - ERROR - Failed to get toys | TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle 
+18.12.2024, 19:12:34 - INFO - Req was made | / 
+18.12.2024, 19:12:34 - ERROR - Failed to get toys | TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle 
+18.12.2024, 19:12:36 - INFO - Req was made | / 
+18.12.2024, 19:12:36 - ERROR - Failed to get toys | TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle 
+18.12.2024, 19:13:02 - INFO - Req was made | / 
+18.12.2024, 19:13:02 - ERROR - Failed to get toys | TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle 
+18.12.2024, 19:13:18 - INFO - Req was made | / 
+18.12.2024, 19:13:18 - ERROR - Failed to get toys | TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle 
+18.12.2024, 19:13:42 - INFO - server.js loaded... 
+18.12.2024, 19:13:42 - INFO - Server is running on port: 3030 
+18.12.2024, 19:13:45 - INFO - Req was made | / 
+18.12.2024, 19:13:45 - ERROR - Failed to get toys | TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle 
+18.12.2024, 19:14:19 - INFO - server.js loaded... 
+18.12.2024, 19:14:19 - INFO - Server is running on port: 3030 
+18.12.2024, 19:14:21 - INFO - Req was made | / 
+18.12.2024, 19:14:47 - INFO - Req was made | / 
+18.12.2024, 19:15:15 - INFO - Req was made | / 
+18.12.2024, 19:17:31 - INFO - Req was made | / 
+18.12.2024, 19:18:10 - INFO - Req was made | / 
+18.12.2024, 19:18:28 - INFO - Req was made | / 
+18.12.2024, 19:18:28 - INFO - Req was made | / 
+18.12.2024, 19:18:32 - INFO - Req was made | / 
+18.12.2024, 19:18:45 - INFO - Req was made | / 
+18.12.2024, 19:20:36 - INFO - server.js loaded... 
+18.12.2024, 19:20:36 - INFO - Server is running on port: 3030 
+18.12.2024, 19:20:38 - INFO - Req was made | / 
+18.12.2024, 19:25:20 - INFO - server.js loaded... 
+18.12.2024, 19:25:20 - INFO - Server is running on port: 3030 
+18.12.2024, 19:25:24 - INFO - Req was made | / 
+18.12.2024, 19:25:27 - INFO - Req was made | / 
+18.12.2024, 19:27:20 - INFO - server.js loaded... 
+18.12.2024, 19:27:20 - INFO - Server is running on port: 3030 
+18.12.2024, 19:27:21 - INFO - Req was made | / 
+18.12.2024, 19:27:22 - INFO - Req was made | / 
+18.12.2024, 19:27:23 - INFO - Req was made | / 
+18.12.2024, 19:27:26 - INFO - Req was made | / 
+18.12.2024, 19:28:18 - INFO - server.js loaded... 
+18.12.2024, 19:28:18 - INFO - Server is running on port: 3030 
+18.12.2024, 19:28:20 - INFO - Req was made | / 
+18.12.2024, 19:28:26 - INFO - server.js loaded... 
+18.12.2024, 19:28:26 - INFO - Server is running on port: 3030 
+18.12.2024, 19:28:28 - INFO - Req was made | / 
+18.12.2024, 19:28:30 - INFO - Req was made | / 
+18.12.2024, 19:29:56 - INFO - Req was made | / 
+18.12.2024, 19:29:58 - INFO - Req was made | / 
+18.12.2024, 19:32:17 - INFO - server.js loaded... 
+18.12.2024, 19:32:17 - INFO - Server is running on port: 3030 
+18.12.2024, 19:32:19 - INFO - Req was made | / 
+18.12.2024, 19:32:22 - INFO - Req was made | / 
+18.12.2024, 19:34:22 - INFO - server.js loaded... 
+18.12.2024, 19:34:22 - INFO - Server is running on port: 3030 
+18.12.2024, 19:34:24 - INFO - Req was made | / 
+18.12.2024, 19:34:34 - INFO - Req was made | / 
+18.12.2024, 19:35:10 - INFO - server.js loaded... 
+18.12.2024, 19:35:10 - INFO - Server is running on port: 3030 
+18.12.2024, 19:35:11 - INFO - Req was made | / 
+18.12.2024, 19:35:13 - INFO - Req was made | / 
+18.12.2024, 19:35:15 - INFO - Req was made | / 
+18.12.2024, 19:35:19 - INFO - Req was made | / 
+18.12.2024, 19:35:19 - INFO - Req was made | / 
+18.12.2024, 19:35:46 - INFO - Req was made | / 
+18.12.2024, 19:35:47 - INFO - Req was made | / 
+18.12.2024, 19:36:19 - INFO - server.js loaded... 
+18.12.2024, 19:36:19 - INFO - Server is running on port: 3030 
+18.12.2024, 19:36:20 - INFO - Req was made | / 
+18.12.2024, 19:36:21 - INFO - Req was made | / 
+18.12.2024, 19:36:22 - INFO - Req was made | / 
+18.12.2024, 19:36:23 - INFO - Req was made | / 
+18.12.2024, 19:36:55 - INFO - server.js loaded... 
+18.12.2024, 19:36:55 - INFO - Server is running on port: 3030 
+18.12.2024, 19:36:56 - INFO - Req was made | / 
+18.12.2024, 19:36:58 - INFO - Req was made | / 
+18.12.2024, 19:36:58 - INFO - Req was made | / 
+18.12.2024, 19:37:08 - INFO - server.js loaded... 
+18.12.2024, 19:37:08 - INFO - Server is running on port: 3030 
+18.12.2024, 19:38:10 - INFO - server.js loaded... 
+18.12.2024, 19:38:10 - INFO - Server is running on port: 3030 
+18.12.2024, 19:38:15 - INFO - Req was made | / 
+18.12.2024, 19:38:16 - INFO - Req was made | / 
+18.12.2024, 19:38:23 - INFO - Req was made | / 
+18.12.2024, 19:38:24 - INFO - Req was made | / 
+18.12.2024, 19:38:48 - INFO - server.js loaded... 
+18.12.2024, 19:38:48 - INFO - Server is running on port: 3030 
+18.12.2024, 19:38:50 - INFO - Req was made | / 
+18.12.2024, 19:38:50 - ERROR - Failed to get toys | ReferenceError: key is not defined 
+18.12.2024, 19:38:52 - INFO - Req was made | / 
+18.12.2024, 19:38:52 - ERROR - Failed to get toys | ReferenceError: key is not defined 
+18.12.2024, 19:40:32 - INFO - server.js loaded... 
+18.12.2024, 19:40:32 - INFO - Server is running on port: 3030 
+18.12.2024, 19:40:34 - INFO - Req was made | / 
+18.12.2024, 19:40:44 - INFO - Req was made | / 
+18.12.2024, 19:40:45 - INFO - Req was made | / 
+18.12.2024, 19:40:47 - INFO - Req was made | / 
+18.12.2024, 19:40:48 - INFO - Req was made | / 
+18.12.2024, 19:40:49 - INFO - Req was made | / 
+18.12.2024, 19:40:50 - INFO - Req was made | / 
+18.12.2024, 19:40:55 - INFO - Req was made | / 
+18.12.2024, 19:40:57 - INFO - Req was made | / 
+18.12.2024, 19:40:58 - INFO - Req was made | / 
+18.12.2024, 19:41:00 - INFO - Req was made | / 
+18.12.2024, 19:41:01 - INFO - Req was made | / 
+18.12.2024, 19:41:02 - INFO - Req was made | / 
+18.12.2024, 19:41:08 - INFO - Req was made | / 
+18.12.2024, 19:41:09 - INFO - Req was made | / 
+19.12.2024, 0:40:10 - INFO - Req was made | / 
+19.12.2024, 0:40:19 - INFO - Req was made | / 
+19.12.2024, 0:40:19 - INFO - Req was made | / 
+19.12.2024, 0:44:12 - INFO - Req was made | / 
+19.12.2024, 0:44:15 - INFO - Req was made | / 
+19.12.2024, 0:44:16 - INFO - Req was made | / 
+19.12.2024, 0:44:30 - INFO - Req was made | / 
+19.12.2024, 0:44:33 - INFO - Req was made | / 
+19.12.2024, 0:44:34 - INFO - Req was made | / 
+19.12.2024, 0:45:22 - INFO - Req was made | / 
+19.12.2024, 0:45:26 - INFO - Req was made | / 
+19.12.2024, 0:45:47 - INFO - Req was made | / 
+19.12.2024, 0:45:59 - INFO - Req was made | / 
+19.12.2024, 0:46:03 - INFO - Req was made | / 
+19.12.2024, 0:46:05 - INFO - Req was made | / 
+19.12.2024, 0:46:07 - INFO - Req was made | / 
+19.12.2024, 0:46:08 - INFO - Req was made | / 
+19.12.2024, 0:46:09 - INFO - Req was made | / 
+19.12.2024, 0:46:10 - INFO - Req was made | / 
+19.12.2024, 0:46:12 - INFO - Req was made | / 
+19.12.2024, 0:46:13 - INFO - Req was made | / 
+19.12.2024, 0:46:14 - INFO - Req was made | / 
+19.12.2024, 0:46:14 - INFO - Req was made | / 
+19.12.2024, 0:46:14 - INFO - Req was made | / 
+19.12.2024, 0:46:15 - INFO - Req was made | / 
+19.12.2024, 0:46:15 - INFO - Req was made | / 
+19.12.2024, 0:46:15 - INFO - Req was made | / 
+19.12.2024, 0:46:17 - INFO - Req was made | / 
+19.12.2024, 0:46:17 - INFO - Req was made | / 
+19.12.2024, 0:46:18 - INFO - Req was made | / 
+19.12.2024, 0:46:19 - INFO - Req was made | / 
+19.12.2024, 0:46:20 - INFO - Req was made | / 
+19.12.2024, 0:46:20 - INFO - Req was made | / 
+19.12.2024, 0:46:21 - INFO - Req was made | / 
+19.12.2024, 0:46:22 - INFO - Req was made | / 
+19.12.2024, 0:46:23 - INFO - Req was made | / 
+19.12.2024, 0:46:23 - INFO - Req was made | / 
+19.12.2024, 0:46:24 - INFO - Req was made | / 
+19.12.2024, 0:46:26 - INFO - Req was made | / 
+19.12.2024, 0:46:26 - INFO - Req was made | / 
+19.12.2024, 0:46:26 - INFO - Req was made | / 
+19.12.2024, 0:46:27 - INFO - Req was made | / 
+19.12.2024, 0:46:27 - INFO - Req was made | / 
+19.12.2024, 0:46:27 - INFO - Req was made | / 
+19.12.2024, 0:46:42 - INFO - Req was made | / 
+19.12.2024, 0:46:43 - INFO - Req was made | / 
+19.12.2024, 0:46:43 - INFO - Req was made | / 
+19.12.2024, 0:46:43 - INFO - Req was made | / 
+19.12.2024, 0:46:43 - INFO - Req was made | / 
+19.12.2024, 0:46:44 - INFO - Req was made | / 
+19.12.2024, 0:46:44 - INFO - Req was made | / 
+19.12.2024, 0:46:44 - INFO - Req was made | / 
+19.12.2024, 0:46:44 - INFO - Req was made | / 
+19.12.2024, 0:46:44 - INFO - Req was made | / 
+19.12.2024, 0:46:45 - INFO - Req was made | / 
+19.12.2024, 0:46:46 - INFO - Req was made | / 
+19.12.2024, 0:46:46 - INFO - Req was made | / 
+19.12.2024, 0:46:47 - INFO - Req was made | / 
+19.12.2024, 0:46:48 - INFO - Req was made | / 
+19.12.2024, 0:46:49 - INFO - Req was made | / 
+19.12.2024, 0:46:50 - INFO - Req was made | / 
+19.12.2024, 0:46:51 - INFO - Req was made | / 
+19.12.2024, 0:46:51 - INFO - Req was made | / 
+19.12.2024, 0:46:52 - INFO - Req was made | / 
+19.12.2024, 0:46:52 - INFO - Req was made | / 
+19.12.2024, 0:46:52 - INFO - Req was made | / 
+19.12.2024, 0:46:52 - INFO - Req was made | / 
+19.12.2024, 0:46:52 - INFO - Req was made | / 
+19.12.2024, 0:46:52 - INFO - Req was made | / 
+19.12.2024, 0:46:53 - INFO - Req was made | / 
+19.12.2024, 0:46:55 - INFO - Req was made | / 
+19.12.2024, 0:46:55 - INFO - Req was made | / 
+19.12.2024, 0:46:55 - INFO - Req was made | / 
+19.12.2024, 0:46:55 - INFO - Req was made | / 
+19.12.2024, 0:46:55 - INFO - Req was made | / 
+19.12.2024, 0:46:55 - INFO - Req was made | / 
+19.12.2024, 0:46:56 - INFO - Req was made | / 
+19.12.2024, 0:46:56 - INFO - Req was made | / 
+19.12.2024, 0:46:57 - INFO - Req was made | / 
+19.12.2024, 0:46:58 - INFO - Req was made | / 
+19.12.2024, 0:46:58 - INFO - Req was made | / 
+19.12.2024, 0:46:58 - INFO - Req was made | / 
+19.12.2024, 0:46:58 - INFO - Req was made | / 
+19.12.2024, 0:46:58 - INFO - Req was made | / 
+19.12.2024, 0:46:58 - INFO - Req was made | / 
+19.12.2024, 0:46:59 - INFO - Req was made | / 
+19.12.2024, 0:46:59 - INFO - Req was made | / 
+19.12.2024, 0:46:59 - INFO - Req was made | / 
+19.12.2024, 0:49:01 - INFO - server.js loaded... 
+19.12.2024, 0:49:01 - INFO - Server is running on port: 3030 
+19.12.2024, 0:49:03 - INFO - Req was made | / 
+19.12.2024, 0:49:03 - INFO - Req was made | / 
+19.12.2024, 0:49:04 - INFO - Req was made | / 
+19.12.2024, 0:49:05 - INFO - Req was made | / 
+19.12.2024, 0:49:05 - INFO - Req was made | / 
+19.12.2024, 0:49:07 - INFO - Req was made | / 
+19.12.2024, 0:49:14 - INFO - Req was made | / 
+19.12.2024, 0:49:15 - INFO - Req was made | / 
+19.12.2024, 0:49:16 - INFO - Req was made | / 
+19.12.2024, 0:49:17 - INFO - Req was made | / 
+19.12.2024, 0:49:46 - INFO - server.js loaded... 
+19.12.2024, 0:49:46 - INFO - Server is running on port: 3030 
+19.12.2024, 0:49:47 - INFO - Req was made | / 
+19.12.2024, 0:49:48 - INFO - Req was made | / 
+19.12.2024, 0:49:49 - INFO - Req was made | / 
+19.12.2024, 0:49:50 - INFO - Req was made | / 
+19.12.2024, 0:49:51 - INFO - Req was made | / 
+19.12.2024, 0:49:52 - INFO - Req was made | / 
+19.12.2024, 0:49:54 - INFO - Req was made | / 
+19.12.2024, 0:52:37 - INFO - server.js loaded... 
+19.12.2024, 0:52:37 - INFO - Server is running on port: 3030 
+19.12.2024, 0:52:39 - INFO - Req was made | / 
+19.12.2024, 0:52:39 - ERROR - Failed to get toys | ReferenceError: type is not defined 
+19.12.2024, 0:52:39 - INFO - Req was made | / 
+19.12.2024, 0:52:39 - ERROR - Failed to get toys | ReferenceError: type is not defined 
+19.12.2024, 0:52:56 - INFO - server.js loaded... 
+19.12.2024, 0:52:56 - INFO - Server is running on port: 3030 
+19.12.2024, 0:52:57 - INFO - Req was made | / 
+19.12.2024, 0:52:58 - INFO - Req was made | / 
+19.12.2024, 0:52:59 - INFO - Req was made | / 
+19.12.2024, 0:53:00 - INFO - Req was made | / 
+19.12.2024, 0:55:03 - INFO - server.js loaded... 
+19.12.2024, 0:55:03 - INFO - Server is running on port: 3030 
+19.12.2024, 0:55:05 - INFO - Req was made | / 
+19.12.2024, 0:55:06 - INFO - Req was made | / 
+19.12.2024, 0:55:37 - INFO - Req was made | / 
+19.12.2024, 0:55:38 - INFO - Req was made | / 
+19.12.2024, 0:55:38 - INFO - Req was made | / 
+19.12.2024, 0:55:40 - INFO - Req was made | / 
+19.12.2024, 0:55:42 - INFO - Req was made | / 
+19.12.2024, 0:55:49 - INFO - server.js loaded... 
+19.12.2024, 0:55:49 - INFO - Server is running on port: 3030 
+19.12.2024, 0:55:50 - INFO - Req was made | / 
+19.12.2024, 0:55:51 - INFO - Req was made | / 
+19.12.2024, 0:55:53 - INFO - Req was made | / 
+19.12.2024, 0:55:54 - INFO - Req was made | / 
+19.12.2024, 0:55:58 - INFO - Req was made | / 
+19.12.2024, 0:55:59 - INFO - Req was made | / 
+19.12.2024, 0:56:00 - INFO - Req was made | / 
+19.12.2024, 0:56:01 - INFO - Req was made | / 
+19.12.2024, 0:56:02 - INFO - Req was made | / 
+19.12.2024, 0:56:03 - INFO - Req was made | / 
+19.12.2024, 0:56:04 - INFO - Req was made | / 
+19.12.2024, 1:00:55 - INFO - Req was made | / 
+19.12.2024, 1:00:57 - INFO - Req was made | / 
+19.12.2024, 1:01:01 - INFO - Req was made | / 
+19.12.2024, 1:01:03 - INFO - Req was made | / 
+19.12.2024, 1:01:04 - INFO - Req was made | / 
+19.12.2024, 1:01:04 - INFO - Req was made | / 
+19.12.2024, 1:01:05 - INFO - Req was made | / 
+19.12.2024, 1:01:06 - INFO - Req was made | / 
+19.12.2024, 1:01:06 - INFO - Req was made | / 
+19.12.2024, 1:01:07 - INFO - Req was made | / 
+19.12.2024, 1:01:08 - INFO - Req was made | / 
+19.12.2024, 1:01:09 - INFO - Req was made | / 
+19.12.2024, 1:01:10 - INFO - Req was made | / 
+19.12.2024, 1:01:11 - INFO - Req was made | / 
+19.12.2024, 1:01:11 - INFO - Req was made | / 
+19.12.2024, 1:01:11 - INFO - Req was made | / 
+19.12.2024, 1:01:11 - INFO - Req was made | / 
+19.12.2024, 1:01:12 - INFO - Req was made | / 
+19.12.2024, 1:01:14 - INFO - Req was made | / 
+19.12.2024, 1:01:14 - INFO - Req was made | / 
+19.12.2024, 1:01:15 - INFO - Req was made | / 
+19.12.2024, 1:02:24 - INFO - Req was made | / 
+19.12.2024, 1:02:25 - INFO - Req was made | / 
+19.12.2024, 1:02:25 - INFO - Req was made | / 
+19.12.2024, 1:02:27 - INFO - Req was made | / 
+19.12.2024, 1:02:27 - INFO - Req was made | / 
+19.12.2024, 1:04:28 - INFO - Req was made | / 
+19.12.2024, 1:04:39 - INFO - Req was made | / 
+19.12.2024, 1:04:41 - INFO - Req was made | / 
+19.12.2024, 1:04:45 - INFO - Req was made | / 
+19.12.2024, 1:04:49 - INFO - Req was made | / 
+19.12.2024, 1:04:51 - INFO - Req was made | / 
+19.12.2024, 1:05:10 - INFO - Req was made | / 
+19.12.2024, 1:05:16 - INFO - Req was made | / 
+19.12.2024, 1:05:17 - INFO - Req was made | / 
+19.12.2024, 1:05:22 - INFO - Req was made | / 
+19.12.2024, 1:07:42 - INFO - Req was made | / 
+19.12.2024, 1:07:44 - INFO - Req was made | / 
+19.12.2024, 1:07:46 - INFO - Req was made | / 
+19.12.2024, 1:07:47 - INFO - Req was made | / 
+19.12.2024, 1:07:48 - INFO - Req was made | / 
+19.12.2024, 1:07:55 - INFO - Req was made | / 
+19.12.2024, 1:07:56 - INFO - Req was made | / 
+19.12.2024, 1:07:58 - INFO - Req was made | / 
+19.12.2024, 1:07:59 - INFO - Req was made | / 
+19.12.2024, 1:08:00 - INFO - Req was made | / 
+19.12.2024, 1:08:13 - INFO - Req was made | / 
+19.12.2024, 1:08:15 - INFO - Req was made | / 
+19.12.2024, 1:08:16 - INFO - Req was made | / 
+19.12.2024, 1:08:18 - INFO - Req was made | / 
+19.12.2024, 1:08:18 - INFO - Req was made | / 
+19.12.2024, 1:08:19 - INFO - Req was made | / 
+19.12.2024, 1:08:22 - INFO - Req was made | / 
+19.12.2024, 1:08:22 - INFO - Req was made | / 
+19.12.2024, 1:08:23 - INFO - Req was made | / 
+19.12.2024, 1:09:01 - INFO - Req was made | / 
+19.12.2024, 1:09:11 - INFO - server.js loaded... 
+19.12.2024, 1:09:11 - INFO - Server is running on port: 3030 
+19.12.2024, 1:09:11 - INFO - server.js loaded... 
+19.12.2024, 1:09:11 - INFO - Server is running on port: 3030 
+19.12.2024, 1:09:12 - INFO - server.js loaded... 
+19.12.2024, 1:09:12 - INFO - Server is running on port: 3030 
+19.12.2024, 1:10:47 - INFO - server.js loaded... 
+19.12.2024, 1:10:47 - INFO - Server is running on port: 3030 
+19.12.2024, 1:10:51 - INFO - Req was made | / 
+19.12.2024, 1:10:58 - INFO - Req was made | / 
+19.12.2024, 1:10:58 - INFO - Req was made | / 
+19.12.2024, 1:11:04 - INFO - Req was made | / 
+19.12.2024, 1:11:06 - INFO - Req was made | / 
+19.12.2024, 1:11:06 - INFO - Req was made | / 
+19.12.2024, 1:11:06 - INFO - Req was made | / 
+19.12.2024, 1:11:07 - INFO - Req was made | / 
+19.12.2024, 1:11:07 - INFO - Req was made | / 
+19.12.2024, 1:11:07 - INFO - Req was made | / 
+19.12.2024, 1:11:11 - INFO - Req was made | / 
+19.12.2024, 1:11:12 - INFO - Req was made | / 
+19.12.2024, 1:11:14 - INFO - Req was made | / 
+19.12.2024, 1:11:16 - INFO - Req was made | / 
+19.12.2024, 1:20:08 - INFO - Req was made | / 
+19.12.2024, 1:27:33 - INFO - Req was made | / 
+19.12.2024, 1:27:35 - INFO - Req was made | / 
+19.12.2024, 1:28:22 - INFO - Req was made | / 
+19.12.2024, 1:30:20 - INFO - Req was made | / 
+19.12.2024, 1:32:14 - INFO - Req was made | / 
+19.12.2024, 1:32:33 - INFO - Req was made | / 
+19.12.2024, 1:33:16 - INFO - Req was made | / 
+19.12.2024, 1:33:47 - INFO - Req was made | / 
+19.12.2024, 1:35:39 - INFO - Req was made | / 
+19.12.2024, 1:36:03 - INFO - Req was made | / 
+19.12.2024, 1:41:55 - INFO - Req was made | / 
+19.12.2024, 1:42:25 - INFO - Req was made | / 
+19.12.2024, 1:42:54 - INFO - Req was made | / 
+19.12.2024, 1:47:26 - INFO - Req was made | / 
+19.12.2024, 1:47:39 - INFO - Req was made | / 
+19.12.2024, 1:48:24 - INFO - Req was made | / 
+19.12.2024, 1:49:05 - INFO - Req was made | / 
+19.12.2024, 1:49:43 - INFO - Req was made | / 
+19.12.2024, 1:49:50 - INFO - Req was made | / 
+19.12.2024, 1:49:59 - INFO - Req was made | / 
+19.12.2024, 1:50:08 - INFO - Req was made | / 
+19.12.2024, 1:50:43 - INFO - Req was made | / 
+19.12.2024, 1:50:48 - INFO - Req was made | / 
+19.12.2024, 1:55:50 - INFO - Req was made | / 
+19.12.2024, 1:56:01 - INFO - Req was made | / 
+19.12.2024, 1:56:36 - INFO - Req was made | / 
+19.12.2024, 1:58:06 - INFO - Req was made | / 
+19.12.2024, 1:59:52 - INFO - Req was made | / 
+19.12.2024, 2:00:05 - INFO - Req was made | / 
+19.12.2024, 2:00:34 - INFO - Req was made | / 
+19.12.2024, 2:00:52 - INFO - Req was made | / 
+19.12.2024, 2:01:19 - INFO - Req was made | / 
+19.12.2024, 2:01:20 - INFO - Req was made | / 
+19.12.2024, 2:01:20 - INFO - Req was made | / 
+19.12.2024, 2:01:21 - INFO - Req was made | / 
+19.12.2024, 2:01:22 - INFO - Req was made | / 
+19.12.2024, 2:01:22 - INFO - Req was made | / 
+19.12.2024, 2:01:35 - INFO - Req was made | / 
+19.12.2024, 2:02:26 - INFO - Req was made | / 
+19.12.2024, 2:02:27 - INFO - Req was made | / 
+19.12.2024, 2:02:27 - INFO - Req was made | / 
+19.12.2024, 2:02:29 - INFO - Req was made | / 
+19.12.2024, 2:02:29 - INFO - Req was made | / 
+19.12.2024, 2:02:29 - INFO - Req was made | / 
+19.12.2024, 2:02:32 - INFO - Req was made | / 
+19.12.2024, 2:05:37 - INFO - server.js loaded... 
+19.12.2024, 2:05:37 - INFO - Server is running on port: 3030 
+19.12.2024, 2:05:39 - INFO - Req was made | / 
+19.12.2024, 2:06:38 - INFO - Req was made | / 
+19.12.2024, 2:06:38 - INFO - Req was made | / 
+19.12.2024, 2:06:39 - INFO - Req was made | / 
+19.12.2024, 2:06:41 - INFO - Req was made | / 
+19.12.2024, 2:06:42 - INFO - Req was made | / 
+19.12.2024, 2:06:42 - INFO - Req was made | / 
+19.12.2024, 2:06:47 - INFO - Req was made | / 
+19.12.2024, 2:06:57 - INFO - server.js loaded... 
+19.12.2024, 2:06:57 - INFO - Server is running on port: 3030 
+19.12.2024, 2:06:59 - INFO - Req was made | / 
+19.12.2024, 2:07:00 - INFO - Req was made | / 
+19.12.2024, 2:07:03 - INFO - Req was made | / 
+19.12.2024, 2:07:13 - INFO - Req was made | / 
+19.12.2024, 2:07:13 - INFO - Req was made | / 
+19.12.2024, 2:07:14 - INFO - Req was made | / 
+19.12.2024, 2:07:18 - INFO - Req was made | / 
+19.12.2024, 2:07:18 - INFO - Req was made | / 
+19.12.2024, 2:07:18 - INFO - Req was made | / 
+19.12.2024, 2:07:58 - INFO - Req was made | / 
+19.12.2024, 2:07:59 - INFO - Req was made | / 
+19.12.2024, 2:08:00 - INFO - Req was made | / 
+19.12.2024, 2:08:02 - INFO - Req was made | / 
+19.12.2024, 2:08:02 - INFO - Req was made | / 
+19.12.2024, 2:08:02 - INFO - Req was made | / 
+19.12.2024, 2:08:03 - INFO - Req was made | / 
+19.12.2024, 2:08:04 - INFO - Req was made | / 
+19.12.2024, 2:08:04 - INFO - Req was made | / 
+19.12.2024, 2:08:27 - INFO - server.js loaded... 
+19.12.2024, 2:08:27 - INFO - Server is running on port: 3030 
+19.12.2024, 2:08:29 - INFO - Req was made | / 
+19.12.2024, 2:08:31 - INFO - Req was made | / 
+19.12.2024, 2:08:31 - INFO - Req was made | / 
+19.12.2024, 2:08:32 - INFO - Req was made | / 
+19.12.2024, 2:08:37 - INFO - Req was made | / 
+19.12.2024, 2:08:37 - INFO - Req was made | / 
+19.12.2024, 2:08:37 - INFO - Req was made | / 
+19.12.2024, 2:08:40 - INFO - Req was made | / 
+19.12.2024, 2:08:41 - INFO - Req was made | / 
+19.12.2024, 2:08:43 - INFO - Req was made | / 
+19.12.2024, 2:08:44 - INFO - Req was made | / 
+19.12.2024, 2:08:47 - INFO - server.js loaded... 
+19.12.2024, 2:08:47 - INFO - Server is running on port: 3030 
+19.12.2024, 2:08:48 - INFO - Req was made | / 
+19.12.2024, 2:08:48 - INFO - Req was made | / 
+19.12.2024, 2:08:48 - INFO - Req was made | / 
+19.12.2024, 2:08:53 - INFO - server.js loaded... 
+19.12.2024, 2:08:53 - INFO - Server is running on port: 3030 
+19.12.2024, 2:08:55 - INFO - Req was made | / 
+19.12.2024, 2:09:29 - INFO - Req was made | / 
+19.12.2024, 2:09:41 - INFO - Req was made | / 
+19.12.2024, 2:09:42 - INFO - Req was made | / 
+19.12.2024, 2:09:43 - INFO - Req was made | / 
+19.12.2024, 2:09:43 - INFO - Req was made | / 
+19.12.2024, 2:09:54 - INFO - server.js loaded... 
+19.12.2024, 2:09:54 - INFO - Server is running on port: 3030 
+19.12.2024, 2:10:22 - INFO - Req was made | / 
+19.12.2024, 2:10:35 - INFO - Req was made | / 
+19.12.2024, 2:10:39 - INFO - Req was made | / 
+19.12.2024, 2:10:39 - INFO - Req was made | / 
+19.12.2024, 2:10:40 - INFO - Req was made | / 
+19.12.2024, 2:10:41 - INFO - Req was made | / 
+19.12.2024, 2:13:38 - INFO - Req was made | / 
+19.12.2024, 2:13:39 - INFO - Req was made | / 
+19.12.2024, 2:13:40 - INFO - Req was made | / 
+19.12.2024, 2:13:41 - INFO - Req was made | / 
+19.12.2024, 2:15:08 - INFO - Req was made | / 
+19.12.2024, 2:15:11 - INFO - Req was made | / 
+19.12.2024, 2:15:16 - INFO - Req was made | / 
+19.12.2024, 2:15:16 - INFO - Req was made | / 
+19.12.2024, 2:15:16 - INFO - Req was made | / 
+19.12.2024, 2:15:19 - INFO - Req was made | / 
+19.12.2024, 2:15:21 - INFO - Req was made | / 
+19.12.2024, 2:15:21 - INFO - Req was made | / 
+19.12.2024, 2:15:21 - INFO - Req was made | / 
+19.12.2024, 2:15:45 - INFO - Req was made | / 
+19.12.2024, 2:15:46 - INFO - Req was made | / 
+20.12.2024, 1:59:40 - INFO - Req was made | / 
+20.12.2024, 2:05:43 - INFO - Req was made | / 
+20.12.2024, 2:06:38 - INFO - Req was made | / 
+20.12.2024, 2:06:40 - INFO - Req was made | / 
+20.12.2024, 2:08:15 - INFO - Req was made | / 
+20.12.2024, 2:09:39 - INFO - Req was made | / 
+20.12.2024, 2:09:45 - INFO - Req was made | / 
+20.12.2024, 2:09:51 - INFO - Req was made | / 
+20.12.2024, 2:10:16 - INFO - Req was made | / 
+20.12.2024, 2:10:39 - INFO - Req was made | / 
+20.12.2024, 2:10:54 - INFO - Req was made | / 
+20.12.2024, 2:14:34 - INFO - Req was made | / 
+20.12.2024, 2:14:34 - INFO - Req was made | / 
+20.12.2024, 2:14:36 - INFO - Req was made | / 
+20.12.2024, 2:17:52 - INFO - Req was made | / 
+20.12.2024, 2:18:48 - INFO - Req was made | / 
+20.12.2024, 2:20:32 - INFO - Req was made | / 
+20.12.2024, 2:20:36 - INFO - Req was made | / 
+20.12.2024, 2:20:37 - INFO - Req was made | / 
+20.12.2024, 2:20:37 - INFO - Req was made | / 
+20.12.2024, 2:20:43 - INFO - Req was made | / 
+20.12.2024, 2:20:45 - INFO - Req was made | / 
+20.12.2024, 2:20:45 - INFO - Req was made | / 
+20.12.2024, 2:20:46 - INFO - Req was made | / 
+20.12.2024, 2:20:47 - INFO - Req was made | / 
+20.12.2024, 2:20:47 - INFO - Req was made | / 
+20.12.2024, 2:21:16 - INFO - Req was made | / 
+20.12.2024, 2:21:18 - INFO - Req was made | / 
+20.12.2024, 2:21:19 - INFO - Req was made | / 
+20.12.2024, 2:21:19 - INFO - Req was made | / 
+20.12.2024, 2:21:21 - INFO - Req was made | / 
+20.12.2024, 2:21:21 - INFO - Req was made | / 
+20.12.2024, 2:21:21 - INFO - Req was made | / 
+20.12.2024, 2:21:23 - INFO - Req was made | / 
+20.12.2024, 2:21:25 - INFO - Req was made | / 
+20.12.2024, 2:21:26 - INFO - Req was made | / 
+20.12.2024, 2:21:26 - INFO - Req was made | / 
+20.12.2024, 2:21:28 - INFO - Req was made | / 
+20.12.2024, 2:21:28 - INFO - Req was made | / 
+20.12.2024, 2:21:28 - INFO - Req was made | / 
+20.12.2024, 2:21:30 - INFO - Req was made | / 
+20.12.2024, 2:21:56 - INFO - Req was made | / 
+20.12.2024, 2:21:57 - INFO - Req was made | / 
+20.12.2024, 2:21:57 - INFO - Req was made | / 
+20.12.2024, 2:22:01 - INFO - Req was made | / 
+20.12.2024, 2:22:02 - INFO - Req was made | / 
+20.12.2024, 2:22:02 - INFO - Req was made | / 
+20.12.2024, 2:22:02 - INFO - Req was made | / 
+20.12.2024, 2:22:05 - INFO - Req was made | / 
+20.12.2024, 2:22:06 - INFO - Req was made | / 
+20.12.2024, 2:22:06 - INFO - Req was made | / 
+20.12.2024, 2:22:09 - INFO - Req was made | / 
+20.12.2024, 2:22:11 - INFO - Req was made | / 
+20.12.2024, 2:22:12 - INFO - Req was made | / 
+20.12.2024, 2:22:12 - INFO - Req was made | / 
+20.12.2024, 2:22:15 - INFO - Req was made | / 
+20.12.2024, 2:22:16 - INFO - Req was made | / 
+20.12.2024, 2:22:17 - INFO - Req was made | / 
+20.12.2024, 2:22:18 - INFO - Req was made | / 
+20.12.2024, 2:22:21 - INFO - Req was made | / 
+20.12.2024, 2:22:23 - INFO - Req was made | / 
+20.12.2024, 2:22:24 - INFO - Req was made | / 
+20.12.2024, 2:22:27 - INFO - Req was made | / 
+20.12.2024, 2:22:28 - INFO - Req was made | / 
+20.12.2024, 2:22:29 - INFO - Req was made | / 
+20.12.2024, 2:22:36 - INFO - Req was made | / 
+20.12.2024, 2:22:38 - INFO - Req was made | / 
+20.12.2024, 2:22:38 - INFO - Req was made | / 
+20.12.2024, 2:22:38 - INFO - Req was made | / 
+20.12.2024, 2:22:42 - INFO - Req was made | / 
+20.12.2024, 2:22:44 - INFO - Req was made | / 
+20.12.2024, 2:22:44 - INFO - Req was made | / 
+20.12.2024, 2:22:47 - INFO - Req was made | / 
+20.12.2024, 2:22:48 - INFO - Req was made | / 
+20.12.2024, 2:22:48 - INFO - Req was made | / 
+20.12.2024, 2:22:51 - INFO - Req was made | / 
+20.12.2024, 2:22:51 - INFO - Req was made | / 
+20.12.2024, 2:22:51 - INFO - Req was made | / 
+20.12.2024, 2:22:53 - INFO - Req was made | / 
+20.12.2024, 2:22:55 - INFO - Req was made | / 
+20.12.2024, 2:22:56 - INFO - Req was made | / 
+20.12.2024, 2:22:57 - INFO - Req was made | / 
+20.12.2024, 2:22:59 - INFO - Req was made | / 
+20.12.2024, 2:22:59 - INFO - Req was made | / 
+20.12.2024, 2:23:00 - INFO - Req was made | / 
+20.12.2024, 2:23:01 - INFO - Req was made | / 
+20.12.2024, 2:23:03 - INFO - Req was made | / 
+20.12.2024, 2:23:07 - INFO - Req was made | / 
+20.12.2024, 2:23:10 - INFO - Req was made | / 
+20.12.2024, 2:23:16 - INFO - Req was made | / 
+20.12.2024, 2:23:35 - INFO - Req was made | / 
+20.12.2024, 2:23:45 - INFO - Req was made | / 
+20.12.2024, 2:24:42 - INFO - Req was made | / 
+20.12.2024, 2:24:44 - INFO - Req was made | / 
+20.12.2024, 2:24:44 - INFO - Req was made | / 
+20.12.2024, 2:24:44 - INFO - Req was made | / 
+20.12.2024, 2:24:48 - INFO - Req was made | / 
+20.12.2024, 2:24:48 - INFO - Req was made | / 
+20.12.2024, 2:24:48 - INFO - Req was made | / 
+20.12.2024, 2:24:52 - INFO - Req was made | / 
+20.12.2024, 2:24:53 - INFO - Req was made | / 
+20.12.2024, 2:24:54 - INFO - Req was made | / 
+20.12.2024, 2:24:58 - INFO - Req was made | / 
+20.12.2024, 2:24:58 - INFO - Req was made | / 
+20.12.2024, 2:24:58 - INFO - Req was made | / 
+20.12.2024, 2:25:03 - INFO - Req was made | / 
+20.12.2024, 2:25:06 - INFO - Req was made | / 
+20.12.2024, 2:25:06 - INFO - Req was made | / 
+20.12.2024, 2:25:06 - INFO - Req was made | / 
+20.12.2024, 2:25:15 - INFO - Req was made | / 
+20.12.2024, 2:25:19 - INFO - Req was made | / 
+20.12.2024, 2:25:21 - INFO - Req was made | / 
+20.12.2024, 2:25:21 - INFO - Req was made | / 
+20.12.2024, 2:25:21 - INFO - Req was made | / 
+20.12.2024, 2:25:22 - INFO - Req was made | / 
+20.12.2024, 2:25:22 - INFO - Req was made | / 
+20.12.2024, 2:25:22 - INFO - Req was made | / 
+20.12.2024, 2:25:25 - INFO - Req was made | / 
+20.12.2024, 2:25:29 - INFO - Req was made | / 
+20.12.2024, 2:25:31 - INFO - Req was made | / 
+20.12.2024, 2:25:36 - INFO - Req was made | / 
+20.12.2024, 2:26:44 - INFO - Req was made | / 
+20.12.2024, 2:26:45 - INFO - Req was made | / 
+20.12.2024, 2:26:45 - INFO - Req was made | / 
+20.12.2024, 2:26:45 - INFO - Req was made | / 
+20.12.2024, 2:26:48 - INFO - Req was made | / 
+20.12.2024, 2:26:50 - INFO - Req was made | / 
+20.12.2024, 2:26:50 - INFO - Req was made | / 
+20.12.2024, 2:26:50 - INFO - Req was made | / 
+20.12.2024, 2:26:52 - INFO - Req was made | / 
+20.12.2024, 2:26:53 - INFO - Req was made | / 
+20.12.2024, 2:26:54 - INFO - Req was made | / 
+20.12.2024, 2:27:05 - INFO - Req was made | / 
+20.12.2024, 2:27:06 - INFO - Req was made | / 
+20.12.2024, 2:27:06 - INFO - Req was made | / 
+20.12.2024, 2:27:06 - INFO - Req was made | / 
+20.12.2024, 2:27:08 - INFO - Req was made | / 
+20.12.2024, 2:27:08 - INFO - Req was made | / 
+20.12.2024, 2:27:08 - INFO - Req was made | / 
+20.12.2024, 2:27:14 - INFO - Req was made | / 
+20.12.2024, 2:27:15 - INFO - Req was made | / 
+20.12.2024, 2:27:15 - INFO - Req was made | / 
+20.12.2024, 2:27:15 - INFO - Req was made | / 
+20.12.2024, 2:27:17 - INFO - Req was made | / 
+20.12.2024, 2:27:18 - INFO - Req was made | / 
+20.12.2024, 2:27:21 - INFO - Req was made | / 
+20.12.2024, 2:27:22 - INFO - Req was made | / 
+20.12.2024, 2:27:22 - INFO - Req was made | / 
+20.12.2024, 2:27:22 - INFO - Req was made | / 
+20.12.2024, 2:27:24 - INFO - Req was made | / 
+20.12.2024, 2:27:27 - INFO - Req was made | / 
+20.12.2024, 2:27:34 - INFO - Req was made | / 
+20.12.2024, 2:27:34 - INFO - Req was made | / 
+20.12.2024, 2:27:35 - INFO - Req was made | / 
+20.12.2024, 2:27:40 - INFO - Req was made | / 
+20.12.2024, 2:27:40 - INFO - Req was made | / 
+20.12.2024, 2:27:40 - INFO - Req was made | / 
+20.12.2024, 2:27:47 - INFO - Req was made | / 
+20.12.2024, 2:27:50 - INFO - Req was made | / 
+20.12.2024, 2:27:51 - INFO - Req was made | / 
+20.12.2024, 2:27:51 - INFO - Req was made | / 
+20.12.2024, 2:27:54 - INFO - Req was made | / 
+20.12.2024, 2:27:56 - INFO - Req was made | / 
+20.12.2024, 2:28:00 - INFO - Req was made | / 
+20.12.2024, 2:28:01 - INFO - Req was made | / 
+20.12.2024, 2:28:01 - INFO - Req was made | / 
+20.12.2024, 2:28:01 - INFO - Req was made | / 
+20.12.2024, 2:28:03 - INFO - Req was made | / 
+20.12.2024, 2:28:05 - INFO - Req was made | / 
+20.12.2024, 2:28:12 - INFO - Req was made | / 
+20.12.2024, 2:28:16 - INFO - Req was made | / 
+20.12.2024, 2:28:18 - INFO - Req was made | / 
+20.12.2024, 2:29:08 - INFO - Req was made | / 
+20.12.2024, 2:30:02 - INFO - Req was made | / 
+20.12.2024, 2:30:03 - INFO - Req was made | / 
+20.12.2024, 2:30:04 - INFO - Req was made | / 
+20.12.2024, 2:30:04 - INFO - Req was made | / 
+20.12.2024, 2:30:05 - INFO - Req was made | / 
+20.12.2024, 2:30:10 - INFO - Req was made | / 
+20.12.2024, 2:30:13 - INFO - Req was made | / 
+20.12.2024, 2:30:14 - INFO - Req was made | / 
+20.12.2024, 2:30:17 - INFO - Req was made | / 
+20.12.2024, 2:30:30 - INFO - server.js loaded... 
+20.12.2024, 2:30:30 - INFO - Server is running on port: 3030 
+20.12.2024, 2:30:32 - INFO - Req was made | / 
+20.12.2024, 2:30:33 - INFO - Req was made | / 
+20.12.2024, 2:30:34 - INFO - Req was made | / 
+20.12.2024, 2:30:34 - INFO - Req was made | / 
+20.12.2024, 2:30:35 - INFO - Req was made | / 
+20.12.2024, 2:30:35 - INFO - Req was made | / 
+20.12.2024, 2:30:35 - INFO - Req was made | / 
+20.12.2024, 2:30:35 - INFO - Req was made | / 
+20.12.2024, 2:30:35 - INFO - Req was made | / 
+20.12.2024, 2:30:35 - INFO - Req was made | / 
+20.12.2024, 2:30:46 - INFO - server.js loaded... 
+20.12.2024, 2:30:46 - INFO - Server is running on port: 3030 
+20.12.2024, 2:30:47 - INFO - Req was made | / 
+20.12.2024, 2:30:54 - INFO - Req was made | / 
+20.12.2024, 2:30:56 - INFO - Req was made | / 
+20.12.2024, 2:31:14 - INFO - Req was made | / 
+20.12.2024, 2:32:29 - INFO - Req was made | / 
+20.12.2024, 2:32:31 - INFO - Req was made | / 
+20.12.2024, 2:32:31 - INFO - Req was made | / 
+20.12.2024, 2:32:31 - INFO - Req was made | / 
+20.12.2024, 2:32:39 - INFO - Req was made | / 
+20.12.2024, 2:32:42 - INFO - Req was made | / 
+20.12.2024, 2:32:44 - INFO - Req was made | / 
+20.12.2024, 2:32:46 - INFO - Req was made | / 
+20.12.2024, 2:32:46 - INFO - Req was made | / 
+20.12.2024, 2:32:48 - INFO - Req was made | / 
+20.12.2024, 2:32:49 - INFO - Req was made | / 
+20.12.2024, 2:32:49 - INFO - Req was made | / 
+20.12.2024, 2:32:51 - INFO - Req was made | / 
+20.12.2024, 2:32:52 - INFO - Req was made | / 
+20.12.2024, 2:32:53 - INFO - Req was made | / 
+20.12.2024, 2:32:54 - INFO - Req was made | / 
+20.12.2024, 2:32:54 - INFO - Req was made | / 
+20.12.2024, 2:32:54 - INFO - Req was made | / 
+20.12.2024, 2:33:29 - INFO - Server is running on port: 3030 
+20.12.2024, 2:33:29 - INFO - server.js loaded... 
+20.12.2024, 2:35:42 - INFO - Req was made | / 
+20.12.2024, 2:38:51 - INFO - Req was made | / 
+20.12.2024, 2:38:53 - INFO - Req was made | / 
+20.12.2024, 2:39:03 - INFO - Req was made | / 
+20.12.2024, 2:41:05 - INFO - Req was made | / 
+20.12.2024, 2:41:15 - INFO - Req was made | / 
+20.12.2024, 2:41:44 - INFO - Req was made | / 
+20.12.2024, 2:45:51 - INFO - Req was made | / 
+20.12.2024, 2:59:26 - INFO - Req was made | / 
+20.12.2024, 3:00:17 - INFO - Req was made | / 
+20.12.2024, 3:02:38 - INFO - Req was made | / 
+20.12.2024, 3:04:46 - INFO - Req was made | / 
+20.12.2024, 3:05:30 - INFO - Req was made | / 
+20.12.2024, 3:05:37 - INFO - Req was made | / 
+20.12.2024, 3:06:54 - INFO - Req was made | / 
+20.12.2024, 3:07:18 - INFO - Req was made | / 
+20.12.2024, 3:08:51 - INFO - Req was made | / 
+20.12.2024, 3:21:12 - INFO - Req was made | / 
+20.12.2024, 3:23:14 - INFO - Req was made | / 
+20.12.2024, 3:23:18 - INFO - Req was made | / 
+20.12.2024, 3:24:18 - INFO - Req was made | / 
+20.12.2024, 3:26:27 - INFO - Req was made | / 
+20.12.2024, 3:27:42 - INFO - Req was made | / 
+20.12.2024, 3:29:35 - INFO - Req was made | / 
+20.12.2024, 3:29:43 - INFO - Req was made | / 
+20.12.2024, 3:29:45 - INFO - Req was made | / 
+20.12.2024, 3:29:58 - INFO - Req was made | / 
+20.12.2024, 3:30:14 - INFO - Req was made | / 
+20.12.2024, 3:30:14 - INFO - Req was made | / 
+20.12.2024, 3:30:14 - INFO - Req was made | / 
+20.12.2024, 3:30:16 - INFO - Req was made | / 
+20.12.2024, 3:30:16 - INFO - Req was made | / 
+20.12.2024, 3:30:16 - INFO - Req was made | / 
+20.12.2024, 3:33:56 - INFO - Req was made | / 
+20.12.2024, 3:34:29 - INFO - Req was made | / 
+20.12.2024, 3:34:56 - INFO - Req was made | / 
+20.12.2024, 3:36:09 - INFO - Req was made | / 
+20.12.2024, 3:36:15 - INFO - Req was made | / 
+20.12.2024, 3:36:59 - INFO - Req was made | / 
+20.12.2024, 3:37:19 - INFO - Req was made | / 
+20.12.2024, 3:37:26 - INFO - Req was made | / 
+20.12.2024, 3:37:28 - INFO - Req was made | / 
+20.12.2024, 3:37:30 - INFO - Req was made | / 
+20.12.2024, 3:37:31 - INFO - Req was made | / 
+20.12.2024, 3:44:23 - INFO - Req was made | / 
+20.12.2024, 3:44:26 - INFO - Req was made | / 
+20.12.2024, 3:45:09 - INFO - Req was made | / 
+20.12.2024, 3:47:52 - INFO - Req was made | / 
+20.12.2024, 3:47:53 - INFO - Req was made | / 
+20.12.2024, 3:47:56 - INFO - Req was made | / 
+20.12.2024, 3:47:57 - INFO - Req was made | / 
+20.12.2024, 3:47:58 - INFO - Req was made | / 
+20.12.2024, 4:06:45 - INFO - Req was made | / 
+20.12.2024, 4:06:46 - INFO - Req was made | / 
+20.12.2024, 4:06:55 - INFO - Req was made | / 
+20.12.2024, 4:06:57 - INFO - Req was made | / 
+20.12.2024, 4:07:02 - INFO - Req was made | / 
+20.12.2024, 4:07:03 - INFO - Req was made | / 
+20.12.2024, 4:07:03 - INFO - Req was made | / 
+20.12.2024, 4:07:08 - INFO - Req was made | / 
+20.12.2024, 4:07:11 - INFO - Req was made | / 
+20.12.2024, 4:07:11 - INFO - Req was made | / 
+20.12.2024, 4:07:11 - INFO - Req was made | / 
+20.12.2024, 4:10:16 - INFO - Req was made | / 
+20.12.2024, 4:14:12 - INFO - Req was made | / 
+20.12.2024, 4:14:14 - INFO - Req was made | / 
+20.12.2024, 4:14:49 - INFO - Req was made | / 
+20.12.2024, 4:14:51 - INFO - Req was made | / 
+20.12.2024, 4:16:48 - INFO - Req was made | / 
+20.12.2024, 4:17:59 - INFO - Req was made | / 
+20.12.2024, 4:18:07 - INFO - Req was made | / 
+20.12.2024, 4:20:10 - INFO - Req was made | / 
+20.12.2024, 4:21:16 - INFO - Req was made | / 
+20.12.2024, 4:32:05 - INFO - Req was made | / 
+20.12.2024, 4:32:09 - INFO - Req was made | / 
+20.12.2024, 4:32:21 - INFO - Req was made | / 
+20.12.2024, 4:32:30 - INFO - Req was made | / 
+20.12.2024, 4:34:34 - INFO - Req was made | / 
+20.12.2024, 4:34:45 - INFO - Req was made | / 
+20.12.2024, 4:34:47 - INFO - Req was made | / 
+20.12.2024, 4:35:10 - INFO - Req was made | / 
+20.12.2024, 4:35:23 - INFO - Req was made | / 
+20.12.2024, 4:39:51 - INFO - Req was made | / 
+20.12.2024, 4:40:16 - INFO - Req was made | / 
+20.12.2024, 17:23:22 - INFO - Req was made | / 
+20.12.2024, 18:12:24 - INFO - Req was made | / 
+20.12.2024, 18:14:47 - INFO - Req was made | / 
+20.12.2024, 18:14:47 - INFO - Req was made | / 
+20.12.2024, 18:14:56 - INFO - Req was made | / 
+20.12.2024, 18:14:56 - INFO - Req was made | / 
+20.12.2024, 18:21:23 - INFO - Req was made | / 
+20.12.2024, 19:30:14 - INFO - Req was made | / 
+20.12.2024, 19:30:26 - INFO - Req was made | / 
+21.12.2024, 3:12:56 - INFO - Req was made | / 
+21.12.2024, 3:13:03 - INFO - Req was made | / 
+21.12.2024, 3:13:04 - INFO - Req was made | / 
+21.12.2024, 3:13:05 - INFO - Req was made | / 
+21.12.2024, 3:13:06 - INFO - Req was made | / 
+21.12.2024, 3:13:09 - INFO - Req was made | / 
+21.12.2024, 3:13:11 - INFO - Req was made | / 
+21.12.2024, 3:13:13 - INFO - Req was made | / 
+21.12.2024, 3:13:21 - INFO - Req was made | / 
+21.12.2024, 3:28:34 - INFO - Req was made | / 
+21.12.2024, 3:28:40 - INFO - Req was made | / 
+21.12.2024, 3:30:02 - INFO - Req was made | / 
+21.12.2024, 3:30:12 - INFO - Req was made | / 
+21.12.2024, 3:30:14 - INFO - Req was made | / 
+21.12.2024, 3:31:22 - INFO - Req was made | / 
+21.12.2024, 3:31:23 - INFO - Req was made | / 
+21.12.2024, 3:31:56 - INFO - Req was made | / 
+21.12.2024, 3:32:02 - INFO - Req was made | / 
+21.12.2024, 3:32:03 - INFO - Req was made | / 
+21.12.2024, 3:32:09 - INFO - Req was made | / 
+21.12.2024, 3:32:10 - INFO - Req was made | / 
+21.12.2024, 3:32:15 - INFO - Req was made | / 
+21.12.2024, 3:34:58 - INFO - Req was made | / 
+21.12.2024, 3:35:00 - INFO - Req was made | / 
+21.12.2024, 3:36:27 - INFO - Req was made | / 
+21.12.2024, 3:36:37 - INFO - Req was made | / 
+21.12.2024, 3:36:37 - INFO - Req was made | / 
+21.12.2024, 3:36:38 - INFO - Req was made | / 
+21.12.2024, 3:36:38 - INFO - Req was made | / 
+21.12.2024, 3:36:39 - INFO - Req was made | / 
+21.12.2024, 3:36:46 - INFO - Req was made | / 
+21.12.2024, 3:36:46 - INFO - Req was made | / 
+21.12.2024, 3:36:46 - INFO - Req was made | / 
+21.12.2024, 3:40:28 - INFO - Req was made | / 
+21.12.2024, 3:42:19 - INFO - Req was made | / 
+21.12.2024, 3:42:21 - INFO - Req was made | / 
+21.12.2024, 3:48:52 - DEBUG - auth.service - login with username: admin 
+21.12.2024, 3:48:52 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+21.12.2024, 3:49:00 - DEBUG - auth.service - login with username: admin 
+21.12.2024, 3:49:00 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+21.12.2024, 3:53:22 - INFO - Req was made | / 
+21.12.2024, 3:53:23 - INFO - Req was made | / 
+21.12.2024, 3:53:24 - INFO - Req was made | / 
+21.12.2024, 3:53:26 - INFO - Req was made | / 
+21.12.2024, 3:53:29 - INFO - Req was made | / 
+21.12.2024, 3:53:32 - INFO - Req was made | / 
+21.12.2024, 3:53:36 - INFO - Req was made | / 
+21.12.2024, 3:53:38 - INFO - Req was made | / 
+21.12.2024, 3:54:07 - INFO - Req was made | / 
+21.12.2024, 3:54:08 - INFO - Req was made | / 
+21.12.2024, 3:54:12 - INFO - Req was made | / 
+21.12.2024, 3:54:14 - INFO - Req was made | / 
+21.12.2024, 3:54:16 - INFO - Req was made | / 
+21.12.2024, 3:54:17 - INFO - Req was made | / 
+21.12.2024, 3:54:20 - INFO - Req was made | / 
+21.12.2024, 3:54:21 - INFO - Req was made | / 
+21.12.2024, 3:54:22 - INFO - Req was made | / 
+21.12.2024, 4:04:44 - INFO - Req was made | / 
+21.12.2024, 4:04:44 - INFO - Req was made | / 
+21.12.2024, 4:04:46 - INFO - Req was made | / 
+21.12.2024, 4:06:50 - INFO - Req was made | / 
+21.12.2024, 4:06:51 - INFO - Req was made | / 
+21.12.2024, 4:06:52 - INFO - Req was made | / 
+21.12.2024, 4:06:52 - INFO - Req was made | / 
+21.12.2024, 4:06:53 - INFO - Req was made | / 
+21.12.2024, 4:07:08 - INFO - Req was made | / 
+21.12.2024, 4:08:59 - INFO - Req was made | / 
+21.12.2024, 4:09:17 - INFO - Req was made | / 
+21.12.2024, 4:12:37 - INFO - Req was made | / 
+21.12.2024, 4:20:55 - INFO - Req was made | / 
+21.12.2024, 4:25:04 - INFO - Req was made | / 
+21.12.2024, 4:27:03 - DEBUG - auth.service - login with username: admin 
+21.12.2024, 4:27:04 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+21.12.2024, 4:27:16 - INFO - Req was made | / 
+21.12.2024, 4:27:16 - INFO - Req was made | / 
+21.12.2024, 4:27:20 - INFO - Req was made | / 
+21.12.2024, 4:28:58 - INFO - Req was made | / 
+21.12.2024, 4:30:16 - DEBUG - auth.service - login with username: admin 
+21.12.2024, 4:30:17 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+21.12.2024, 4:34:19 - INFO - Req was made | / 
+21.12.2024, 4:38:28 - DEBUG - auth.service - login with username: admin 
+21.12.2024, 4:38:28 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+21.12.2024, 4:38:38 - INFO - Req was made | / 
+21.12.2024, 4:38:40 - DEBUG - auth.service - login with username: admin 
+21.12.2024, 4:38:40 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+21.12.2024, 4:43:58 - INFO - Req was made | / 
+21.12.2024, 4:44:24 - INFO - Req was made | / 
+21.12.2024, 4:44:25 - INFO - Req was made | / 
+21.12.2024, 4:56:15 - INFO - Req was made | / 
+21.12.2024, 4:57:09 - INFO - Req was made | / 
+21.12.2024, 5:07:32 - INFO - Req was made | / 
+21.12.2024, 5:16:33 - INFO - Req was made | / 
+21.12.2024, 5:17:04 - INFO - Req was made | / 
+21.12.2024, 5:22:54 - INFO - Req was made | / 
+21.12.2024, 5:24:01 - DEBUG - auth.service - login with username: admin 
+21.12.2024, 5:24:01 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+21.12.2024, 5:24:41 - DEBUG - auth.service - signup with username: pookie, fullname: Pookie 
+21.12.2024, 5:24:41 - DEBUG - auth.route - new account created: {"username":"pookie","password":"$2b$10$pISHjsBOOkW/dhTDnrVZreir3lGoApFOqQw.GaT.1mddHLCUDmVZW","fullname":"Pookie","score":0,"_id":"676626e987baeb4b3dba8530"} 
+21.12.2024, 5:24:41 - DEBUG - auth.service - login with username: pookie 
+21.12.2024, 5:24:52 - DEBUG - auth.service - login with username: admin 
+21.12.2024, 5:24:52 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+21.12.2024, 5:25:00 - INFO - Req was made | / 
+21.12.2024, 5:25:01 - INFO - Req was made | / 
+21.12.2024, 5:25:01 - INFO - Req was made | / 
+22.12.2024, 1:33:41 - INFO - Req was made | / 
+22.12.2024, 1:33:56 - INFO - Req was made | / 
+22.12.2024, 1:33:59 - INFO - Req was made | / 
+22.12.2024, 1:34:01 - INFO - Req was made | / 
+22.12.2024, 1:34:01 - INFO - Req was made | / 
+22.12.2024, 1:34:16 - DEBUG - auth.service - login with username: admin 
+22.12.2024, 1:34:16 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+22.12.2024, 1:40:27 - INFO - Req was made | / 
+22.12.2024, 1:40:48 - INFO - Req was made | / 
+22.12.2024, 1:40:48 - INFO - Req was made | / 
+22.12.2024, 1:40:56 - INFO - Req was made | / 
+22.12.2024, 1:41:06 - INFO - Req was made | / 
+22.12.2024, 1:41:07 - INFO - Req was made | / 
+22.12.2024, 1:41:09 - INFO - Req was made | / 
+22.12.2024, 1:44:34 - INFO - Req was made | / 
+22.12.2024, 2:07:30 - INFO - Req was made | / 
+22.12.2024, 2:08:03 - INFO - Req was made | / 
+22.12.2024, 2:08:05 - INFO - Req was made | / 
+22.12.2024, 2:08:07 - INFO - Req was made | / 
+22.12.2024, 2:08:40 - INFO - Req was made | / 
+22.12.2024, 2:08:41 - INFO - Req was made | / 
+22.12.2024, 2:18:18 - INFO - Req was made | / 
+22.12.2024, 2:18:30 - INFO - Req was made | / 
+22.12.2024, 2:21:04 - INFO - Req was made | / 
+22.12.2024, 2:21:19 - INFO - Req was made | / 
+22.12.2024, 2:21:20 - INFO - Req was made | / 
+22.12.2024, 2:21:22 - INFO - Req was made | / 
+22.12.2024, 2:28:33 - INFO - Req was made | / 
+22.12.2024, 2:28:33 - INFO - Req was made | / 
+22.12.2024, 2:28:33 - INFO - Req was made | / 
+22.12.2024, 2:28:34 - INFO - Req was made | / 
+22.12.2024, 2:28:34 - INFO - Req was made | / 
+22.12.2024, 2:28:34 - INFO - Req was made | / 
+22.12.2024, 2:28:37 - INFO - Req was made | / 
+22.12.2024, 2:28:37 - INFO - Req was made | / 
+22.12.2024, 2:28:37 - INFO - Req was made | / 
+22.12.2024, 2:28:37 - INFO - Req was made | / 
+22.12.2024, 2:28:38 - INFO - Req was made | / 
+22.12.2024, 2:28:38 - INFO - Req was made | / 
+22.12.2024, 2:28:38 - INFO - Req was made | / 
+22.12.2024, 2:28:39 - INFO - Req was made | / 
+22.12.2024, 2:28:39 - INFO - Req was made | / 
+22.12.2024, 2:28:39 - INFO - Req was made | / 
+22.12.2024, 2:28:39 - INFO - Req was made | / 
+22.12.2024, 2:28:39 - INFO - Req was made | / 
+22.12.2024, 2:28:41 - INFO - Req was made | / 
+22.12.2024, 2:28:41 - INFO - Req was made | / 
+22.12.2024, 2:28:41 - INFO - Req was made | / 
+22.12.2024, 2:28:42 - INFO - Req was made | / 
+22.12.2024, 2:28:42 - INFO - Req was made | / 
+22.12.2024, 2:28:42 - INFO - Req was made | / 
+22.12.2024, 2:48:14 - INFO - Req was made | / 
+22.12.2024, 2:49:27 - INFO - Req was made | / 
+22.12.2024, 2:50:25 - INFO - Req was made | / 
+22.12.2024, 2:51:07 - INFO - Req was made | / 
+22.12.2024, 2:52:07 - INFO - Req was made | / 
+22.12.2024, 2:52:57 - INFO - Req was made | / 
+22.12.2024, 2:52:59 - INFO - Req was made | / 
+22.12.2024, 2:53:00 - INFO - Req was made | / 
+22.12.2024, 2:53:01 - INFO - Req was made | / 
+22.12.2024, 2:54:26 - INFO - Req was made | / 
+22.12.2024, 2:54:27 - INFO - Req was made | / 
+22.12.2024, 2:54:29 - INFO - Req was made | / 
+22.12.2024, 3:00:02 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:01:16 - INFO - Req was made | / 
+22.12.2024, 3:02:50 - INFO - Req was made | / 
+22.12.2024, 3:03:12 - INFO - Req was made | / 
+22.12.2024, 3:03:37 - INFO - Req was made | / 
+22.12.2024, 3:04:54 - INFO - Req was made | / 
+22.12.2024, 3:04:57 - INFO - Req was made | / 
+22.12.2024, 3:05:00 - INFO - Req was made | / 
+22.12.2024, 3:05:01 - INFO - Req was made | / 
+22.12.2024, 3:05:04 - INFO - Req was made | / 
+22.12.2024, 3:08:47 - INFO - Req was made | / 
+22.12.2024, 3:08:50 - INFO - Req was made | / 
+22.12.2024, 3:08:52 - INFO - Req was made | / 
+22.12.2024, 3:10:11 - INFO - Req was made | / 
+22.12.2024, 3:27:25 - INFO - Req was made | / 
+22.12.2024, 3:27:44 - INFO - Req was made | / 
+22.12.2024, 3:28:42 - INFO - Req was made | / 
+22.12.2024, 3:30:09 - INFO - Req was made | / 
+22.12.2024, 3:32:19 - INFO - Req was made | / 
+22.12.2024, 3:32:54 - INFO - Req was made | / 
+22.12.2024, 3:34:33 - INFO - Req was made | / 
+22.12.2024, 3:40:54 - INFO - Req was made | / 
+22.12.2024, 3:43:54 - INFO - Req was made | / 
+22.12.2024, 3:46:40 - INFO - Req was made | / 
+22.12.2024, 3:46:44 - INFO - Req was made | / 
+22.12.2024, 3:47:13 - INFO - Req was made | / 
+22.12.2024, 3:47:17 - INFO - Req was made | / 
+22.12.2024, 3:53:56 - INFO - Req was made | / 
+22.12.2024, 3:54:15 - INFO - Req was made | / 
+22.12.2024, 3:54:38 - INFO - Req was made | / 
+22.12.2024, 3:55:57 - INFO - Req was made | / 
+22.12.2024, 3:59:46 - DEBUG - auth.service - login with username: admin 
+22.12.2024, 3:59:46 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+22.12.2024, 4:13:37 - INFO - Req was made | / 
+22.12.2024, 4:24:22 - INFO - Req was made | / 
+22.12.2024, 4:24:25 - INFO - Req was made | / 
+22.12.2024, 4:28:40 - INFO - Req was made | / 
+22.12.2024, 4:33:17 - INFO - Req was made | / 
+22.12.2024, 4:33:20 - INFO - Req was made | / 
+22.12.2024, 4:33:41 - INFO - Req was made | / 
+22.12.2024, 4:33:46 - INFO - Req was made | / 
+22.12.2024, 4:36:33 - INFO - Req was made | / 
+22.12.2024, 4:36:36 - INFO - Req was made | / 
+22.12.2024, 4:38:00 - INFO - Req was made | / 
+22.12.2024, 18:46:20 - INFO - Req was made | / 
+22.12.2024, 22:11:51 - INFO - Req was made | / 
+23.12.2024, 3:55:32 - INFO - Req was made | / 
+23.12.2024, 15:33:08 - INFO - Req was made | / 
+23.12.2024, 15:33:30 - INFO - Req was made | / 
+23.12.2024, 15:34:06 - INFO - Req was made | / 
+23.12.2024, 15:34:51 - INFO - Req was made | / 
+23.12.2024, 15:38:37 - INFO - Req was made | / 
+23.12.2024, 15:58:45 - INFO - Req was made | / 
+23.12.2024, 16:05:26 - INFO - server.js loaded... 
+23.12.2024, 16:05:26 - INFO - Server is running on port: 3030 
+23.12.2024, 16:09:13 - DEBUG - auth.service - login with username: admin 
+23.12.2024, 16:09:13 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+23.12.2024, 16:09:19 - DEBUG - auth.service - login with username: admin 
+23.12.2024, 16:09:19 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+23.12.2024, 16:09:32 - INFO - Req was made | / 
+23.12.2024, 16:10:56 - INFO - Req was made | / 
+23.12.2024, 16:11:04 - DEBUG - auth.service - login with username: admin 
+23.12.2024, 16:11:04 - INFO - User login:  | {"_id":"675b6eab64266bfb23b2a982","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+23.12.2024, 17:40:59 - INFO - Req was made | / 
+23.12.2024, 19:00:37 - INFO - Req was made | / 
+25.12.2024, 3:51:57 - INFO - server.js loaded... 
+25.12.2024, 3:51:57 - INFO - Server is running on port: 3030 
+25.12.2024, 3:52:29 - INFO - Req was made | / 
+25.12.2024, 3:52:32 - INFO - Req was made | / 
+25.12.2024, 3:52:34 - INFO - Req was made | / 
+25.12.2024, 3:52:36 - INFO - Req was made | / 
+25.12.2024, 3:52:43 - INFO - Req was made | / 
+25.12.2024, 3:55:29 - INFO - Req was made | / 
+25.12.2024, 4:45:08 - INFO - Req was made | / 
+25.12.2024, 4:46:24 - DEBUG - auth.service - signup with username: admin, fullname: Admin 
+25.12.2024, 4:46:24 - DEBUG - auth.route - new account created: {"username":"admin","password":"$2b$10$miKa2WwyERfRnoaJVNYEm.dVVMn0sSqvB3L22VYQFeYReH/p0ZLrW","fullname":"Admin","score":0,"_id":"676b63f03cd8ed37c750fc17"} 
+25.12.2024, 4:46:24 - DEBUG - auth.service - login with username: admin 
+25.12.2024, 4:46:44 - INFO - Req was made | / 
+25.12.2024, 4:46:46 - INFO - Req was made | / 
+25.12.2024, 4:46:50 - DEBUG - auth.service - login with username: admin 
+25.12.2024, 4:46:50 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+25.12.2024, 4:46:54 - INFO - Req was made | / 
+25.12.2024, 17:51:39 - INFO - server.js loaded... 
+25.12.2024, 17:51:39 - INFO - Server is running on port: 3030 
+25.12.2024, 17:51:48 - INFO - Req was made | / 
+25.12.2024, 17:51:54 - INFO - Req was made | / 
+25.12.2024, 17:52:18 - INFO - server.js loaded... 
+25.12.2024, 17:52:18 - INFO - Server is running on port: 3030 
+25.12.2024, 17:52:19 - INFO - Req was made | / 
+25.12.2024, 17:52:19 - ERROR - Failed to get toys | ReferenceError: url is not defined 
+25.12.2024, 17:52:23 - INFO - server.js loaded... 
+25.12.2024, 17:52:23 - INFO - Server is running on port: 3030 
+25.12.2024, 17:52:24 - INFO - Req was made | / 
+25.12.2024, 17:58:04 - INFO - server.js loaded... 
+25.12.2024, 17:58:04 - INFO - Server is running on port: 3030 
+25.12.2024, 18:04:08 - INFO - server.js loaded... 
+25.12.2024, 18:04:08 - INFO - Server is running on port: 3030 
+25.12.2024, 18:04:11 - INFO - Req was made | / 
+25.12.2024, 18:04:14 - INFO - Req was made | / 
+25.12.2024, 18:04:15 - INFO - Req was made | / 
+25.12.2024, 18:04:19 - INFO - Req was made | / 
+25.12.2024, 18:04:38 - INFO - Req was made | / 
+25.12.2024, 18:04:40 - INFO - Req was made | / 
+25.12.2024, 18:04:45 - INFO - Req was made | / 
+25.12.2024, 18:04:46 - INFO - Req was made | / 
+25.12.2024, 18:04:48 - INFO - Req was made | / 
+25.12.2024, 18:04:51 - INFO - Req was made | / 
+25.12.2024, 18:04:56 - INFO - Req was made | / 
+25.12.2024, 18:04:58 - INFO - Req was made | / 
+25.12.2024, 18:04:58 - INFO - Req was made | / 
+25.12.2024, 18:14:12 - INFO - Server is running on port: 3030 
+25.12.2024, 18:14:12 - INFO - server.js loaded... 
+25.12.2024, 18:15:54 - INFO - server.js loaded... 
+25.12.2024, 18:15:54 - INFO - Server is running on port: 3030 
+25.12.2024, 18:18:54 - INFO - server.js loaded... 
+25.12.2024, 18:18:54 - INFO - Server is running on port: 3030 
+25.12.2024, 18:27:13 - INFO - server.js loaded... 
+25.12.2024, 18:27:14 - INFO - Server is running on port: 3030 
+25.12.2024, 18:27:23 - ERROR - cannot find users | ReferenceError: logger is not defined 
+25.12.2024, 18:27:23 - ERROR - Failed to get users | ReferenceError: logger is not defined 
+25.12.2024, 18:28:20 - INFO - server.js loaded... 
+25.12.2024, 18:28:20 - INFO - Server is running on port: 3030 
+25.12.2024, 18:29:30 - INFO - server.js loaded... 
+25.12.2024, 18:29:30 - INFO - Server is running on port: 3030 
+25.12.2024, 18:29:32 - INFO - Req was made | / 
+25.12.2024, 18:29:35 - INFO - server.js loaded... 
+25.12.2024, 18:29:35 - INFO - Server is running on port: 3030 
+25.12.2024, 18:29:37 - INFO - Req was made | / 
+25.12.2024, 18:29:44 - INFO - server.js loaded... 
+25.12.2024, 18:29:44 - INFO - Server is running on port: 3030 
+25.12.2024, 18:31:13 - INFO - server.js loaded... 
+25.12.2024, 18:31:13 - INFO - Server is running on port: 3030 
+25.12.2024, 18:32:56 - INFO - server.js loaded... 
+25.12.2024, 18:32:56 - INFO - Server is running on port: 3030 
+25.12.2024, 18:33:01 - INFO - Req was made | / 
+25.12.2024, 18:33:06 - INFO - Req was made | / 
+25.12.2024, 18:33:08 - INFO - Req was made | / 
+25.12.2024, 18:33:12 - INFO - Req was made | / 
+25.12.2024, 18:33:12 - INFO - Req was made | / 
+25.12.2024, 18:33:21 - INFO - Req was made | / 
+25.12.2024, 18:33:22 - INFO - Req was made | / 
+25.12.2024, 18:33:42 - INFO - server.js loaded... 
+25.12.2024, 18:33:42 - INFO - Server is running on port: 3030 
+25.12.2024, 18:33:47 - INFO - server.js loaded... 
+25.12.2024, 18:33:47 - INFO - Server is running on port: 3030 
+25.12.2024, 18:34:45 - INFO - server.js loaded... 
+25.12.2024, 18:34:45 - INFO - Server is running on port: 3030 
+25.12.2024, 18:34:49 - INFO - server.js loaded... 
+25.12.2024, 18:34:49 - INFO - Server is running on port: 3030 
+25.12.2024, 18:34:51 - INFO - Req was made | / 
+25.12.2024, 18:34:53 - INFO - Req was made | / 
+25.12.2024, 18:35:50 - INFO - server.js loaded... 
+25.12.2024, 18:35:50 - INFO - Server is running on port: 3030 
+25.12.2024, 18:36:04 - INFO - server.js loaded... 
+25.12.2024, 18:36:04 - INFO - Server is running on port: 3030 
+25.12.2024, 18:36:24 - INFO - server.js loaded... 
+25.12.2024, 18:36:24 - INFO - Server is running on port: 3030 
+25.12.2024, 18:36:28 - INFO - server.js loaded... 
+25.12.2024, 18:36:28 - INFO - Server is running on port: 3030 
+25.12.2024, 18:36:34 - INFO - server.js loaded... 
+25.12.2024, 18:36:34 - INFO - Server is running on port: 3030 
+25.12.2024, 18:36:37 - INFO - server.js loaded... 
+25.12.2024, 18:36:37 - INFO - Server is running on port: 3030 
+25.12.2024, 18:36:41 - INFO - Req was made | / 
+25.12.2024, 18:36:46 - DEBUG - auth.service - login with username: admin 
+25.12.2024, 18:36:46 - ERROR - Failed to Login Error: Invalid username or password 
+25.12.2024, 18:36:49 - INFO - Req was made | / 
+25.12.2024, 18:37:29 - INFO - server.js loaded... 
+25.12.2024, 18:37:29 - INFO - Server is running on port: 3030 
+25.12.2024, 18:37:40 - INFO - server.js loaded... 
+25.12.2024, 18:37:40 - INFO - Server is running on port: 3030 
+25.12.2024, 18:37:49 - INFO - server.js loaded... 
+25.12.2024, 18:37:49 - INFO - Server is running on port: 3030 
+25.12.2024, 18:39:09 - INFO - server.js loaded... 
+25.12.2024, 18:39:09 - INFO - Server is running on port: 3030 
+25.12.2024, 18:39:16 - INFO - server.js loaded... 
+25.12.2024, 18:39:16 - INFO - Server is running on port: 3030 
+25.12.2024, 18:39:26 - INFO - server.js loaded... 
+25.12.2024, 18:39:26 - INFO - Server is running on port: 3030 
+25.12.2024, 18:39:33 - INFO - server.js loaded... 
+25.12.2024, 18:39:33 - INFO - Server is running on port: 3030 
+25.12.2024, 18:39:38 - INFO - server.js loaded... 
+25.12.2024, 18:39:38 - INFO - Server is running on port: 3030 
+25.12.2024, 18:40:13 - INFO - server.js loaded... 
+25.12.2024, 18:40:13 - INFO - Server is running on port: 3030 
+25.12.2024, 18:40:15 - INFO - Req was made | / 
+25.12.2024, 18:40:19 - INFO - Req was made | / 
+25.12.2024, 18:40:20 - INFO - Req was made | / 
+25.12.2024, 18:40:23 - INFO - Req was made | / 
+25.12.2024, 18:40:47 - INFO - server.js loaded... 
+25.12.2024, 18:40:47 - INFO - Server is running on port: 3030 
+25.12.2024, 18:40:51 - INFO - server.js loaded... 
+25.12.2024, 18:40:51 - INFO - Server is running on port: 3030 
+25.12.2024, 18:40:53 - INFO - Req was made | / 
+25.12.2024, 18:42:21 - INFO - server.js loaded... 
+25.12.2024, 18:42:21 - INFO - Server is running on port: 3030 
+25.12.2024, 18:42:57 - INFO - server.js loaded... 
+25.12.2024, 18:42:57 - INFO - Server is running on port: 3030 
+25.12.2024, 18:42:58 - INFO - Req was made | / 
+25.12.2024, 18:43:08 - INFO - server.js loaded... 
+25.12.2024, 18:43:08 - INFO - Server is running on port: 3030 
+25.12.2024, 18:43:13 - INFO - server.js loaded... 
+25.12.2024, 18:43:13 - INFO - Server is running on port: 3030 
+25.12.2024, 18:43:40 - INFO - server.js loaded... 
+25.12.2024, 18:43:40 - INFO - Server is running on port: 3030 
+25.12.2024, 18:43:52 - INFO - server.js loaded... 
+25.12.2024, 18:43:52 - INFO - Server is running on port: 3030 
+25.12.2024, 18:43:53 - INFO - Req was made | / 
+25.12.2024, 20:50:36 - INFO - Req was made | / 
+25.12.2024, 20:52:30 - INFO - Req was made | / 
+25.12.2024, 20:52:36 - INFO - Req was made | / 
+25.12.2024, 20:52:37 - INFO - Req was made | / 
+25.12.2024, 21:00:07 - INFO - Req was made | / 
+25.12.2024, 21:01:24 - INFO - Req was made | / 
+25.12.2024, 21:02:26 - INFO - Req was made | / 
+25.12.2024, 21:02:53 - DEBUG - auth.service - login with username: admin 
+25.12.2024, 21:02:53 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+25.12.2024, 21:02:55 - INFO - Req was made | / 
+25.12.2024, 21:04:10 - INFO - Req was made | / 
+25.12.2024, 21:04:20 - INFO - Req was made | / 
+25.12.2024, 21:04:55 - INFO - Req was made | / 
+25.12.2024, 21:05:09 - INFO - Req was made | / 
+25.12.2024, 21:06:05 - INFO - Req was made | / 
+25.12.2024, 21:06:15 - INFO - Req was made | / 
+25.12.2024, 21:09:06 - INFO - Req was made | / 
+25.12.2024, 21:10:45 - INFO - Req was made | / 
+25.12.2024, 21:10:49 - INFO - Req was made | / 
+25.12.2024, 21:10:53 - INFO - Req was made | / 
+25.12.2024, 21:10:55 - INFO - Req was made | / 
+25.12.2024, 21:10:57 - INFO - Req was made | / 
+25.12.2024, 21:10:59 - INFO - Req was made | / 
+25.12.2024, 21:11:01 - INFO - Req was made | / 
+25.12.2024, 21:13:26 - INFO - Req was made | / 
+25.12.2024, 21:13:28 - INFO - Req was made | / 
+25.12.2024, 21:13:30 - INFO - Req was made | / 
+25.12.2024, 21:13:37 - INFO - Req was made | / 
+25.12.2024, 21:16:15 - INFO - Req was made | / 
+25.12.2024, 21:22:17 - INFO - Req was made | / 
+25.12.2024, 21:22:22 - INFO - Req was made | / 
+25.12.2024, 21:22:34 - INFO - Req was made | / 
+25.12.2024, 21:22:36 - INFO - Req was made | / 
+25.12.2024, 21:22:45 - INFO - Req was made | / 
+25.12.2024, 21:23:29 - INFO - Req was made | / 
+25.12.2024, 21:23:30 - INFO - Req was made | / 
+25.12.2024, 21:23:32 - INFO - Req was made | / 
+25.12.2024, 21:23:33 - INFO - Req was made | / 
+25.12.2024, 21:23:34 - INFO - Req was made | / 
+25.12.2024, 21:23:35 - INFO - Req was made | / 
+25.12.2024, 21:23:36 - INFO - Req was made | / 
+25.12.2024, 21:24:00 - INFO - Req was made | / 
+25.12.2024, 21:24:10 - INFO - Req was made | / 
+25.12.2024, 21:24:12 - INFO - Req was made | / 
+25.12.2024, 21:24:13 - INFO - Req was made | / 
+25.12.2024, 21:24:14 - INFO - Req was made | / 
+25.12.2024, 21:24:15 - INFO - Req was made | / 
+25.12.2024, 21:25:04 - INFO - Req was made | / 
+25.12.2024, 21:25:06 - INFO - Req was made | / 
+25.12.2024, 21:25:11 - INFO - Req was made | / 
+25.12.2024, 21:25:13 - INFO - Req was made | / 
+25.12.2024, 21:25:16 - INFO - Req was made | / 
+25.12.2024, 21:25:17 - INFO - Req was made | / 
+25.12.2024, 21:25:18 - INFO - Req was made | / 
+25.12.2024, 21:25:19 - INFO - Req was made | / 
+25.12.2024, 21:25:33 - INFO - Req was made | / 
+25.12.2024, 21:25:49 - INFO - Req was made | / 
+25.12.2024, 21:30:13 - INFO - Req was made | / 
+25.12.2024, 21:30:14 - INFO - Req was made | / 
+25.12.2024, 21:30:16 - INFO - Req was made | / 
+25.12.2024, 21:30:27 - INFO - Req was made | / 
+25.12.2024, 21:30:28 - INFO - Req was made | / 
+25.12.2024, 21:30:33 - INFO - Req was made | / 
+25.12.2024, 21:30:35 - INFO - Req was made | / 
+25.12.2024, 21:30:36 - INFO - Req was made | / 
+25.12.2024, 21:32:38 - INFO - Req was made | / 
+25.12.2024, 21:32:39 - INFO - Req was made | / 
+25.12.2024, 21:32:47 - INFO - Req was made | / 
+25.12.2024, 21:32:48 - INFO - Req was made | / 
+25.12.2024, 21:32:49 - INFO - Req was made | / 
+25.12.2024, 21:32:50 - INFO - Req was made | / 
+25.12.2024, 21:32:50 - INFO - Req was made | / 
+25.12.2024, 21:32:50 - INFO - Req was made | / 
+25.12.2024, 21:34:43 - INFO - Req was made | / 
+25.12.2024, 21:34:48 - INFO - Req was made | / 
+25.12.2024, 21:35:12 - INFO - Req was made | / 
+25.12.2024, 21:35:15 - INFO - Req was made | / 
+25.12.2024, 21:35:28 - INFO - Req was made | / 
+25.12.2024, 21:35:30 - INFO - Req was made | / 
+25.12.2024, 21:36:09 - INFO - Req was made | / 
+25.12.2024, 21:36:11 - INFO - Req was made | / 
+25.12.2024, 21:36:15 - INFO - Req was made | / 
+25.12.2024, 21:36:22 - INFO - Req was made | / 
+25.12.2024, 21:36:30 - INFO - Req was made | / 
+25.12.2024, 21:36:36 - INFO - Req was made | / 
+25.12.2024, 21:36:42 - INFO - Req was made | / 
+25.12.2024, 21:36:44 - INFO - Req was made | / 
+25.12.2024, 21:37:03 - INFO - Req was made | / 
+25.12.2024, 21:37:05 - INFO - Req was made | / 
+25.12.2024, 21:37:11 - INFO - Req was made | / 
+25.12.2024, 21:37:17 - INFO - Req was made | / 
+25.12.2024, 21:37:22 - INFO - Req was made | / 
+25.12.2024, 21:37:30 - INFO - Req was made | / 
+25.12.2024, 21:37:32 - INFO - Req was made | / 
+25.12.2024, 21:37:37 - INFO - Req was made | / 
+25.12.2024, 21:37:39 - INFO - Req was made | / 
+25.12.2024, 21:37:53 - INFO - Req was made | / 
+25.12.2024, 21:37:54 - INFO - Req was made | / 
+25.12.2024, 21:37:56 - INFO - Req was made | / 
+25.12.2024, 21:38:23 - INFO - Req was made | / 
+25.12.2024, 21:38:47 - INFO - Req was made | / 
+25.12.2024, 21:38:49 - INFO - Req was made | / 
+25.12.2024, 21:38:51 - INFO - Req was made | / 
+25.12.2024, 21:38:52 - INFO - Req was made | / 
+25.12.2024, 21:38:54 - INFO - Req was made | / 
+25.12.2024, 21:38:56 - INFO - Req was made | / 
+25.12.2024, 21:39:23 - INFO - Req was made | / 
+25.12.2024, 21:39:37 - INFO - Req was made | / 
+25.12.2024, 21:39:47 - INFO - Req was made | / 
+25.12.2024, 21:39:48 - INFO - Req was made | / 
+25.12.2024, 21:39:49 - INFO - Req was made | / 
+25.12.2024, 21:39:53 - INFO - Req was made | / 
+25.12.2024, 21:39:54 - INFO - Req was made | / 
+25.12.2024, 21:40:00 - INFO - Req was made | / 
+25.12.2024, 21:40:01 - INFO - Req was made | / 
+25.12.2024, 21:40:05 - INFO - Req was made | / 
+25.12.2024, 21:40:07 - INFO - Req was made | / 
+25.12.2024, 21:40:14 - INFO - Req was made | / 
+25.12.2024, 21:40:15 - INFO - Req was made | / 
+25.12.2024, 21:42:27 - INFO - Req was made | / 
+25.12.2024, 21:42:29 - INFO - Req was made | / 
+25.12.2024, 21:42:31 - INFO - Req was made | / 
+25.12.2024, 21:42:52 - INFO - Req was made | / 
+25.12.2024, 21:42:57 - INFO - Req was made | / 
+25.12.2024, 21:43:08 - INFO - Req was made | / 
+25.12.2024, 21:43:10 - INFO - Req was made | / 
+25.12.2024, 21:43:11 - INFO - Req was made | / 
+25.12.2024, 21:43:34 - INFO - Req was made | / 
+25.12.2024, 21:43:35 - INFO - Req was made | / 
+25.12.2024, 21:43:57 - INFO - Req was made | / 
+25.12.2024, 21:43:58 - INFO - Req was made | / 
+25.12.2024, 21:44:02 - INFO - Req was made | / 
+25.12.2024, 21:44:03 - INFO - Req was made | / 
+25.12.2024, 21:44:05 - INFO - Req was made | / 
+25.12.2024, 21:44:22 - INFO - Req was made | / 
+25.12.2024, 21:44:26 - INFO - Req was made | / 
+25.12.2024, 21:47:37 - INFO - Req was made | / 
+25.12.2024, 21:48:00 - INFO - Req was made | / 
+25.12.2024, 21:48:16 - INFO - Req was made | / 
+25.12.2024, 21:48:45 - INFO - Req was made | / 
+25.12.2024, 21:48:46 - INFO - Req was made | / 
+25.12.2024, 21:49:33 - INFO - Req was made | / 
+25.12.2024, 21:50:17 - INFO - Req was made | / 
+25.12.2024, 21:50:24 - INFO - Req was made | / 
+25.12.2024, 21:50:32 - INFO - Req was made | / 
+25.12.2024, 21:50:52 - INFO - Req was made | / 
+25.12.2024, 21:50:56 - INFO - Req was made | / 
+25.12.2024, 21:50:59 - INFO - Req was made | / 
+25.12.2024, 21:51:00 - INFO - Req was made | / 
+25.12.2024, 21:51:05 - INFO - Req was made | / 
+25.12.2024, 21:51:12 - INFO - Req was made | / 
+25.12.2024, 21:51:23 - INFO - Req was made | / 
+25.12.2024, 21:51:25 - INFO - Req was made | / 
+25.12.2024, 21:51:28 - INFO - Req was made | / 
+25.12.2024, 21:51:29 - INFO - Req was made | / 
+25.12.2024, 21:51:43 - INFO - Req was made | / 
+25.12.2024, 21:51:44 - INFO - Req was made | / 
+25.12.2024, 21:51:46 - INFO - Req was made | / 
+25.12.2024, 21:52:31 - INFO - Req was made | / 
+25.12.2024, 21:52:32 - INFO - Req was made | / 
+25.12.2024, 21:54:05 - INFO - Req was made | / 
+25.12.2024, 21:54:07 - INFO - Req was made | / 
+25.12.2024, 21:54:08 - INFO - Req was made | / 
+25.12.2024, 21:54:12 - INFO - Req was made | / 
+25.12.2024, 21:54:22 - INFO - Req was made | / 
+25.12.2024, 21:54:25 - INFO - Req was made | / 
+25.12.2024, 21:54:30 - INFO - Req was made | / 
+25.12.2024, 21:54:31 - INFO - Req was made | / 
+25.12.2024, 21:54:32 - INFO - Req was made | / 
+25.12.2024, 21:55:14 - INFO - Req was made | / 
+25.12.2024, 21:55:15 - INFO - Req was made | / 
+25.12.2024, 21:55:51 - INFO - Req was made | / 
+25.12.2024, 21:55:52 - INFO - Req was made | / 
+25.12.2024, 21:55:54 - INFO - Req was made | / 
+25.12.2024, 21:56:39 - INFO - Req was made | / 
+25.12.2024, 21:56:46 - INFO - Req was made | / 
+25.12.2024, 21:56:47 - INFO - Req was made | / 
+25.12.2024, 21:56:49 - INFO - Req was made | / 
+25.12.2024, 21:57:17 - INFO - Req was made | / 
+25.12.2024, 21:57:32 - INFO - Req was made | / 
+25.12.2024, 21:57:36 - INFO - Req was made | / 
+25.12.2024, 21:57:37 - INFO - Req was made | / 
+25.12.2024, 21:57:42 - INFO - Req was made | / 
+25.12.2024, 21:57:44 - INFO - Req was made | / 
+25.12.2024, 21:57:50 - INFO - Req was made | / 
+25.12.2024, 22:06:39 - ERROR - cannot update user undefined | BSONError: hex string must be 24 characters 
+25.12.2024, 22:06:39 - ERROR - Failed to update user | BSONError: hex string must be 24 characters 
+25.12.2024, 22:07:40 - ERROR - cannot update user undefined | BSONError: hex string must be 24 characters 
+25.12.2024, 22:07:40 - ERROR - Failed to update user | BSONError: hex string must be 24 characters 
+25.12.2024, 22:09:00 - ERROR - cannot update user undefined | BSONError: hex string must be 24 characters 
+25.12.2024, 22:09:00 - ERROR - Failed to update user | BSONError: hex string must be 24 characters 
+25.12.2024, 22:13:00 - INFO - server.js loaded... 
+25.12.2024, 22:13:00 - INFO - Server is running on port: 3030 
+25.12.2024, 22:14:47 - INFO - server.js loaded... 
+25.12.2024, 22:14:47 - INFO - Server is running on port: 3030 
+26.12.2024, 15:22:59 - INFO - Req was made | / 
+26.12.2024, 15:23:03 - INFO - Req was made | / 
+26.12.2024, 15:23:05 - INFO - Req was made | / 
+26.12.2024, 15:23:08 - INFO - Req was made | / 
+26.12.2024, 15:23:41 - INFO - Req was made | / 
+26.12.2024, 15:23:42 - INFO - Req was made | / 
+26.12.2024, 15:23:45 - INFO - Req was made | / 
+26.12.2024, 15:23:47 - INFO - Req was made | / 
+26.12.2024, 15:23:54 - INFO - Req was made | / 
+26.12.2024, 15:23:57 - INFO - Req was made | / 
+26.12.2024, 15:24:02 - INFO - Req was made | / 
+26.12.2024, 15:24:05 - INFO - Req was made | / 
+26.12.2024, 15:24:08 - INFO - Req was made | / 
+26.12.2024, 15:24:09 - INFO - Req was made | / 
+26.12.2024, 15:24:10 - INFO - Req was made | / 
+26.12.2024, 15:24:14 - INFO - Req was made | / 
+26.12.2024, 15:24:18 - INFO - Req was made | / 
+26.12.2024, 15:24:40 - INFO - Req was made | / 
+26.12.2024, 15:55:21 - INFO - Req was made | / 
+26.12.2024, 15:56:46 - INFO - Req was made | / 
+26.12.2024, 16:00:20 - INFO - Req was made | / 
+26.12.2024, 16:04:49 - INFO - Req was made | / 
+26.12.2024, 16:08:06 - INFO - Req was made | / 
+26.12.2024, 16:08:23 - INFO - Req was made | / 
+26.12.2024, 16:08:49 - INFO - Req was made | / 
+26.12.2024, 16:08:50 - INFO - Req was made | / 
+26.12.2024, 16:08:50 - INFO - Req was made | / 
+26.12.2024, 16:08:51 - INFO - Req was made | / 
+26.12.2024, 16:08:53 - INFO - Req was made | / 
+26.12.2024, 16:08:53 - INFO - Req was made | / 
+26.12.2024, 16:08:53 - INFO - Req was made | / 
+26.12.2024, 16:08:53 - INFO - Req was made | / 
+26.12.2024, 16:09:00 - INFO - Req was made | / 
+26.12.2024, 16:10:45 - INFO - Req was made | / 
+26.12.2024, 16:10:48 - INFO - Req was made | / 
+26.12.2024, 16:15:21 - INFO - Req was made | / 
+26.12.2024, 16:15:33 - INFO - Req was made | / 
+26.12.2024, 16:17:35 - INFO - Req was made | / 
+26.12.2024, 16:22:02 - INFO - Req was made | / 
+26.12.2024, 16:28:23 - INFO - Req was made | / 
+26.12.2024, 16:38:14 - INFO - Req was made | / 
+26.12.2024, 16:41:58 - INFO - Req was made | / 
+26.12.2024, 16:42:41 - INFO - Req was made | / 
+26.12.2024, 16:45:46 - INFO - Req was made | / 
+26.12.2024, 16:47:08 - INFO - Req was made | / 
+26.12.2024, 16:50:36 - INFO - Req was made | / 
+26.12.2024, 16:51:18 - INFO - Req was made | / 
+26.12.2024, 16:51:34 - INFO - Req was made | / 
+26.12.2024, 16:53:13 - INFO - Req was made | / 
+26.12.2024, 16:54:53 - INFO - Req was made | / 
+26.12.2024, 16:56:20 - INFO - Req was made | / 
+26.12.2024, 16:56:29 - INFO - Req was made | / 
+26.12.2024, 17:02:05 - INFO - Req was made | / 
+26.12.2024, 17:02:14 - INFO - Req was made | / 
+26.12.2024, 17:12:44 - INFO - server.js loaded... 
+26.12.2024, 17:12:44 - INFO - Server is running on port: 3030 
+26.12.2024, 17:13:43 - INFO - server.js loaded... 
+26.12.2024, 17:13:43 - INFO - Server is running on port: 3030 
+26.12.2024, 17:13:50 - INFO - server.js loaded... 
+26.12.2024, 17:13:50 - INFO - Server is running on port: 3030 
+26.12.2024, 17:21:11 - INFO - server.js loaded... 
+26.12.2024, 17:21:11 - INFO - Server is running on port: 3030 
+26.12.2024, 17:21:12 - INFO - server.js loaded... 
+26.12.2024, 17:21:12 - INFO - Server is running on port: 3030 
+26.12.2024, 17:21:49 - INFO - server.js loaded... 
+26.12.2024, 17:21:49 - INFO - Server is running on port: 3030 
+26.12.2024, 17:22:25 - INFO - server.js loaded... 
+26.12.2024, 17:22:25 - INFO - Server is running on port: 3030 
+26.12.2024, 17:22:34 - INFO - server.js loaded... 
+26.12.2024, 17:22:34 - INFO - Server is running on port: 3030 
+26.12.2024, 17:23:24 - INFO - server.js loaded... 
+26.12.2024, 17:23:24 - INFO - Server is running on port: 3030 
+26.12.2024, 17:24:33 - INFO - server.js loaded... 
+26.12.2024, 17:24:33 - INFO - Server is running on port: 3030 
+26.12.2024, 17:24:37 - INFO - server.js loaded... 
+26.12.2024, 17:24:37 - INFO - Server is running on port: 3030 
+26.12.2024, 17:28:14 - INFO - server.js loaded... 
+26.12.2024, 17:28:14 - INFO - Server is running on port: 3030 
+26.12.2024, 17:45:56 - INFO - server.js loaded... 
+26.12.2024, 17:45:56 - INFO - Server is running on port: 3030 
+26.12.2024, 17:46:06 - INFO - server.js loaded... 
+26.12.2024, 17:46:06 - INFO - Server is running on port: 3030 
+26.12.2024, 17:46:28 - INFO - Server is running on port: 3030 
+26.12.2024, 17:46:28 - INFO - server.js loaded... 
+26.12.2024, 17:47:08 - INFO - server.js loaded... 
+26.12.2024, 17:47:08 - INFO - Server is running on port: 3030 
+26.12.2024, 17:47:51 - INFO - server.js loaded... 
+26.12.2024, 17:47:51 - INFO - Server is running on port: 3030 
+26.12.2024, 17:48:06 - INFO - server.js loaded... 
+26.12.2024, 17:48:06 - INFO - Server is running on port: 3030 
+26.12.2024, 17:49:02 - INFO - server.js loaded... 
+26.12.2024, 17:49:02 - INFO - Server is running on port: 3030 
+26.12.2024, 17:49:59 - INFO - server.js loaded... 
+26.12.2024, 17:49:59 - INFO - Server is running on port: 3030 
+26.12.2024, 17:50:41 - INFO - server.js loaded... 
+26.12.2024, 17:50:41 - INFO - Server is running on port: 3030 
+26.12.2024, 17:51:36 - INFO - server.js loaded... 
+26.12.2024, 17:51:36 - INFO - Server is running on port: 3030 
+26.12.2024, 17:52:07 - INFO - server.js loaded... 
+26.12.2024, 17:52:07 - INFO - Server is running on port: 3030 
+26.12.2024, 17:52:15 - INFO - server.js loaded... 
+26.12.2024, 17:52:15 - INFO - Server is running on port: 3030 
+26.12.2024, 17:52:23 - INFO - server.js loaded... 
+26.12.2024, 17:52:23 - INFO - Server is running on port: 3030 
+26.12.2024, 17:53:55 - INFO - server.js loaded... 
+26.12.2024, 17:53:55 - INFO - Server is running on port: 3030 
+26.12.2024, 17:54:48 - INFO - server.js loaded... 
+26.12.2024, 17:54:48 - INFO - Server is running on port: 3030 
+26.12.2024, 17:54:56 - ERROR - cannot insert review | MongoServerError: E11000 duplicate key error collection: MisterToy.reviews index: _id_ dup key: { _id: ObjectId('676b63f03cd8ed37c750fc17') } 
+26.12.2024, 17:54:56 - ERROR - Failed to add review | MongoServerError: E11000 duplicate key error collection: MisterToy.reviews index: _id_ dup key: { _id: ObjectId('676b63f03cd8ed37c750fc17') } 
+26.12.2024, 17:55:53 - INFO - server.js loaded... 
+26.12.2024, 17:55:53 - INFO - Server is running on port: 3030 
+26.12.2024, 18:00:23 - INFO - server.js loaded... 
+26.12.2024, 18:00:23 - INFO - Server is running on port: 3030 
+26.12.2024, 18:06:07 - INFO - Req was made | / 
+26.12.2024, 18:07:12 - INFO - Req was made | / 
+27.12.2024, 2:26:30 - INFO - Req was made | / 
+27.12.2024, 2:29:25 - INFO - Req was made | / 
+27.12.2024, 2:30:44 - INFO - Req was made | / 
+27.12.2024, 2:31:47 - INFO - Req was made | / 
+27.12.2024, 2:33:30 - INFO - Req was made | / 
+27.12.2024, 2:35:57 - INFO - Req was made | / 
+27.12.2024, 2:36:30 - INFO - server.js loaded... 
+27.12.2024, 2:36:30 - INFO - Server is running on port: 3030 
+27.12.2024, 2:36:56 - INFO - Req was made | / 
+27.12.2024, 2:44:01 - INFO - Req was made | / 
+27.12.2024, 2:48:07 - INFO - server.js loaded... 
+27.12.2024, 2:48:08 - INFO - Server is running on port: 3030 
+27.12.2024, 2:48:46 - INFO - server.js loaded... 
+27.12.2024, 2:48:46 - INFO - Server is running on port: 3030 
+27.12.2024, 2:48:48 - INFO - server.js loaded... 
+27.12.2024, 2:48:48 - INFO - Server is running on port: 3030 
+27.12.2024, 2:48:50 - INFO - Req was made | / 
+27.12.2024, 2:48:52 - ERROR - cannot remove toy [object Object] | BSONError: Cannot convert circular structure to BSON 
+27.12.2024, 2:48:52 - ERROR - Failed to add review | BSONError: Cannot convert circular structure to BSON 
+27.12.2024, 2:49:42 - ERROR - cannot remove toy [object Object] | BSONError: Cannot convert circular structure to BSON 
+27.12.2024, 2:49:42 - ERROR - Failed to add review | BSONError: Cannot convert circular structure to BSON 
+27.12.2024, 2:51:37 - INFO - server.js loaded... 
+27.12.2024, 2:51:37 - INFO - Server is running on port: 3030 
+27.12.2024, 2:51:38 - INFO - server.js loaded... 
+27.12.2024, 2:51:38 - INFO - Server is running on port: 3030 
+27.12.2024, 2:51:47 - INFO - Req was made | / 
+27.12.2024, 2:52:14 - INFO - server.js loaded... 
+27.12.2024, 2:52:14 - INFO - Server is running on port: 3030 
+27.12.2024, 2:52:42 - INFO - server.js loaded... 
+27.12.2024, 2:52:42 - INFO - Server is running on port: 3030 
+27.12.2024, 2:52:58 - INFO - Server is running on port: 3030 
+27.12.2024, 2:52:58 - INFO - server.js loaded... 
+27.12.2024, 2:52:59 - INFO - Req was made | / 
+27.12.2024, 2:55:21 - INFO - Req was made | / 
+27.12.2024, 2:56:26 - INFO - Req was made | / 
+27.12.2024, 2:56:40 - INFO - Req was made | / 
+27.12.2024, 2:57:25 - INFO - server.js loaded... 
+27.12.2024, 2:57:25 - INFO - Server is running on port: 3030 
+27.12.2024, 2:57:27 - INFO - Req was made | / 
+27.12.2024, 2:57:29 - ERROR - Failed to add review | BSONError: hex string must be 24 characters 
+27.12.2024, 2:57:29 - ERROR - cannot remove toy [object Object] | BSONError: hex string must be 24 characters 
+27.12.2024, 2:57:57 - INFO - server.js loaded... 
+27.12.2024, 2:57:57 - INFO - Server is running on port: 3030 
+27.12.2024, 2:57:59 - ERROR - cannot remove toy [object Object] | BSONError: hex string must be 24 characters 
+27.12.2024, 2:57:59 - ERROR - Failed to add review | BSONError: hex string must be 24 characters 
+27.12.2024, 2:58:13 - INFO - server.js loaded... 
+27.12.2024, 2:58:13 - INFO - Server is running on port: 3030 
+27.12.2024, 2:58:38 - INFO - server.js loaded... 
+27.12.2024, 2:58:38 - INFO - Server is running on port: 3030 
+27.12.2024, 2:58:46 - INFO - server.js loaded... 
+27.12.2024, 2:58:47 - INFO - Server is running on port: 3030 
+27.12.2024, 2:58:48 - ERROR - Failed to add review | BSONError: hex string must be 24 characters 
+27.12.2024, 2:58:48 - ERROR - cannot remove toy [object Object] | BSONError: hex string must be 24 characters 
+27.12.2024, 2:58:54 - INFO - Server is running on port: 3030 
+27.12.2024, 2:58:54 - INFO - server.js loaded... 
+27.12.2024, 2:58:55 - ERROR - cannot remove toy [object Object] | BSONError: hex string must be 24 characters 
+27.12.2024, 2:58:55 - ERROR - Failed to add review | BSONError: hex string must be 24 characters 
+27.12.2024, 2:59:02 - INFO - server.js loaded... 
+27.12.2024, 2:59:02 - INFO - Server is running on port: 3030 
+27.12.2024, 2:59:17 - INFO - Req was made | / 
+27.12.2024, 2:59:25 - INFO - server.js loaded... 
+27.12.2024, 2:59:25 - INFO - Server is running on port: 3030 
+27.12.2024, 2:59:38 - INFO - server.js loaded... 
+27.12.2024, 2:59:38 - INFO - Server is running on port: 3030 
+27.12.2024, 2:59:40 - INFO - Req was made | / 
+27.12.2024, 2:59:44 - INFO - Req was made | / 
+27.12.2024, 3:00:15 - INFO - server.js loaded... 
+27.12.2024, 3:00:15 - INFO - Server is running on port: 3030 
+27.12.2024, 3:00:23 - INFO - Req was made | / 
+27.12.2024, 3:00:41 - INFO - server.js loaded... 
+27.12.2024, 3:00:41 - INFO - Server is running on port: 3030 
+27.12.2024, 3:00:50 - INFO - Req was made | / 
+27.12.2024, 3:01:11 - INFO - server.js loaded... 
+27.12.2024, 3:01:11 - INFO - Server is running on port: 3030 
+27.12.2024, 3:01:14 - INFO - server.js loaded... 
+27.12.2024, 3:01:14 - INFO - Server is running on port: 3030 
+27.12.2024, 3:01:19 - INFO - server.js loaded... 
+27.12.2024, 3:01:19 - INFO - Server is running on port: 3030 
+27.12.2024, 3:01:36 - INFO - server.js loaded... 
+27.12.2024, 3:01:37 - INFO - Server is running on port: 3030 
+27.12.2024, 3:01:39 - INFO - server.js loaded... 
+27.12.2024, 3:01:39 - INFO - Server is running on port: 3030 
+27.12.2024, 3:01:55 - INFO - Req was made | / 
+27.12.2024, 3:04:22 - INFO - Server is running on port: 3030 
+27.12.2024, 3:04:22 - INFO - server.js loaded... 
+27.12.2024, 3:07:28 - INFO - Req was made | / 
+27.12.2024, 3:07:56 - INFO - Req was made | / 
+27.12.2024, 3:09:22 - INFO - Req was made | / 
+27.12.2024, 3:09:26 - INFO - Req was made | / 
+27.12.2024, 3:09:30 - INFO - Req was made | / 
+27.12.2024, 3:14:15 - INFO - server.js loaded... 
+27.12.2024, 3:14:15 - INFO - Server is running on port: 3030 
+27.12.2024, 3:14:25 - INFO - Req was made | / 
+27.12.2024, 3:15:05 - INFO - Req was made | / 
+27.12.2024, 3:15:08 - INFO - Req was made | / 
+27.12.2024, 3:15:18 - INFO - Req was made | / 
+27.12.2024, 3:16:09 - INFO - Req was made | / 
+27.12.2024, 3:16:14 - INFO - Req was made | / 
+27.12.2024, 3:16:15 - INFO - Req was made | / 
+27.12.2024, 3:16:15 - INFO - Req was made | / 
+27.12.2024, 3:16:15 - INFO - Req was made | / 
+27.12.2024, 3:16:16 - INFO - Req was made | / 
+27.12.2024, 3:16:18 - INFO - Req was made | / 
+27.12.2024, 3:16:18 - INFO - Req was made | / 
+27.12.2024, 3:16:18 - INFO - Req was made | / 
+27.12.2024, 3:16:18 - INFO - Req was made | / 
+27.12.2024, 3:16:18 - INFO - Req was made | / 
+27.12.2024, 3:16:22 - INFO - Req was made | / 
+27.12.2024, 3:16:22 - INFO - Req was made | / 
+27.12.2024, 3:16:22 - INFO - Req was made | / 
+27.12.2024, 3:16:23 - INFO - Req was made | / 
+27.12.2024, 3:16:23 - INFO - Req was made | / 
+27.12.2024, 3:16:23 - INFO - Req was made | / 
+27.12.2024, 3:17:44 - INFO - Req was made | / 
+27.12.2024, 3:17:47 - INFO - Req was made | / 
+27.12.2024, 3:20:33 - INFO - Req was made | / 
+27.12.2024, 3:24:10 - INFO - Req was made | / 
+27.12.2024, 3:24:26 - INFO - Req was made | / 
+27.12.2024, 3:24:58 - INFO - Req was made | / 
+27.12.2024, 3:42:09 - INFO - server.js loaded... 
+27.12.2024, 3:42:09 - INFO - Server is running on port: 3030 
+27.12.2024, 3:42:32 - INFO - Req was made | / 
+27.12.2024, 3:42:42 - INFO - Req was made | / 
+27.12.2024, 3:43:23 - INFO - Server is running on port: 3030 
+27.12.2024, 3:43:23 - INFO - server.js loaded... 
+27.12.2024, 3:44:09 - INFO - server.js loaded... 
+27.12.2024, 3:44:09 - INFO - Server is running on port: 3030 
+27.12.2024, 3:44:11 - INFO - Req was made | / 
+27.12.2024, 3:44:16 - INFO - server.js loaded... 
+27.12.2024, 3:44:16 - INFO - Server is running on port: 3030 
+27.12.2024, 3:44:45 - INFO - Req was made | / 
+27.12.2024, 3:44:55 - INFO - Req was made | / 
+27.12.2024, 3:45:28 - INFO - Req was made | / 
+27.12.2024, 3:45:56 - INFO - server.js loaded... 
+27.12.2024, 3:45:56 - INFO - Server is running on port: 3030 
+27.12.2024, 3:45:58 - INFO - Req was made | / 
+27.12.2024, 3:46:06 - INFO - Req was made | / 
+27.12.2024, 3:47:26 - INFO - Req was made | / 
+27.12.2024, 3:47:28 - INFO - Req was made | / 
+27.12.2024, 3:47:33 - INFO - Req was made | / 
+27.12.2024, 3:47:54 - INFO - Req was made | / 
+27.12.2024, 3:47:59 - INFO - Req was made | / 
+27.12.2024, 3:54:21 - INFO - server.js loaded... 
+27.12.2024, 3:54:21 - INFO - Server is running on port: 3030 
+27.12.2024, 3:57:54 - INFO - server.js loaded... 
+27.12.2024, 3:57:54 - INFO - Server is running on port: 3030 
+27.12.2024, 3:58:11 - INFO - server.js loaded... 
+27.12.2024, 3:58:11 - INFO - Server is running on port: 3030 
+27.12.2024, 3:58:54 - INFO - Req was made | / 
+27.12.2024, 4:00:57 - INFO - server.js loaded... 
+27.12.2024, 4:00:57 - INFO - Server is running on port: 3030 
+27.12.2024, 4:02:21 - INFO - server.js loaded... 
+27.12.2024, 4:02:21 - INFO - Server is running on port: 3030 
+27.12.2024, 4:02:59 - INFO - server.js loaded... 
+27.12.2024, 4:02:59 - INFO - Server is running on port: 3030 
+27.12.2024, 4:06:10 - ERROR - cannot get reviews | ReferenceError: criteria is not defined 
+27.12.2024, 4:06:10 - ERROR - Failed to get reviews | ReferenceError: criteria is not defined 
+27.12.2024, 4:07:07 - INFO - server.js loaded... 
+27.12.2024, 4:07:07 - INFO - Server is running on port: 3030 
+27.12.2024, 4:07:08 - ERROR - cannot get reviews | ReferenceError: criteria is not defined 
+27.12.2024, 4:07:08 - ERROR - Failed to get reviews | ReferenceError: criteria is not defined 
+27.12.2024, 4:07:58 - INFO - server.js loaded... 
+27.12.2024, 4:07:58 - INFO - Server is running on port: 3030 
+27.12.2024, 4:07:59 - ERROR - cannot get reviews | ReferenceError: criteria is not defined 
+27.12.2024, 4:07:59 - ERROR - Failed to get reviews | ReferenceError: criteria is not defined 
+27.12.2024, 4:08:03 - INFO - server.js loaded... 
+27.12.2024, 4:08:04 - INFO - Server is running on port: 3030 
+27.12.2024, 4:08:34 - INFO - server.js loaded... 
+27.12.2024, 4:08:34 - INFO - Server is running on port: 3030 
+27.12.2024, 4:08:36 - ERROR - cannot get reviews | ReferenceError: criteria is not defined 
+27.12.2024, 4:08:36 - ERROR - Failed to get reviews | ReferenceError: criteria is not defined 
+27.12.2024, 4:09:22 - INFO - server.js loaded... 
+27.12.2024, 4:09:22 - INFO - Server is running on port: 3030 
+27.12.2024, 4:09:29 - INFO - server.js loaded... 
+27.12.2024, 4:09:29 - INFO - Server is running on port: 3030 
+27.12.2024, 4:10:18 - INFO - server.js loaded... 
+27.12.2024, 4:10:18 - INFO - Server is running on port: 3030 
+27.12.2024, 4:10:20 - ERROR - cannot get reviews | TypeError: collection.toArray is not a function 
+27.12.2024, 4:10:20 - ERROR - Failed to get reviews | TypeError: collection.toArray is not a function 
+27.12.2024, 4:10:35 - INFO - server.js loaded... 
+27.12.2024, 4:10:35 - INFO - Server is running on port: 3030 
+27.12.2024, 4:10:51 - INFO - server.js loaded... 
+27.12.2024, 4:10:51 - INFO - Server is running on port: 3030 
+27.12.2024, 4:13:07 - INFO - server.js loaded... 
+27.12.2024, 4:13:07 - INFO - Server is running on port: 3030 
+27.12.2024, 4:14:43 - INFO - Req was made | / 
+27.12.2024, 4:14:49 - INFO - Req was made | / 
+27.12.2024, 4:14:54 - INFO - Req was made | / 
+27.12.2024, 4:14:54 - INFO - Req was made | / 
+27.12.2024, 4:23:52 - INFO - Req was made | / 
+27.12.2024, 4:24:02 - INFO - Req was made | / 
+27.12.2024, 4:24:02 - INFO - Req was made | / 
+27.12.2024, 4:30:17 - INFO - Req was made | / 
+27.12.2024, 4:32:05 - INFO - Req was made | / 
+27.12.2024, 4:33:29 - INFO - Req was made | / 
+27.12.2024, 4:34:08 - INFO - Req was made | / 
+27.12.2024, 4:34:20 - INFO - Req was made | / 
+27.12.2024, 4:34:22 - INFO - Req was made | / 
+28.12.2024, 1:25:38 - INFO - Req was made | / 
+28.12.2024, 1:26:43 - INFO - Req was made | / 
+28.12.2024, 1:26:47 - INFO - Req was made | / 
+28.12.2024, 1:26:52 - INFO - Req was made | / 
+28.12.2024, 1:26:52 - INFO - Req was made | / 
+28.12.2024, 1:27:11 - INFO - Req was made | / 
+28.12.2024, 1:27:13 - INFO - Req was made | / 
+28.12.2024, 1:31:13 - INFO - Req was made | / 
+28.12.2024, 1:34:39 - INFO - Req was made | / 
+28.12.2024, 1:34:39 - INFO - Req was made | / 
+28.12.2024, 1:36:22 - INFO - Req was made | / 
+28.12.2024, 1:38:11 - INFO - Req was made | / 
+28.12.2024, 1:42:46 - INFO - Req was made | / 
+28.12.2024, 1:42:48 - INFO - Req was made | / 
+28.12.2024, 1:44:33 - DEBUG - auth.service - login with username: pookie 
+28.12.2024, 1:44:33 - INFO - User login:  | {"_id":"676626e987baeb4b3dba8530","username":"pookie","fullname":"Pookie","score":0} 
+28.12.2024, 1:44:36 - INFO - Req was made | / 
+28.12.2024, 1:44:37 - INFO - Req was made | / 
+28.12.2024, 1:44:38 - INFO - Req was made | / 
+28.12.2024, 1:44:38 - INFO - Req was made | / 
+28.12.2024, 1:44:39 - INFO - Req was made | / 
+28.12.2024, 1:44:39 - INFO - Req was made | / 
+28.12.2024, 1:44:40 - INFO - Req was made | / 
+28.12.2024, 1:44:40 - INFO - Req was made | / 
+28.12.2024, 1:44:40 - INFO - Req was made | / 
+28.12.2024, 1:44:40 - INFO - Req was made | / 
+28.12.2024, 1:44:41 - INFO - Req was made | / 
+28.12.2024, 1:45:08 - INFO - Req was made | / 
+28.12.2024, 1:45:11 - INFO - Req was made | / 
+28.12.2024, 1:45:11 - INFO - Req was made | / 
+28.12.2024, 1:45:13 - INFO - Req was made | / 
+28.12.2024, 1:45:13 - INFO - Req was made | / 
+28.12.2024, 1:45:17 - INFO - Req was made | / 
+28.12.2024, 1:45:19 - INFO - Req was made | / 
+28.12.2024, 1:45:22 - INFO - Req was made | / 
+28.12.2024, 1:45:22 - INFO - Req was made | / 
+28.12.2024, 1:46:16 - INFO - Req was made | / 
+28.12.2024, 1:46:16 - INFO - Req was made | / 
+28.12.2024, 1:46:48 - INFO - Req was made | / 
+28.12.2024, 1:46:48 - INFO - Req was made | / 
+28.12.2024, 1:46:51 - INFO - Req was made | / 
+28.12.2024, 1:46:51 - INFO - Req was made | / 
+28.12.2024, 1:47:18 - INFO - Req was made | / 
+28.12.2024, 1:47:18 - INFO - Req was made | / 
+28.12.2024, 1:47:44 - INFO - Req was made | / 
+28.12.2024, 1:47:44 - INFO - Req was made | / 
+28.12.2024, 1:47:50 - INFO - Req was made | / 
+28.12.2024, 1:47:50 - INFO - Req was made | / 
+28.12.2024, 1:48:26 - INFO - Req was made | / 
+28.12.2024, 1:53:38 - INFO - Req was made | / 
+28.12.2024, 1:53:38 - INFO - Req was made | / 
+28.12.2024, 1:53:38 - INFO - Req was made | / 
+28.12.2024, 1:53:44 - INFO - Req was made | / 
+28.12.2024, 1:54:04 - INFO - Req was made | / 
+28.12.2024, 1:54:39 - INFO - Req was made | / 
+28.12.2024, 1:55:34 - INFO - Req was made | / 
+28.12.2024, 1:55:36 - INFO - Req was made | / 
+28.12.2024, 1:55:41 - INFO - Req was made | / 
+28.12.2024, 1:55:43 - INFO - Req was made | / 
+28.12.2024, 1:55:51 - INFO - Req was made | / 
+28.12.2024, 1:55:57 - INFO - Req was made | / 
+28.12.2024, 1:56:02 - INFO - Req was made | / 
+28.12.2024, 1:56:04 - INFO - Req was made | / 
+28.12.2024, 1:56:05 - INFO - Req was made | / 
+28.12.2024, 1:56:06 - INFO - Req was made | / 
+28.12.2024, 1:56:06 - INFO - Req was made | / 
+28.12.2024, 1:56:06 - INFO - Req was made | / 
+28.12.2024, 1:56:13 - INFO - Req was made | / 
+28.12.2024, 1:56:13 - INFO - Req was made | / 
+28.12.2024, 1:56:14 - INFO - Req was made | / 
+28.12.2024, 1:56:26 - INFO - Req was made | / 
+28.12.2024, 1:56:26 - INFO - Req was made | / 
+28.12.2024, 1:56:29 - INFO - Req was made | / 
+28.12.2024, 1:56:35 - INFO - Req was made | / 
+28.12.2024, 1:56:37 - INFO - Req was made | / 
+28.12.2024, 1:56:37 - INFO - Req was made | / 
+28.12.2024, 1:56:38 - INFO - Req was made | / 
+28.12.2024, 1:56:41 - INFO - Req was made | / 
+28.12.2024, 1:56:42 - INFO - Req was made | / 
+28.12.2024, 1:56:42 - INFO - Req was made | / 
+28.12.2024, 1:56:43 - INFO - Req was made | / 
+28.12.2024, 1:56:43 - INFO - Req was made | / 
+28.12.2024, 1:56:43 - INFO - Req was made | / 
+28.12.2024, 1:56:58 - INFO - Req was made | / 
+28.12.2024, 1:57:08 - INFO - Req was made | / 
+28.12.2024, 1:57:08 - INFO - Req was made | / 
+28.12.2024, 1:57:09 - INFO - Req was made | / 
+28.12.2024, 1:58:18 - INFO - Req was made | / 
+28.12.2024, 1:59:15 - INFO - Req was made | / 
+28.12.2024, 1:59:17 - INFO - Req was made | / 
+28.12.2024, 1:59:17 - INFO - Req was made | / 
+28.12.2024, 1:59:17 - INFO - Req was made | / 
+28.12.2024, 1:59:17 - INFO - Req was made | / 
+28.12.2024, 1:59:18 - INFO - Req was made | / 
+28.12.2024, 1:59:24 - INFO - Req was made | / 
+28.12.2024, 1:59:26 - INFO - Req was made | / 
+28.12.2024, 1:59:51 - INFO - Req was made | / 
+28.12.2024, 1:59:51 - INFO - Req was made | / 
+28.12.2024, 2:00:06 - INFO - Req was made | / 
+28.12.2024, 2:00:08 - INFO - Req was made | / 
+28.12.2024, 2:00:08 - INFO - Req was made | / 
+28.12.2024, 2:08:14 - INFO - server.js loaded... 
+28.12.2024, 2:08:14 - INFO - Server is running on port: 3030 
+28.12.2024, 2:09:07 - INFO - server.js loaded... 
+28.12.2024, 2:09:07 - INFO - Server is running on port: 3030 
+28.12.2024, 2:09:16 - INFO - server.js loaded... 
+28.12.2024, 2:09:16 - INFO - Server is running on port: 3030 
+28.12.2024, 2:09:29 - INFO - Req was made | / 
+28.12.2024, 2:09:40 - INFO - Req was made | / 
+28.12.2024, 2:11:07 - DEBUG - auth.service - login with username: mattel 
+28.12.2024, 2:11:07 - INFO - User login:  | {"_id":"675b8abc5ae5b385bcef5d40","username":"mattel","fullname":"Mattel","score":10} 
+28.12.2024, 2:11:09 - INFO - Req was made | / 
+28.12.2024, 2:11:09 - INFO - Req was made | / 
+28.12.2024, 2:11:11 - INFO - Req was made | / 
+28.12.2024, 2:11:15 - INFO - Req was made | / 
+28.12.2024, 2:11:54 - DEBUG - auth.service - signup with username: lobos, fullname: Lobos jr. 
+28.12.2024, 2:11:54 - DEBUG - auth.route - new account created: {"username":"lobos","password":"$2b$10$xFLT/HJA4G4nD36IuxkYj.2lhOEK7OEuPHu7aCmiZ/0byt7JZnBf2","fullname":"Lobos jr.","score":0,"_id":"676f343a72241494e90778c6"} 
+28.12.2024, 2:11:54 - DEBUG - auth.service - login with username: lobos 
+28.12.2024, 2:11:56 - INFO - Req was made | / 
+28.12.2024, 2:11:59 - INFO - Req was made | / 
+28.12.2024, 2:12:25 - INFO - Req was made | / 
+28.12.2024, 2:12:44 - INFO - Req was made | / 
+28.12.2024, 2:13:07 - INFO - Req was made | / 
+28.12.2024, 2:13:10 - INFO - Req was made | / 
+28.12.2024, 2:13:11 - INFO - Req was made | / 
+28.12.2024, 2:13:11 - INFO - Req was made | / 
+28.12.2024, 2:13:12 - INFO - Req was made | / 
+28.12.2024, 2:13:12 - INFO - Req was made | / 
+28.12.2024, 2:13:13 - INFO - Req was made | / 
+28.12.2024, 2:13:14 - INFO - Req was made | / 
+28.12.2024, 2:13:14 - INFO - Req was made | / 
+28.12.2024, 2:13:14 - INFO - Req was made | / 
+28.12.2024, 2:13:14 - INFO - Req was made | / 
+28.12.2024, 2:13:16 - INFO - Req was made | / 
+28.12.2024, 2:13:17 - INFO - Req was made | / 
+28.12.2024, 2:13:22 - INFO - Req was made | / 
+28.12.2024, 2:14:37 - INFO - Req was made | / 
+28.12.2024, 2:14:52 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 2:14:52 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true"} 
+28.12.2024, 2:16:07 - INFO - Req was made | / 
+28.12.2024, 2:16:09 - INFO - Req was made | / 
+28.12.2024, 2:16:15 - INFO - Req was made | / 
+28.12.2024, 2:16:21 - INFO - Req was made | / 
+28.12.2024, 2:16:22 - INFO - Req was made | / 
+28.12.2024, 2:16:26 - INFO - Req was made | / 
+28.12.2024, 2:16:27 - INFO - Req was made | / 
+28.12.2024, 2:16:29 - INFO - Req was made | / 
+28.12.2024, 2:17:49 - INFO - server.js loaded... 
+28.12.2024, 2:17:49 - INFO - Server is running on port: 3030 
+28.12.2024, 2:17:55 - INFO - Req was made | / 
+28.12.2024, 2:17:59 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 2:17:59 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 2:18:04 - INFO - Req was made | / 
+28.12.2024, 2:18:23 - INFO - server.js loaded... 
+28.12.2024, 2:18:23 - INFO - Server is running on port: 3030 
+28.12.2024, 2:19:02 - DEBUG - auth.service - signup with username: happyhob, fullname: The Happy Hob 
+28.12.2024, 2:19:02 - DEBUG - auth.route - new account created: {"username":"happyhob","password":"$2b$10$YWgX9Ki/wz4P0EELn0pgE.iWC9YGWyRYIDu2PJ7NsNb0Hc1Ep9taK","fullname":"The Happy Hob","score":0,"_id":"676f35e601242b9ddda83d3b"} 
+28.12.2024, 2:19:02 - DEBUG - auth.service - login with username: happyhob 
+28.12.2024, 2:19:04 - INFO - Req was made | / 
+28.12.2024, 2:19:07 - INFO - Req was made | / 
+28.12.2024, 2:19:12 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 2:19:12 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 2:28:15 - INFO - Req was made | / 
+28.12.2024, 2:29:25 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 2:29:25 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 2:29:25 - INFO - Req was made | / 
+28.12.2024, 2:30:30 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 2:30:30 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 2:32:38 - INFO - server.js loaded... 
+28.12.2024, 2:32:39 - INFO - Server is running on port: 3030 
+28.12.2024, 2:33:24 - INFO - server.js loaded... 
+28.12.2024, 2:33:24 - INFO - Server is running on port: 3030 
+28.12.2024, 2:33:25 - INFO - Req was made | / 
+28.12.2024, 2:34:20 - INFO - server.js loaded... 
+28.12.2024, 2:34:20 - INFO - Server is running on port: 3030 
+28.12.2024, 2:35:07 - INFO - server.js loaded... 
+28.12.2024, 2:35:07 - INFO - Server is running on port: 3030 
+28.12.2024, 2:35:10 - INFO - server.js loaded... 
+28.12.2024, 2:35:10 - INFO - Server is running on port: 3030 
+28.12.2024, 2:35:11 - INFO - Req was made | / 
+28.12.2024, 2:35:51 - INFO - Req was made | / 
+28.12.2024, 2:36:24 - INFO - Req was made | / 
+28.12.2024, 2:38:10 - INFO - Req was made | / 
+28.12.2024, 2:39:41 - INFO - server.js loaded... 
+28.12.2024, 2:39:41 - INFO - Server is running on port: 3030 
+28.12.2024, 2:39:46 - INFO - server.js loaded... 
+28.12.2024, 2:39:46 - INFO - Server is running on port: 3030 
+28.12.2024, 2:39:47 - INFO - Req was made | / 
+28.12.2024, 2:40:14 - INFO - server.js loaded... 
+28.12.2024, 2:40:14 - INFO - Server is running on port: 3030 
+28.12.2024, 2:40:18 - INFO - server.js loaded... 
+28.12.2024, 2:40:18 - INFO - Server is running on port: 3030 
+28.12.2024, 2:40:19 - INFO - Req was made | / 
+28.12.2024, 2:40:26 - INFO - server.js loaded... 
+28.12.2024, 2:40:26 - INFO - Server is running on port: 3030 
+28.12.2024, 2:40:36 - INFO - server.js loaded... 
+28.12.2024, 2:40:36 - INFO - Server is running on port: 3030 
+28.12.2024, 2:40:41 - INFO - Req was made | / 
+28.12.2024, 2:40:42 - INFO - Req was made | / 
+28.12.2024, 2:40:51 - INFO - Server is running on port: 3030 
+28.12.2024, 2:40:51 - INFO - server.js loaded... 
+28.12.2024, 2:47:41 - INFO - Req was made | / 
+28.12.2024, 2:47:52 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 2:47:53 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 2:47:55 - INFO - Req was made | / 
+28.12.2024, 2:47:58 - INFO - Req was made | / 
+28.12.2024, 2:47:58 - INFO - Req was made | / 
+28.12.2024, 2:48:23 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 2:48:23 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 2:48:24 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 2:48:25 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 2:48:25 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 2:48:25 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 2:48:25 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 2:48:25 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 2:48:25 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 2:48:25 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 2:48:25 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 2:48:25 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 2:48:50 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 2:48:51 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 2:49:22 - INFO - Req was made | / 
+28.12.2024, 18:59:45 - INFO - Req was made | / 
+28.12.2024, 18:59:45 - INFO - Req was made | / 
+28.12.2024, 18:59:45 - INFO - Req was made | / 
+28.12.2024, 19:00:02 - INFO - Req was made | / 
+28.12.2024, 19:06:09 - INFO - Req was made | / 
+28.12.2024, 19:07:29 - INFO - Req was made | / 
+28.12.2024, 19:08:19 - INFO - Req was made | / 
+28.12.2024, 19:08:22 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 19:08:22 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 19:10:47 - INFO - Req was made | / 
+28.12.2024, 19:11:01 - INFO - Req was made | / 
+28.12.2024, 19:14:23 - INFO - server.js loaded... 
+28.12.2024, 19:14:23 - INFO - Server is running on port: 3030 
+28.12.2024, 19:14:26 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 19:14:26 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 19:14:46 - INFO - server.js loaded... 
+28.12.2024, 19:14:46 - INFO - Server is running on port: 3030 
+28.12.2024, 19:18:29 - INFO - Req was made | / 
+28.12.2024, 19:18:38 - INFO - Req was made | / 
+28.12.2024, 19:18:43 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 19:18:43 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 19:19:45 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 19:19:45 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 19:20:40 - INFO - Req was made | / 
+28.12.2024, 19:20:44 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 19:20:44 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 19:21:23 - INFO - Req was made | / 
+28.12.2024, 19:21:27 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 19:21:27 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 19:21:28 - INFO - Req was made | / 
+28.12.2024, 19:21:28 - INFO - Req was made | / 
+28.12.2024, 19:22:32 - INFO - Req was made | / 
+28.12.2024, 19:22:35 - INFO - Req was made | / 
+28.12.2024, 19:22:37 - INFO - Req was made | / 
+28.12.2024, 19:22:37 - INFO - Req was made | / 
+28.12.2024, 19:22:37 - INFO - Req was made | / 
+28.12.2024, 19:22:38 - INFO - Req was made | / 
+28.12.2024, 19:22:38 - INFO - Req was made | / 
+28.12.2024, 19:22:38 - INFO - Req was made | / 
+28.12.2024, 19:22:41 - INFO - Req was made | / 
+28.12.2024, 19:22:41 - INFO - Req was made | / 
+28.12.2024, 19:22:45 - INFO - Req was made | / 
+28.12.2024, 19:22:56 - INFO - Req was made | / 
+28.12.2024, 19:23:16 - INFO - Req was made | / 
+28.12.2024, 19:23:24 - INFO - Req was made | / 
+28.12.2024, 19:23:26 - INFO - Req was made | / 
+28.12.2024, 19:23:28 - INFO - Req was made | / 
+28.12.2024, 19:23:31 - INFO - Req was made | / 
+28.12.2024, 19:23:33 - INFO - Req was made | / 
+28.12.2024, 19:23:34 - INFO - Req was made | / 
+28.12.2024, 19:27:00 - INFO - server.js loaded... 
+28.12.2024, 19:27:00 - INFO - Server is running on port: 3030 
+28.12.2024, 19:30:04 - INFO - server.js loaded... 
+28.12.2024, 19:30:04 - INFO - Server is running on port: 3030 
+28.12.2024, 19:42:34 - INFO - server.js loaded... 
+28.12.2024, 19:42:34 - INFO - Server is running on port: 3030 
+28.12.2024, 19:42:42 - INFO - server.js loaded... 
+28.12.2024, 19:42:42 - INFO - Server is running on port: 3030 
+28.12.2024, 19:42:47 - ERROR - cannot find users | MongoServerError: Invalid $project :: caused by :: Cannot do inclusion on field name in exclusion projection 
+28.12.2024, 19:42:47 - ERROR - Failed to get users | MongoServerError: Invalid $project :: caused by :: Cannot do inclusion on field name in exclusion projection 
+28.12.2024, 19:44:14 - INFO - server.js loaded... 
+28.12.2024, 19:44:14 - INFO - Server is running on port: 3030 
+28.12.2024, 19:44:17 - ERROR - cannot find users | MongoServerError: Invalid $project :: caused by :: Cannot use expression other than $meta in exclusion projection 
+28.12.2024, 19:44:17 - ERROR - Failed to get users | MongoServerError: Invalid $project :: caused by :: Cannot use expression other than $meta in exclusion projection 
+28.12.2024, 19:45:19 - INFO - server.js loaded... 
+28.12.2024, 19:45:19 - INFO - Server is running on port: 3030 
+28.12.2024, 19:47:40 - INFO - server.js loaded... 
+28.12.2024, 19:47:40 - INFO - Server is running on port: 3030 
+28.12.2024, 19:47:52 - INFO - server.js loaded... 
+28.12.2024, 19:47:52 - INFO - Server is running on port: 3030 
+28.12.2024, 19:48:05 - INFO - server.js loaded... 
+28.12.2024, 19:48:05 - INFO - Server is running on port: 3030 
+28.12.2024, 19:48:20 - INFO - server.js loaded... 
+28.12.2024, 19:48:20 - INFO - Server is running on port: 3030 
+28.12.2024, 19:51:41 - INFO - Req was made | / 
+28.12.2024, 19:51:44 - INFO - Req was made | / 
+28.12.2024, 19:51:44 - INFO - Req was made | / 
+28.12.2024, 20:28:42 - INFO - Req was made | / 
+28.12.2024, 20:49:52 - INFO - Req was made | / 
+28.12.2024, 20:49:52 - INFO - Req was made | / 
+28.12.2024, 20:50:24 - INFO - Req was made | / 
+28.12.2024, 20:50:24 - INFO - Req was made | / 
+28.12.2024, 20:51:51 - INFO - Req was made | / 
+28.12.2024, 20:51:52 - INFO - Req was made | / 
+28.12.2024, 20:51:55 - INFO - Req was made | / 
+28.12.2024, 20:51:55 - INFO - Req was made | / 
+28.12.2024, 20:52:34 - INFO - Req was made | / 
+28.12.2024, 20:52:34 - INFO - Req was made | / 
+28.12.2024, 20:52:41 - INFO - Req was made | / 
+28.12.2024, 20:53:30 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 20:53:30 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 20:53:57 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 20:53:57 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 20:54:14 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 20:54:14 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":0,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735341336/joczszumqm7rfe1ilkcr.png"} 
+28.12.2024, 20:54:17 - INFO - Req was made | / 
+28.12.2024, 20:54:17 - INFO - Req was made | / 
+28.12.2024, 20:54:17 - INFO - Req was made | / 
+28.12.2024, 20:56:48 - INFO - Req was made | / 
+28.12.2024, 20:56:48 - INFO - Req was made | / 
+28.12.2024, 20:58:11 - INFO - Req was made | / 
+28.12.2024, 20:58:11 - INFO - Req was made | / 
+28.12.2024, 20:58:41 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 20:58:41 - ERROR - Failed to Login Error: Invalid username or password 
+28.12.2024, 20:58:47 - INFO - Req was made | / 
+28.12.2024, 20:58:49 - INFO - Req was made | / 
+28.12.2024, 20:59:36 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 20:59:36 - ERROR - Failed to Login Error: Invalid username or password 
+28.12.2024, 20:59:50 - INFO - Req was made | / 
+28.12.2024, 20:59:53 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 20:59:53 - ERROR - Failed to Login Error: Invalid username or password 
+28.12.2024, 21:01:33 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 21:01:33 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":null,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735408710/hepjvmdasjukjlscjs6z.png"} 
+28.12.2024, 21:01:36 - INFO - Req was made | / 
+28.12.2024, 21:01:36 - INFO - Req was made | / 
+28.12.2024, 21:02:31 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 21:02:31 - ERROR - Failed to Login Error: Invalid username or password 
+28.12.2024, 21:02:33 - INFO - Req was made | / 
+28.12.2024, 21:02:35 - INFO - Req was made | / 
+28.12.2024, 21:02:46 - INFO - Req was made | / 
+28.12.2024, 21:02:54 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 21:02:54 - ERROR - Failed to Login Error: Invalid username or password 
+28.12.2024, 21:03:21 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 21:03:21 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":null,"isAdmin":null,"imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735408931/pv1h4spazqgwsmcft5h1.png"} 
+28.12.2024, 21:03:32 - INFO - Req was made | / 
+28.12.2024, 21:03:32 - INFO - Req was made | / 
+28.12.2024, 21:03:33 - INFO - Req was made | / 
+28.12.2024, 21:03:36 - INFO - Req was made | / 
+28.12.2024, 21:03:39 - INFO - Req was made | / 
+28.12.2024, 21:03:41 - INFO - Req was made | / 
+28.12.2024, 21:03:42 - INFO - Req was made | / 
+28.12.2024, 21:04:12 - INFO - Req was made | / 
+28.12.2024, 21:04:16 - DEBUG - auth.service - login with username: admin 
+28.12.2024, 21:04:16 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":null,"isAdmin":true,"imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735408931/pv1h4spazqgwsmcft5h1.png"} 
+29.12.2024, 2:02:31 - INFO - Req was made | / 
+29.12.2024, 2:02:42 - INFO - Req was made | / 
+29.12.2024, 2:12:51 - INFO - server.js loaded... 
+29.12.2024, 2:12:52 - INFO - Server is running on port: 3030 
+29.12.2024, 2:32:17 - INFO - server.js loaded... 
+29.12.2024, 2:32:17 - INFO - Server is running on port: 3030 
+29.12.2024, 2:33:28 - DEBUG - auth.service - login with username: admin 
+29.12.2024, 2:33:28 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":null,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735428786/dlwbpoqx744cfwjvfugt.png"} 
+29.12.2024, 2:35:58 - DEBUG - auth.service - login with username: admin 
+29.12.2024, 2:35:58 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":null,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735428852/hukbdn03w9wq1blmxyi5.png"} 
+29.12.2024, 2:44:14 - INFO - Req was made | / 
+29.12.2024, 2:44:47 - INFO - Req was made | / 
+29.12.2024, 2:44:51 - INFO - Req was made | / 
+29.12.2024, 2:44:51 - INFO - Req was made | / 
+29.12.2024, 2:44:53 - INFO - Req was made | / 
+29.12.2024, 2:45:19 - DEBUG - auth.service - login with username: admin 
+29.12.2024, 2:45:19 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":null,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735429446/eerfsta4nsh2erixzg3v.png"} 
+29.12.2024, 2:45:22 - INFO - Req was made | / 
+29.12.2024, 2:45:23 - INFO - Req was made | / 
+29.12.2024, 2:46:40 - INFO - Req was made | / 
+29.12.2024, 2:46:40 - INFO - Req was made | / 
+29.12.2024, 2:46:40 - INFO - Req was made | / 
+29.12.2024, 2:46:50 - INFO - Req was made | / 
+29.12.2024, 2:46:50 - INFO - Req was made | / 
+29.12.2024, 2:47:35 - INFO - Req was made | / 
+29.12.2024, 2:47:37 - INFO - Req was made | / 
+29.12.2024, 2:47:52 - INFO - Req was made | / 
+29.12.2024, 2:47:52 - INFO - Req was made | / 
+29.12.2024, 2:47:52 - INFO - Req was made | / 
+29.12.2024, 2:49:42 - INFO - Req was made | / 
+29.12.2024, 2:49:42 - INFO - Req was made | / 
+29.12.2024, 2:59:35 - INFO - Req was made | / 
+29.12.2024, 2:59:35 - INFO - Req was made | / 
+29.12.2024, 2:59:36 - INFO - Req was made | / 
+29.12.2024, 2:59:36 - INFO - Req was made | / 
+29.12.2024, 2:59:41 - INFO - Req was made | / 
+29.12.2024, 2:59:47 - INFO - Req was made | / 
+29.12.2024, 3:00:02 - INFO - Req was made | / 
+29.12.2024, 3:00:04 - INFO - Req was made | / 
+29.12.2024, 3:00:04 - INFO - Req was made | / 
+29.12.2024, 3:00:07 - INFO - Req was made | / 
+29.12.2024, 3:00:38 - INFO - Req was made | / 
+29.12.2024, 3:03:14 - DEBUG - auth.service - login with username: mattel 
+29.12.2024, 3:03:14 - INFO - User login:  | {"_id":"675b8abc5ae5b385bcef5d40","username":"mattel","fullname":"Mattel","score":null,"imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735429577/vppnyaivadaaimxxsscb.png","isAdmin":null} 
+29.12.2024, 3:05:01 - INFO - Req was made | / 
+29.12.2024, 3:05:03 - INFO - Req was made | / 
+29.12.2024, 3:05:03 - INFO - Req was made | / 
+29.12.2024, 3:05:14 - INFO - Req was made | / 
+29.12.2024, 3:05:41 - INFO - Req was made | / 
+29.12.2024, 3:05:41 - INFO - Req was made | / 
+29.12.2024, 3:05:41 - INFO - Req was made | / 
+29.12.2024, 3:05:45 - INFO - Req was made | / 
+29.12.2024, 3:05:49 - INFO - Req was made | / 
+29.12.2024, 3:05:50 - INFO - Req was made | / 
+29.12.2024, 3:06:59 - INFO - Req was made | / 
+29.12.2024, 3:06:59 - INFO - Req was made | / 
+29.12.2024, 3:07:56 - INFO - Req was made | / 
+29.12.2024, 3:07:56 - INFO - Req was made | / 
+29.12.2024, 3:12:16 - INFO - Req was made | / 
+29.12.2024, 3:12:16 - INFO - Req was made | / 
+29.12.2024, 3:12:16 - INFO - Req was made | / 
+29.12.2024, 3:12:37 - INFO - Req was made | / 
+29.12.2024, 3:12:37 - INFO - Req was made | / 
+29.12.2024, 3:12:41 - INFO - Req was made | / 
+29.12.2024, 3:14:39 - INFO - Req was made | / 
+29.12.2024, 3:14:43 - INFO - Req was made | / 
+29.12.2024, 3:14:43 - INFO - Req was made | / 
+29.12.2024, 3:14:46 - INFO - Req was made | / 
+29.12.2024, 3:14:48 - INFO - Req was made | / 
+29.12.2024, 3:14:56 - DEBUG - auth.service - login with username: happyhob 
+29.12.2024, 3:14:56 - INFO - User login:  | {"_id":"676f35e601242b9ddda83d3b","username":"happyhob","fullname":"The Happy Hob","score":0,"imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735342061/b5fy0bbm1bn3q4y7uawt.jpg","isAdmin":null} 
+29.12.2024, 3:14:58 - INFO - Req was made | / 
+29.12.2024, 3:14:58 - INFO - Req was made | / 
+29.12.2024, 3:15:08 - INFO - Req was made | / 
+29.12.2024, 3:15:09 - INFO - Req was made | / 
+29.12.2024, 3:15:11 - INFO - Req was made | / 
+29.12.2024, 3:15:12 - INFO - Req was made | / 
+29.12.2024, 3:15:12 - INFO - Req was made | / 
+29.12.2024, 3:15:12 - INFO - Req was made | / 
+29.12.2024, 3:15:12 - INFO - Req was made | / 
+29.12.2024, 3:15:12 - INFO - Req was made | / 
+29.12.2024, 3:15:39 - INFO - Req was made | / 
+29.12.2024, 3:15:43 - DEBUG - auth.service - login with username: admin 
+29.12.2024, 3:15:44 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":null,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735430406/kyfpreupalklpn72zzz3.png"} 
+29.12.2024, 3:16:40 - INFO - Req was made | / 
+29.12.2024, 3:16:40 - INFO - Req was made | / 
+29.12.2024, 3:16:52 - INFO - Req was made | / 
+29.12.2024, 3:26:49 - INFO - server.js loaded... 
+29.12.2024, 3:26:49 - INFO - Server is running on port: 3030 
+29.12.2024, 3:27:32 - INFO - server.js loaded... 
+29.12.2024, 3:27:32 - INFO - Server is running on port: 3030 
+29.12.2024, 3:30:15 - INFO - server.js loaded... 
+29.12.2024, 3:30:15 - INFO - Server is running on port: 3030 
+29.12.2024, 3:30:51 - INFO - Req was made | / 
+29.12.2024, 3:31:18 - DEBUG - auth.service - login with username: admin 
+29.12.2024, 3:31:18 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":null,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735430406/kyfpreupalklpn72zzz3.png"} 
+29.12.2024, 3:31:25 - INFO - Req was made | / 
+29.12.2024, 3:31:42 - INFO - Req was made | / 
+29.12.2024, 3:31:42 - INFO - Req was made | / 
+29.12.2024, 3:32:03 - INFO - server.js loaded... 
+29.12.2024, 3:32:03 - INFO - Server is running on port: 3030 
+29.12.2024, 3:32:18 - INFO - Req was made | / 
+29.12.2024, 3:32:23 - DEBUG - auth.service - login with username: admin 
+29.12.2024, 3:32:24 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":null,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735430406/kyfpreupalklpn72zzz3.png"} 

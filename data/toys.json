@@ -1,0 +1,145 @@
+[
+    {
+        "_id": "W8651",
+        "createdAt": 1733441900697,
+        "updatedAt": 1733441900697,
+        "name": "Barbie",
+        "price": 69,
+        "owner": {
+            "fullname": "Mattel",
+            "_id": "j2VIj"
+        },
+        "labels": [
+            "Box game"
+        ],
+        "inStock": false
+    },
+    {
+        "_id": "WdVQc",
+        "createdAt": 1733420473805,
+        "updatedAt": 1733420473805,
+        "name": "Cuddle Bear 2",
+        "price": 75,
+        "owner": {
+            "fullname": "Admin",
+            "_id": "u101"
+        },
+        "labels": [
+            "Art"
+        ],
+        "inStock": false
+    },
+    {
+        "_id": "GcitX",
+        "createdAt": 1670090156835,
+        "updatedAt": 1733420508364,
+        "name": "Cuddly Bear",
+        "price": 74,
+        "labels": [
+            "Outdoor",
+            "Battery Powered",
+            "Art"
+        ],
+        "inStock": true
+    },
+    {
+        "_id": "eXBZd",
+        "name": "Talking Tina",
+        "price": 142,
+        "labels": [
+            "On wheels",
+            "Art",
+            "Battery Powered"
+        ],
+        "createdAt": 1670537524499,
+        "inStock": true
+    },
+    {
+        "_id": "urgqa",
+        "name": "Magical Unicorn",
+        "price": 67,
+        "labels": [
+            "Baby"
+        ],
+        "createdAt": 1693114663860,
+        "inStock": true
+    },
+    {
+        "_id": "g40R9",
+        "name": "Turbo Racer",
+        "price": 115,
+        "labels": [
+            "Art",
+            "Baby"
+        ],
+        "createdAt": 1602635579518,
+        "inStock": false
+    },
+    {
+        "_id": "3qUX7",
+        "name": "Monster Truck Madness",
+        "price": 34,
+        "labels": [
+            "Puzzle",
+            "Art",
+            "Box game"
+        ],
+        "createdAt": 1606958822763,
+        "inStock": true
+    },
+    {
+        "_id": "6witB",
+        "name": "Brain Teaser Blocks",
+        "price": 92,
+        "labels": [
+            "Outdoor",
+            "Battery Powered"
+        ],
+        "createdAt": 1675733612678,
+        "inStock": false
+    },
+    {
+        "_id": "biU0X",
+        "name": "Water Blaster 3000",
+        "price": 125,
+        "labels": [
+            "On wheels",
+            "Baby",
+            "Puzzle"
+        ],
+        "createdAt": 1613488990163,
+        "inStock": true
+    },
+    {
+        "_id": "YJJa5",
+        "name": "Scribble and Sketch",
+        "price": 182,
+        "labels": [
+            "Box game",
+            "Baby"
+        ],
+        "createdAt": 1654671917963,
+        "inStock": true
+    },
+    {
+        "_id": "E8hLC",
+        "createdAt": 1650261703751,
+        "updatedAt": 1733436433034,
+        "name": "Color Magic Kit",
+        "price": 187,
+        "labels": [
+            "Doll"
+        ],
+        "inStock": true
+    },
+    {
+        "_id": "sv7U8",
+        "name": "Laser Battle Bots",
+        "price": 167,
+        "labels": [
+            "Art"
+        ],
+        "createdAt": 1606032819482,
+        "inStock": true
+    }
+]

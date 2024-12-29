@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "u101",
+    "username": "admin",
+    "fullname": "Admin",
+    "password": "admin",
+    "score": 100,
+    "isAdmin": true
+  },
+  {
+    "username": "mattel",
+    "password": "mattel",
+    "fullname": "Mattel",
+    "_id": "j2VIj"
+  },
+  {
+    "username": "pookie",
+    "password": "pookie",
+    "fullname": "Pookie",
+    "_id": "ko7mf"
+  }
+]
