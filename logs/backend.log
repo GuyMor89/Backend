@@ -2706,3 +2706,5 @@
 29.12.2024, 3:32:18 - INFO - Req was made | / 
 29.12.2024, 3:32:23 - DEBUG - auth.service - login with username: admin 
 29.12.2024, 3:32:24 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":null,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735430406/kyfpreupalklpn72zzz3.png"} 
+29.12.2024, 3:39:32 - INFO - server.js loaded... 
+29.12.2024, 3:39:32 - INFO - Server is running on port: 3030 
