@@ -94,8 +94,10 @@ async function add({ loggedinUser, params, body }) {
 async function remove(reviewID) {
 	try {
 		const collection = await dbService.getCollection('reviews')
-		await collection.deleteOne({ _id: ObjectId.isValid(reviewID) ? ObjectId.createFromHexString(reviewID) : reviewID })
-	} catch (err) {
+        const { deletedCount } = await collection.deleteOne({_id: ObjectId.createFromHexString(reviewID)})
+        console.log(deletedCount)
+        return deletedCount
+    } catch (err) {
 		logger.error(`cannot remove toy ${reviewID}`, err)
 		throw err
 	}

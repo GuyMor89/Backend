@@ -1,5 +1,6 @@
 import { reviewHandler } from './reviews.handler.js'
 import { logger } from '../../services/logger.service.js'
+import { broadcastUserAddedReview, broadcastUserRemovedReview, socketService } from '../../services/socket.service.js'
 
 export async function getReviews(req, res) {
     try {
@@ -24,6 +25,7 @@ export async function getFullReviews(req, res) {
 export async function addReview(req, res) {
     try {
         const addedReview = await reviewHandler.add(req)
+        broadcastUserAddedReview(addedReview, req.loggedinUser)
         res.json(addedReview)
     } catch (err) {
         logger.error('Failed to add review', err)
@@ -32,13 +34,21 @@ export async function addReview(req, res) {
 }
 
 export async function removeReview(req, res) {
+    const { loggedinUser } = req
     const { id } = req.params
+
     try {
-        await reviewHandler.remove(id)
-        res.json(id)
+        const deletedCount = await reviewHandler.remove(id)
+        if (deletedCount === 1) {
+            broadcastUserRemovedReview(id, loggedinUser._id)
+            res.send({ msg: 'Deleted successfully' })
+        } else {
+            res.status(400).send({ err: 'Cannot remove review' })
+        }
+        // res.json(id)
     } catch (err) {
-        logger.error('Failed to add review', err)
-        res.status(500).send({ err: 'Failed to add review' })
+        logger.error('Failed to remove review', err)
+        res.status(400).send({ err: 'Failed to remove review' })
     }
 }
 
