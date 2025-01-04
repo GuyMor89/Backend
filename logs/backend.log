@@ -5409,3 +5409,10 @@
 4.1.2025, 4:49:01 - INFO - Broadcasting event: user-is-typing 
 4.1.2025, 4:49:01 - INFO - Broadcast to room Love excluding user: 676b63f03cd8ed37c750fc17 
 4.1.2025, 4:49:17 - INFO - Req was made | / 
+4.1.2025, 4:56:29 - INFO - server.js loaded... 
+4.1.2025, 4:56:29 - INFO - Server is running on port: 3030 
+4.1.2025, 4:56:30 - INFO - New connected socket [id: eyOeITenUimuqSeNAAAB] 
+4.1.2025, 4:56:31 - INFO - server.js loaded... 
+4.1.2025, 4:56:31 - INFO - Server is running on port: 3030 
+4.1.2025, 4:56:31 - INFO - New connected socket [id: WnijfLau2YKM_lbBAAAB] 
+4.1.2025, 4:56:32 - INFO - New connected socket [id: g4DgYcAoX7a2eL-VAAAD] 
