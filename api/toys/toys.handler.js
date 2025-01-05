@@ -62,7 +62,7 @@ async function getById(toyId) {
 		const collection = await dbService.getCollection('toys')
 		const toy = await collection.findOne({ _id: ObjectId.isValid(toyId) ? ObjectId.createFromHexString(toyId) : toyId })
 
-		toy.createdAt = toy.updatedAt = toy._id.getTimestamp()
+		toy.createdAt = toy._id.getTimestamp()
 		return toy
 	} catch (err) {
 		logger.error(`while finding toy ${toyId}`, err)
@@ -118,7 +118,6 @@ async function add(toy) {
 async function update(toy) {
 	try {
 		const toyToSave = {
-			// _id: toy._id,
 			_id: ObjectId.createFromHexString(toy._id),
 			updatedAt: Date.now(),
 			name: toy.name,

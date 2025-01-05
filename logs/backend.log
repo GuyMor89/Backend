@@ -5416,3 +5416,155 @@
 4.1.2025, 4:56:31 - INFO - Server is running on port: 3030 
 4.1.2025, 4:56:31 - INFO - New connected socket [id: WnijfLau2YKM_lbBAAAB] 
 4.1.2025, 4:56:32 - INFO - New connected socket [id: g4DgYcAoX7a2eL-VAAAD] 
+5.1.2025, 18:12:35 - INFO - server.js loaded... 
+5.1.2025, 18:12:35 - INFO - Server is running on port: 3030 
+5.1.2025, 18:13:20 - INFO - server.js loaded... 
+5.1.2025, 18:13:20 - INFO - Server is running on port: 3030 
+5.1.2025, 18:13:21 - INFO - New connected socket [id: qJsjrYQnqCFb2I8TAAAB] 
+5.1.2025, 18:13:27 - DEBUG - auth.service - login with username: admin 
+5.1.2025, 18:13:28 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":null,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735430406/kyfpreupalklpn72zzz3.png"} 
+5.1.2025, 18:16:48 - INFO - server.js loaded... 
+5.1.2025, 18:16:48 - INFO - Server is running on port: 3030 
+5.1.2025, 18:16:50 - INFO - New connected socket [id: V4dqzMN3AAiD7T16AAAB] 
+5.1.2025, 18:16:56 - DEBUG - auth.service - login with username: admin 
+5.1.2025, 18:16:56 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":null,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735430406/kyfpreupalklpn72zzz3.png"} 
+5.1.2025, 18:27:38 - INFO - Socket disconnected [id: undefined] 
+5.1.2025, 18:41:58 - INFO - New connected socket [id: bkEt4N9TM2bR4NMjAAAD] 
+5.1.2025, 18:58:37 - INFO - Socket disconnected [id: undefined] 
+5.1.2025, 19:14:12 - INFO - New connected socket [id: uobbpWd5lGW4giRBAAAF] 
+5.1.2025, 19:20:09 - INFO - server.js loaded... 
+5.1.2025, 19:20:09 - INFO - Server is running on port: 3030 
+5.1.2025, 19:20:10 - INFO - New connected socket [id: QjVrK5AJVo8JGlDgAAAB] 
+5.1.2025, 19:20:17 - INFO - server.js loaded... 
+5.1.2025, 19:20:17 - INFO - Server is running on port: 3030 
+5.1.2025, 19:20:19 - INFO - New connected socket [id: D6hqWf_Q1yPzjj8dAAAB] 
+5.1.2025, 19:20:23 - DEBUG - auth.service - login with username: admin 
+5.1.2025, 19:20:24 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":null,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735430406/kyfpreupalklpn72zzz3.png"} 
+5.1.2025, 19:24:43 - INFO - server.js loaded... 
+5.1.2025, 19:24:43 - INFO - Server is running on port: 3030 
+5.1.2025, 19:24:43 - INFO - New connected socket [id: -im_mj2hUhvy_O8zAAAB] 
+5.1.2025, 19:24:45 - INFO - Socket disconnected [id: undefined] 
+5.1.2025, 19:24:46 - INFO - New connected socket [id: cEXCXUx8iv_Cw65ZAAAD] 
+5.1.2025, 19:24:46 - INFO - Setting socket.userId = 676b63f03cd8ed37c750fc17 for socket [id: cEXCXUx8iv_Cw65ZAAAD] 
+5.1.2025, 19:24:47 - INFO - Req was made | / 
+5.1.2025, 19:25:09 - INFO - server.js loaded... 
+5.1.2025, 19:25:09 - INFO - Server is running on port: 3030 
+5.1.2025, 19:25:10 - INFO - New connected socket [id: lgJbGIefVS8T3vxjAAAB] 
+5.1.2025, 19:30:22 - INFO - server.js loaded... 
+5.1.2025, 19:30:22 - INFO - Server is running on port: 3030 
+5.1.2025, 19:30:24 - INFO - New connected socket [id: NgyJ5mw9TOTOX6uqAAAB] 
+5.1.2025, 19:30:33 - INFO - Server is running on port: 3030 
+5.1.2025, 19:30:33 - INFO - server.js loaded... 
+5.1.2025, 19:30:34 - INFO - New connected socket [id: 191pwDzTinVn7NjqAAAB] 
+5.1.2025, 19:32:43 - INFO - server.js loaded... 
+5.1.2025, 19:32:43 - INFO - Server is running on port: 3030 
+5.1.2025, 19:32:45 - INFO - New connected socket [id: 5Ql_IeDbbJUe1f23AAAB] 
+5.1.2025, 19:35:48 - INFO - Server is running on port: 3030 
+5.1.2025, 19:35:48 - INFO - server.js loaded... 
+5.1.2025, 19:35:50 - INFO - New connected socket [id: OFb4O8puTxzlO_bMAAAB] 
+5.1.2025, 19:41:28 - INFO - server.js loaded... 
+5.1.2025, 19:41:28 - INFO - Server is running on port: 3030 
+5.1.2025, 19:41:30 - INFO - New connected socket [id: N1HTmdaaU63T0nmcAAAB] 
+5.1.2025, 19:44:41 - INFO - server.js loaded... 
+5.1.2025, 19:44:41 - INFO - Server is running on port: 3030 
+5.1.2025, 19:44:43 - INFO - New connected socket [id: WguIG2hjFqsbMQOwAAAB] 
+5.1.2025, 19:48:38 - INFO - server.js loaded... 
+5.1.2025, 19:48:38 - INFO - Server is running on port: 3030 
+5.1.2025, 19:48:38 - INFO - New connected socket [id: _Efl_dsjc80kDIzDAAAB] 
+5.1.2025, 19:53:36 - INFO - server.js loaded... 
+5.1.2025, 19:53:36 - INFO - Server is running on port: 3030 
+5.1.2025, 19:53:38 - INFO - New connected socket [id: sX8wvpTfrvQQVa7JAAAB] 
+5.1.2025, 20:33:16 - INFO - server.js loaded... 
+5.1.2025, 20:33:16 - INFO - Server is running on port: 3030 
+5.1.2025, 20:33:17 - INFO - server.js loaded... 
+5.1.2025, 20:33:17 - INFO - Server is running on port: 3030 
+5.1.2025, 20:33:18 - INFO - New connected socket [id: 83N5ETRJTZvWIi_tAAAB] 
+5.1.2025, 20:37:40 - INFO - server.js loaded... 
+5.1.2025, 20:37:40 - INFO - Server is running on port: 3030 
+5.1.2025, 20:37:41 - INFO - New connected socket [id: OqsGFJFTmV8WR6hEAAAB] 
+5.1.2025, 20:38:02 - INFO - server.js loaded... 
+5.1.2025, 20:38:02 - INFO - Server is running on port: 3030 
+5.1.2025, 20:38:04 - INFO - New connected socket [id: b-k-19zxfw4T8AMHAAAB] 
+5.1.2025, 20:38:06 - INFO - Socket disconnected [id: undefined] 
+5.1.2025, 20:38:06 - INFO - New connected socket [id: YHvmVdZ6QALdmjFXAAAD] 
+5.1.2025, 20:38:06 - INFO - Req was made | / 
+5.1.2025, 20:38:06 - INFO - Setting socket.userId = 676b63f03cd8ed37c750fc17 for socket [id: YHvmVdZ6QALdmjFXAAAD] 
+5.1.2025, 20:38:35 - INFO - server.js loaded... 
+5.1.2025, 20:38:35 - INFO - Server is running on port: 3030 
+5.1.2025, 20:38:36 - INFO - New connected socket [id: uMfeD3rs4kPo_LC2AAAB] 
+5.1.2025, 20:39:21 - INFO - Socket disconnected [id: undefined] 
+5.1.2025, 22:01:10 - INFO - New connected socket [id: GMTcNq2UlmIUzhPDAAAD] 
+5.1.2025, 22:02:16 - INFO - server.js loaded... 
+5.1.2025, 22:02:16 - INFO - Server is running on port: 3030 
+5.1.2025, 22:02:18 - INFO - New connected socket [id: RRxCLK84ieBxbXqYAAAB] 
+5.1.2025, 22:02:47 - INFO - server.js loaded... 
+5.1.2025, 22:02:47 - INFO - Server is running on port: 3030 
+5.1.2025, 22:02:49 - INFO - New connected socket [id: U591BH8CjdrO9isCAAAB] 
+5.1.2025, 22:04:39 - INFO - server.js loaded... 
+5.1.2025, 22:04:39 - INFO - Server is running on port: 3030 
+5.1.2025, 22:04:40 - INFO - New connected socket [id: nTEjUin7lKI6rx4hAAAB] 
+5.1.2025, 22:04:46 - INFO - server.js loaded... 
+5.1.2025, 22:04:46 - INFO - Server is running on port: 3030 
+5.1.2025, 22:04:48 - INFO - server.js loaded... 
+5.1.2025, 22:04:48 - INFO - Server is running on port: 3030 
+5.1.2025, 22:04:50 - INFO - New connected socket [id: 23xkkfhOMn2BklvUAAAB] 
+5.1.2025, 22:04:57 - INFO - server.js loaded... 
+5.1.2025, 22:04:57 - INFO - Server is running on port: 3030 
+5.1.2025, 22:04:59 - INFO - New connected socket [id: Y3rUmITOUXEKyuTNAAAB] 
+5.1.2025, 22:06:40 - INFO - Currently using: Atlas 
+5.1.2025, 22:06:40 - INFO - server.js loaded... 
+5.1.2025, 22:06:40 - INFO - Server is running on port: 3030 
+5.1.2025, 22:06:41 - INFO - New connected socket [id: 7N7JHX9vG4OEcF5-AAAB] 
+5.1.2025, 22:08:39 - INFO - Currently using: Atlas
+5.1.2025, 22:08:39 - INFO - Server is running on port: 3030
+5.1.2025, 22:08:39 - INFO - server.js loaded...
+5.1.2025, 22:08:40 - INFO - New connected socket [id: 4Dgx9ATwwP1D6OrsAAAB]
+5.1.2025, 22:13:23 - DEBUG - auth.service - login with username: admin
+5.1.2025, 22:13:24 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":null,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735430406/kyfpreupalklpn72zzz3.png"}
+5.1.2025, 22:24:50 - INFO - Currently using: Atlas
+5.1.2025, 22:24:50 - INFO - server.js loaded...
+5.1.2025, 22:24:50 - INFO - Server is running on port: 3030
+5.1.2025, 22:24:51 - INFO - New connected socket [id: ZRy-05vv6F4dIAbCAAAB]
+5.1.2025, 22:26:22 - INFO - Currently using: Atlas
+5.1.2025, 22:26:22 - INFO - server.js loaded...
+5.1.2025, 22:26:22 - INFO - Server is running on port: 3030
+5.1.2025, 22:26:24 - INFO - New connected socket [id: lkVjgTlKaxuOzCdmAAAB]
+5.1.2025, 22:26:58 - INFO - Currently using: Atlas
+5.1.2025, 22:26:58 - INFO - server.js loaded...
+5.1.2025, 22:26:58 - INFO - Server is running on port: 3030
+5.1.2025, 22:27:00 - INFO - New connected socket [id: yV5eE68b3DtauxinAAAB]
+5.1.2025, 22:27:47 - DEBUG - auth.service - login with username: admin
+5.1.2025, 22:27:48 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":null,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735430406/kyfpreupalklpn72zzz3.png"}
+5.1.2025, 22:29:29 - INFO - Currently using: Atlas
+5.1.2025, 22:29:29 - INFO - server.js loaded...
+5.1.2025, 22:29:29 - INFO - Server is running on port: 3030
+5.1.2025, 22:29:30 - INFO - New connected socket [id: ds6sRNr3Lq0_-q7xAAAB]
+5.1.2025, 22:29:34 - INFO - User logged out successfully
+5.1.2025, 22:33:12 - INFO - Currently using: Atlas
+5.1.2025, 22:33:12 - INFO - server.js loaded...
+5.1.2025, 22:33:12 - INFO - Server is running on port: 3030
+5.1.2025, 22:33:14 - INFO - New connected socket [id: gBiknpJC7XRSht3TAAAB]
+5.1.2025, 22:38:20 - DEBUG - auth.service - login with username: admin
+5.1.2025, 22:38:20 - INFO - User login:  | {"_id":"676b63f03cd8ed37c750fc17","username":"admin","fullname":"Admin","score":null,"isAdmin":"true","imgURL":"https://res.cloudinary.com/dtkjyqiap/image/upload/v1735430406/kyfpreupalklpn72zzz3.png"}
+5.1.2025, 22:40:50 - INFO - Broadcasting event: user-added-review | 676b63f03cd8ed37c750fc17
+5.1.2025, 22:40:50 - INFO - Emit to all | 676b63f03cd8ed37c750fc17
+5.1.2025, 22:43:59 - INFO - Broadcasting event: user-added-review | 676b63f03cd8ed37c750fc17
+5.1.2025, 22:43:59 - INFO - Emit to all | 676b63f03cd8ed37c750fc17
+5.1.2025, 22:45:05 - INFO - Socket disconnected [id: undefined]
+5.1.2025, 22:45:05 - INFO - New connected socket [id: Y1e2djPz_6xehV52AAAD]
+5.1.2025, 22:45:05 - INFO - Setting socket.userId = 676b63f03cd8ed37c750fc17 for socket [id: Y1e2djPz_6xehV52AAAD]
+5.1.2025, 22:45:32 - ERROR - cannot remove toy "677ae042f52257157eb6906a" | BSONError: hex string must be 24 characters | 676b63f03cd8ed37c750fc17
+5.1.2025, 22:45:32 - ERROR - Failed to remove review | BSONError: hex string must be 24 characters | 676b63f03cd8ed37c750fc17
+5.1.2025, 22:47:00 - INFO - Broadcasting event: user-removed-review | 676b63f03cd8ed37c750fc17
+5.1.2025, 22:47:00 - INFO - Broadcast to all excluding user: 676b63f03cd8ed37c750fc17 | 676b63f03cd8ed37c750fc17
+5.1.2025, 22:47:17 - INFO - Socket disconnected [id: undefined]
+5.1.2025, 22:47:17 - INFO - New connected socket [id: 3AEa3aeX8Rsjr5EDAAAF]
+5.1.2025, 22:47:17 - INFO - Setting socket.userId = 676b63f03cd8ed37c750fc17 for socket [id: 3AEa3aeX8Rsjr5EDAAAF]
+5.1.2025, 22:49:07 - INFO - Currently using: Atlas
+5.1.2025, 22:49:07 - INFO - server.js loaded...
+5.1.2025, 22:49:07 - INFO - Server is running on port: 3030
+5.1.2025, 22:49:09 - INFO - New connected socket [id: qqIzZqgsooZcUi3EAAAB]
+5.1.2025, 22:53:22 - INFO - Currently using: Atlas
+5.1.2025, 22:53:22 - INFO - server.js loaded...
+5.1.2025, 22:53:22 - INFO - Server is running on port: 3030
+5.1.2025, 22:53:23 - INFO - New connected socket [id: WglQArp4NKwXl6llAAAB]

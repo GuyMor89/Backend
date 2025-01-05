@@ -8,6 +8,7 @@
 // node --env-file=.env server.js
 
 export default {
+    dbType: 'prod',
     dbURL: process.env.DB_URL,
     dbName: process.env.DB_NAME
 }

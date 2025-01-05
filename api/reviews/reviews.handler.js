@@ -16,7 +16,7 @@ async function get() {
         const reviews = await collection.find().toArray()
         return reviews
     } catch (err) {
-        console.log('ERROR: cannot find toys')
+        logger.error('ERROR: cannot find reviews')
         throw err
     }
 }
@@ -95,10 +95,9 @@ async function remove(reviewID) {
 	try {
 		const collection = await dbService.getCollection('reviews')
         const { deletedCount } = await collection.deleteOne({_id: ObjectId.createFromHexString(reviewID)})
-        console.log(deletedCount)
         return deletedCount
     } catch (err) {
-		logger.error(`cannot remove toy ${reviewID}`, err)
+		logger.error(`cannot remove review ${reviewID}`, err)
 		throw err
 	}
 }

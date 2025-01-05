@@ -1,6 +1,6 @@
 import { reviewHandler } from './reviews.handler.js'
 import { logger } from '../../services/logger.service.js'
-import { broadcastUserAddedReview, broadcastUserRemovedReview, socketService } from '../../services/socket.service.js'
+import { broadcastUserAddedReview, broadcastUserRemovedReview } from '../../services/socket.service.js'
 
 export async function getReviews(req, res) {
     try {

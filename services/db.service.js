@@ -1,24 +1,22 @@
 import { MongoClient } from 'mongodb'
-
+import { logger } from './logger.service.js'
 import { config } from '../config/index.js'
 
-export const dbService = {
-    getCollection
-}
+export const dbService = {getCollection}
 
 var dbConn = null
 
-console.log(config)
+logger.info(`Currently using: ${config.dbType === 'dev' ? 'Compass' : 'Atlas'}`)
 
 async function getCollection(collectionName) {
-	try {
-		const db = await _connect()
-		const collection = await db.collection(collectionName)
-		return collection
-	} catch (err) {
-		logger.error('Failed to get Mongo collection', err)
-		throw err
-	}
+    try {
+        const db = await _connect()
+        const collection = await db.collection(collectionName)
+        return collection
+    } catch (err) {
+        logger.error('Failed to get Mongo collection', err)
+        throw err
+    }
 }
 
 async function _connect() {
